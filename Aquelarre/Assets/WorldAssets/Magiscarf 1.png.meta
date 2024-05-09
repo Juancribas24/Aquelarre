@@ -1,0 +1,4870 @@
+fileFormatVersion: 2
+guid: 27d85e16057cc5e42905662da771fc2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magiscarf 1_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1200
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd37f64d69195458995544d38c87ee
+      internalID: 1907613666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1200
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949af6a4119cfcd4bbee104b34b74038
+      internalID: -334263456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1200
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7f2e4ece5680248bdc736bf8b45b1b
+      internalID: 1365556196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1200
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ce7dd8a67f9f43b0c5485864b0c04
+      internalID: 1278829228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1200
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5445b570eebc1c4a824ebde6d9891e9
+      internalID: 1351093551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1200
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1328781b6c0fe94e811c87931666435
+      internalID: 1311020738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 880
+        width: 128
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532333e73f90913409199e3eb0a57056
+      internalID: 475018441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_7
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 880
+        width: 48
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d2de924a112234280f2bc437f012e1
+      internalID: -1964410025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1233
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaffb75f5bf8a14bbeff7fc42352dea
+      internalID: 1139440997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_9
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1233
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6b851e8fbbe7e4d8f9ab0dd0cf3f2f
+      internalID: -1721499993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1184
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a16864ade4404f96fc1e1e20fed93
+      internalID: -1498501900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_11
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1170
+        width: 37
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7f8ebb2fd870408e0462397b3b353
+      internalID: 642819291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1120
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292b165bd7a5614aa6b6b2b8ea0df0e
+      internalID: -1549125308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1201
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda9afdf9c9b42e4e8a6cf1179e93791
+      internalID: 766388468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1201
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e1a0f7199f31439a72a25f916e804
+      internalID: -1435095723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1136
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf6101152768b479f92968aa8a6586
+      internalID: -1241425592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1136
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e5bdbb8aec944b9141ed28faad724
+      internalID: 588685206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1136
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a50dbdfc334e741a12ddb70508ea82
+      internalID: -1422414065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1136
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a495261309b0cda4daecf54482af6c12
+      internalID: -167417741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1136
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9442b1b6d134da344a85e374e7c43e74
+      internalID: 447316674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1136
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7ecc3cfe9981a4cab7036abfb83cd6
+      internalID: 1441483699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_21
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1152
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79470c14ea5f485408b9a4640f62c563
+      internalID: 973549501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_22
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1152
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c628b45bc5f26b45a8a0f30dff0cb68
+      internalID: -1847704633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_23
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1136
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae0ce4cb9aa9d40bc12b827ebcdd10
+      internalID: -32236180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1072
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf0fbdf8f90094c997906dcb24d57c
+      internalID: 1853445930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1072
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb6b8468ba733d4f887eced1db11e83
+      internalID: 1046461167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1072
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4a243c7ac5cea46a2dbc125ef9dace
+      internalID: -1083331302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1072
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3c1646b3f19f4b8afe3275297f312
+      internalID: -1635406596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1072
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d4ab5ca38eb0241ba34211bcfa0e08
+      internalID: -1922814452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1072
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb8deb074c3a6e469f1908fde174f53
+      internalID: 1661925688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1088
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a634812bb8a2540855c70302ed47c2
+      internalID: -252335591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_31
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1088
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5928923a2abc34698c1795e3783e8d
+      internalID: 1969619108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1096
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5362ed402c9e874da73a1b0f0c29b43
+      internalID: 936141501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_33
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1106
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3288b2a96bc434b8361735fa43dae5
+      internalID: 1943379075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_34
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1074
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee1dfef53319042bb2666324bf63c1
+      internalID: -1628000031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_35
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1072
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804c211f7b040846bd0ae2020961f39
+      internalID: 52321520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1008
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e8090d25c204b43be5de01a19cb5a3
+      internalID: 2082366420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1008
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928a574f2d67934992a65b8b993819f
+      internalID: 1285479825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1008
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f405cc0640ba7e4d88a30adcfc109f5
+      internalID: -1148400083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1008
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c09f62e3b1a55742979ae6ac14158f4
+      internalID: 1821404051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1008
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53ba02ad795f7547a458a1433828702
+      internalID: 1764462343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1008
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0062cec9db9e5c54f9860ea37ed31473
+      internalID: -1257756119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_42
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1056
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e055170b1e62f4c48a30f2d3d1c095b8
+      internalID: -1105435398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_43
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 914
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe0e45d03ce83f41992bb7b2b6106ab
+      internalID: -830226639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_44
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1058
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0b6d7dd4b73204682afc4352fcb3eb
+      internalID: -1065511588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1024
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4093055a02f1874468b1cb1c6a0ac740
+      internalID: 1837277500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_46
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1024
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fbe75d1c38fc94791a1262645166e1
+      internalID: -694822904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_47
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1024
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673102917b60f44c811102019850b97
+      internalID: 64945092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_48
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1024
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15a528a84a69704a8a93a4184159419
+      internalID: 601461849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1026
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed0668e2ee2c54d9445166e359e0e8
+      internalID: 1513635689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_50
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1026
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b130f8b062c4ff4484d8380d3b7fb7b
+      internalID: -1962641948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1024
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230dde709beacb4799d6769151e4e50
+      internalID: -650223766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 944
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d2a7f754da0374cafd0e04108c3ba8
+      internalID: -1618409404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 944
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd36445d4431d419c3259fc5fefcee
+      internalID: -589617939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_54
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 944
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96bb92ae2849a4bbc5459eaf838146
+      internalID: -2076912358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 944
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2f6bd6a280375458a1e059e49495e6
+      internalID: 2044716546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 944
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec16b3b343034d148a9524599b77eacc
+      internalID: -219745805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_57
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 944
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ff91766c781f4ebc05ae55c5a1737
+      internalID: -721256275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_58
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 992
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e214d135d5a1d4584dcb51771ba80d
+      internalID: 621594123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_59
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 992
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be20889c4da1a949b75d69976b810ec
+      internalID: 1466332041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 928
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82406353efc0fb4cbb85c9618096035
+      internalID: -279124159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_61
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 960
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b250a18c6119e44bfbe6d5d718aaa9
+      internalID: 833879325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_62
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 928
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea41d48dd51265469c087449283171b
+      internalID: -383964175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_63
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 962
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd3609cd782d0642868c03731867a24
+      internalID: 769246083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_64
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 960
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573498e70636144196a82ba9baed55a
+      internalID: -714604227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512619453bbb49e45b93f088933f2c28
+      internalID: -597230470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_66
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 960
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d2df75211337c428e1569a32e19484
+      internalID: 1975452950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 880
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b260fabe7f8c83e48bd53f3db880526b
+      internalID: 999451211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 880
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43e7df75e2b5f4488c359446a5b002f
+      internalID: 1502375714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_69
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 880
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f8204f14237bb4cabd469caff7521d
+      internalID: 167484096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 880
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0705e5994533ed049882e0a62be9ddc8
+      internalID: 1277083979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_71
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 880
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdbf7fd0bb8f4343a226e17c3aa78dd
+      internalID: -1666036118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_72
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 880
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652aa417bc943804b925bca6e03064de
+      internalID: 104800780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_73
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 934
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff1ff3da54b4244809837a029d3122
+      internalID: 91008842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_74
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 928
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ec037d717006478b58d996d33d664
+      internalID: 1391070010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_75
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 928
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5282c686a57c228469b2d4540195c8bc
+      internalID: -1609967035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_76
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 898
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45246a73c4caa4a9d0263b6bc14c1c
+      internalID: -895951822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_77
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 864
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d2bf50675d2d408e93d9db1c477de
+      internalID: 1982766127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 840
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7bc5604d8f22459df5043b6a1a9ff
+      internalID: 559582935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_79
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 886
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a98a7e0a3cb6a04eb0fe8b8df3c4c01
+      internalID: 553787739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_80
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 840
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b11e61f9be69b64ca5a115b42432b1b
+      internalID: -1184217564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_81
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 882
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb02824a5d30b64cb18c37e4742d238
+      internalID: 837424584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_82
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 882
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef2f81720eed59438f0434766371375
+      internalID: 591029192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_83
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 865
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0adb308a4beeb458e4088c07779dda
+      internalID: 1967106738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 304
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281efeda3fe55a44a4f90ffe494c8c2
+      internalID: 473561751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_85
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 809
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bedbf36792e247b177666d192dc0a
+      internalID: -623578618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 802
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88cacb4e24be84e82b141679f2d070
+      internalID: 1296826230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_87
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 800
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f05a722297b141a473b7eb86594fb
+      internalID: 473129180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_88
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 825
+        width: 10
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4bf1b5165f2ed43b5a7881ae55d5eb
+      internalID: -1322485108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_89
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 857
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318f3cc40b60494b8b50832799b9d51
+      internalID: 10488319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_90
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 800
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f06ca67a4f27624dba4f365ae9e159d
+      internalID: -1927960845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_91
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 800
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738f8713ff442c4482f1555c661237d
+      internalID: 1651288537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_92
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 838
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7834b2a4c14c4596954bb74c8cc90
+      internalID: -1429925465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_93
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 825
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3640af3761da543b5f4eb41e223b59
+      internalID: 2107266643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_94
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 800
+        width: 5
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd5e6ddfcd8f8949b1c9b554eacddeb
+      internalID: 2002160531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_95
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 792
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24279d4d4dd46a94486090c03f7b10b6
+      internalID: -1040966407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_96
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 784
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d2c5108eac3d9489dc7c15167836e7
+      internalID: 926669890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_97
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 802
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428806c0310f30949a8202ce1e5b0a0c
+      internalID: -1210944149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_98
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 802
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a80a64c44502479940f9b0ec1b747
+      internalID: -1516565179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_99
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 800
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f6bd441299964bb117b38b709b687
+      internalID: 1311637880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_100
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 747
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f8753810754849a6b389dae7bf06b
+      internalID: -723370022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_101
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 737
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e4580d2eba74f43865ef69dc276aba
+      internalID: -431766381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_102
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 769
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac66068da7bc1341b61a3e387d187ca
+      internalID: -1732969427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_103
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 769
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fcf057b1d709a46a60da3bbdd18b9d
+      internalID: 1282851562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_104
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 533
+        width: 270
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43a917bcee58848b969b9907082ef7
+      internalID: 916756667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_105
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466fb58139f643642894bbddcb3182d8
+      internalID: 1433668921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_106
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795bec4859b04664ba6e393f9e4a6e7e
+      internalID: -303185728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_107
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 754
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe8501801634014a8020d2f264a3fb7
+      internalID: 200059653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_108
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 737
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07d06deeba6ed408971a840483772d
+      internalID: -1421450180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_109
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 737
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d347ca6dd3f78eb4f962671b6e259999
+      internalID: 1528423721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_110
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 738
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0dbefc2768d14bb58dd321369888a
+      internalID: -1870348886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 96
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f217cd80f32d5364c95706c2a92b1714
+      internalID: 927527786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf9b1870d069e6439ee5a35560008ed
+      internalID: 1744900918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_113
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 688
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff7b23cb5c29043b6898bb82a610b3
+      internalID: 1160508236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 683
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d79bf0e5d8eee488d4fe082638f24f
+      internalID: -1660648506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a484c0fa94e9499c4588ff2b99665
+      internalID: -491855989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_116
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 672
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa254605fd4c46478d08eea1eaeffd7
+      internalID: -2138181947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_117
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 704
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12a2a2e371b6304baf48a319c5d374b
+      internalID: 1263389073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_118
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 674
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837e2ee3b5631d418627e8411c9c715
+      internalID: -450698217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_119
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 674
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bfe717a31a24845819bfa3fc47aa7c
+      internalID: 705687546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_120
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 689
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcf5091324bb544ca6f59b86775b4ca
+      internalID: -2104619106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_121
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 672
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a440d0c17bc6d34da1ddcd57d1f4df8
+      internalID: 1948730330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_122
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 672
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785247236292fb40ade6d7c6d960e69
+      internalID: -1465371395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_123
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 657
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaf4758f20aac04c8d6ca222c895806
+      internalID: 1891650653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_124
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d661a910d13804eb99eafe92cdf622
+      internalID: -1614774492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_125
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1d2d2fd2bbbd42b5610a5f46efed5
+      internalID: 860600487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_126
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 641
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb5f1055ef32940bfa6860e748c637
+      internalID: 408285780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_127
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 641
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069eb7dc477c1b94e8c587b2a5f74ced
+      internalID: 1951708632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_128
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 609
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97e35f306cd4d48bd5502d2838721d
+      internalID: 650534913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_129
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 641
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c1d68ad4a6fea418707da5c0bd0c98
+      internalID: -711673914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_130
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 641
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10afb032f6d094699b34f0a68291bc
+      internalID: -1174395180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_131
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 641
+        width: 80
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91767ad3bfabc5d47aed30e3a60f65eb
+      internalID: 1021609319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_132
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 592
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f60fa23d0bad4aa55da459450c669
+      internalID: -443771386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_133
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 631
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f09a2e89db5e4bb469b427d21141a
+      internalID: -1999883630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_134
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 610
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd7cdfb5a2ab94f9d2fbfcac96467d
+      internalID: 1021491362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_135
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 610
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e737423013a664885e0fee0468428e
+      internalID: 977706602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_136
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 610
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfddaf7e1da01743850e44001debd24
+      internalID: 523434145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_137
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 609
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6baf441745b3489cb3552e3efd507
+      internalID: -735458957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_138
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 609
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05df1ef83df5e74b96bf01c9704c4ac
+      internalID: -1028781190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_139
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 625
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dde8b2a465e724fb91b9b5afee01d1
+      internalID: -1798096108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_140
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 609
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bade56a61700e4e947a01d450a39b2
+      internalID: 1364070930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_141
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 625
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04292140caac1f644a47d686b6564fdd
+      internalID: -411963117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da66d8838d6c14d8cff6e30132740f
+      internalID: 1858080739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_143
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 609
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55e47004d5cfb744a1b2555455d8d23
+      internalID: 1004992162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_144
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 592
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd5abd2a245fd47971135b29b19cc0
+      internalID: -1186567676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_145
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 593
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a686f7a523fb4e87f0597c277f786
+      internalID: 840901493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_146
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 593
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a16dae64d8f4f64285198945531fa23
+      internalID: 1862122193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_147
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 593
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7c6ded70f2fae4c99280757cb5beec
+      internalID: 198176361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_148
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 593
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271f5b822b442647bb292c1bb6831af
+      internalID: -993155105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_149
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 593
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388b2a6cb77180042a4615c568948acc
+      internalID: -2007156176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_150
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 593
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b77c369ec4e749b49199e677ae07b
+      internalID: 1583644121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_151
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 577
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6c7e9da9c7c1c40a8817573947e404
+      internalID: 1160235255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_152
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 593
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3129d4ee1f74fd40a32c1733c6df149
+      internalID: -296667173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_153
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e3ff5b77fa0194b9c386b4885e920c
+      internalID: 208871200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_154
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783aeefd3279754ba6730dd37ffb501
+      internalID: -895545051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_155
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737234c6c6f10cf4593fefdb36829206
+      internalID: -2074942091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_156
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 560
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3474f7190dc4764f9b351573075d35c
+      internalID: 2035850949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 545
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a1921f8511b34f99cdb73f4213adb
+      internalID: -559167117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_158
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 545
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d644222cc6dd8b640a3fccfbe80d79bc
+      internalID: -1246317565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_159
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 528
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47e5b3227e15e542939f83ffb1fffc4
+      internalID: -835192495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_160
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 567
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92870ead3c7803418b9613e8ee79635
+      internalID: -59389180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 532
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c594fa4dc1e1044abcdfc5e8ad0de3
+      internalID: -379211031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_162
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ab990406d96bb4d926f25eb6968126
+      internalID: -1823198306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_163
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 545
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751c65c4fca164e41937fecc6ed4d6d4
+      internalID: 405451751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_164
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 561
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b09b5b868e942428ada572f8b89dc6
+      internalID: -1053155280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_165
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 529
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28473e15f88467e4581075e0a77ef8e0
+      internalID: 751679614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_166
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 528
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9894f8503df80543858e6b5b432722b
+      internalID: -288574613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_167
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 520
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2bb0176db6b0f40b6798e432df0585
+      internalID: -186462906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_168
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 348
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256b1cbc84752a4faa6e37adffbb4d8
+      internalID: 2137318369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_169
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 345
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfdbf2ef7dbd10429cfca2dc20d1733
+      internalID: -1891361096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_170
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 348
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4c9de23716a7c49b26911255d2f0b4
+      internalID: 1568157321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_171
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 345
+        width: 117
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddcc222eabcb3f419a5fa34855e49ec
+      internalID: 521198462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_172
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 354
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3108d5dfb3be8446a3580628ab49be5
+      internalID: -566348154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_173
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 336
+        width: 89
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c657d8ee402bf341a624768d9a54af0
+      internalID: 1109299370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_174
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 336
+        width: 233
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8589f27facf8b44a0b73e683504d22
+      internalID: -1380451643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_175
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 178
+        width: 114
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea60bb501514343a14f8f4407ee7dc
+      internalID: -738557701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_176
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 178
+        width: 114
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34286403ae6b0e84eb2b0367445ad0a7
+      internalID: 396187247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_177
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 178
+        width: 242
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8eb4df9645d5045b64fd63b50524cd
+      internalID: 1469947494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_178
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 178
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da5c67c195ecd43a6e7276f3e934ff
+      internalID: -1602893408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_179
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 178
+        width: 114
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa188d7079f2d458dbe9f23dfeab8c
+      internalID: -478318964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_180
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 288
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd2f3275641d044aab4ef9b661e628f
+      internalID: -562806661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_181
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 230
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a649d9b557ff4d89739c104360d16
+      internalID: -993044410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_182
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 192
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d4b6db4d872843a23c436b41f002e
+      internalID: -496944148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_183
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 192
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4778f71b68a2cd9478f4343b643636e7
+      internalID: -1967262049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_184
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce0ce67f6917124bb280044e22b2da7
+      internalID: 884462252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_185
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 144
+        width: 109
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1465eccb51004429b97baaecdc4341
+      internalID: -1925227223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199854593e3b4149995b9862aebd2ca
+      internalID: 2023617279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_187
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 97
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5397259bb0d2246a2bad2d4b8574f1
+      internalID: -132732427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_188
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 96
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b75032655c50644a2e356188adffd1
+      internalID: -440774666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_189
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bfbf99e20b3d747a57529313a0ae3b
+      internalID: 1783580900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_190
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 48
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe650e4f2b99f4dbb115fb859c12f8
+      internalID: -438253412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_191
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ab6d505dcd4af45b458d463906c03c
+      internalID: 879100962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_192
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb648c87da61a444841b6ce8552eb3d
+      internalID: -1422345222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_193
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 48
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c441227a4c553c841a4f1355f0f2fe6f
+      internalID: -1223831222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_194
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30a70affce993498be03a171921e72
+      internalID: -906748782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_195
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 48
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b13205eb70647248a9fec34a8b2168c
+      internalID: 57773810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_196
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028863199197d4f48aec4e4a1f6552f6
+      internalID: 596554136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_197
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 48
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195dd75cb6755c74db8979794daf4963
+      internalID: 347513331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_198
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 81
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943486915eee2164c9cb4a98c09f9b47
+      internalID: 1940121488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_199
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 65
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f757c38ec9524f852c5d9db150aef
+      internalID: -1181851251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_200
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 49
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb9bf13fa027c41b9bd8105ae1e8b8
+      internalID: -59151499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_201
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0575032ae79f30b43b2ee9f6f991e0ae
+      internalID: 2014608126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_202
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 18
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8bb90f1ed304247aed7eaa07bf0043
+      internalID: -272582766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_203
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 32
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4757cd68b16a76644852cfe603e58ec1
+      internalID: -421977797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_204
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa51aa651f907543b27931679d55e31
+      internalID: 469249446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_205
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d851e49d60f34094eaceaa5f278e7
+      internalID: 1225573615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_206
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642722235f2c53a428bc114f83f03d6e
+      internalID: -878003039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_207
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716d93942b6ebea409836194888c5e01
+      internalID: 910508121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_208
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12082a836a9066d4a88d03c621ee30ee
+      internalID: 1137707731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_209
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 37
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2840224e08064bad30e001b2a01f5
+      internalID: 1213940901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_210
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 20
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5e078df0d46244a85a9c0eaec5155c
+      internalID: 919541844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_211
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 33
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9459b775694178449d7a595a9e4f48b
+      internalID: 1467707316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_212
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 16
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37050fe6af6212d4e870f02b36226eb5
+      internalID: 1407061496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_213
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f57ecafb07ede41b606a8dd4be8953
+      internalID: -1490461717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magiscarf 1_214
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 17
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81af96fcd710f4691798ffb081f0af
+      internalID: -82475530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Magiscarf 1_0: 1907613666
+      Magiscarf 1_1: -334263456
+      Magiscarf 1_10: -1498501900
+      Magiscarf 1_100: -723370022
+      Magiscarf 1_101: -431766381
+      Magiscarf 1_102: -1732969427
+      Magiscarf 1_103: 1282851562
+      Magiscarf 1_104: 916756667
+      Magiscarf 1_105: 1433668921
+      Magiscarf 1_106: -303185728
+      Magiscarf 1_107: 200059653
+      Magiscarf 1_108: -1421450180
+      Magiscarf 1_109: 1528423721
+      Magiscarf 1_11: 642819291
+      Magiscarf 1_110: -1870348886
+      Magiscarf 1_111: 927527786
+      Magiscarf 1_112: 1744900918
+      Magiscarf 1_113: 1160508236
+      Magiscarf 1_114: -1660648506
+      Magiscarf 1_115: -491855989
+      Magiscarf 1_116: -2138181947
+      Magiscarf 1_117: 1263389073
+      Magiscarf 1_118: -450698217
+      Magiscarf 1_119: 705687546
+      Magiscarf 1_12: -1549125308
+      Magiscarf 1_120: -2104619106
+      Magiscarf 1_121: 1948730330
+      Magiscarf 1_122: -1465371395
+      Magiscarf 1_123: 1891650653
+      Magiscarf 1_124: -1614774492
+      Magiscarf 1_125: 860600487
+      Magiscarf 1_126: 408285780
+      Magiscarf 1_127: 1951708632
+      Magiscarf 1_128: 650534913
+      Magiscarf 1_129: -711673914
+      Magiscarf 1_13: 766388468
+      Magiscarf 1_130: -1174395180
+      Magiscarf 1_131: 1021609319
+      Magiscarf 1_132: -443771386
+      Magiscarf 1_133: -1999883630
+      Magiscarf 1_134: 1021491362
+      Magiscarf 1_135: 977706602
+      Magiscarf 1_136: 523434145
+      Magiscarf 1_137: -735458957
+      Magiscarf 1_138: -1028781190
+      Magiscarf 1_139: -1798096108
+      Magiscarf 1_14: -1435095723
+      Magiscarf 1_140: 1364070930
+      Magiscarf 1_141: -411963117
+      Magiscarf 1_142: 1858080739
+      Magiscarf 1_143: 1004992162
+      Magiscarf 1_144: -1186567676
+      Magiscarf 1_145: 840901493
+      Magiscarf 1_146: 1862122193
+      Magiscarf 1_147: 198176361
+      Magiscarf 1_148: -993155105
+      Magiscarf 1_149: -2007156176
+      Magiscarf 1_15: -1241425592
+      Magiscarf 1_150: 1583644121
+      Magiscarf 1_151: 1160235255
+      Magiscarf 1_152: -296667173
+      Magiscarf 1_153: 208871200
+      Magiscarf 1_154: -895545051
+      Magiscarf 1_155: -2074942091
+      Magiscarf 1_156: 2035850949
+      Magiscarf 1_157: -559167117
+      Magiscarf 1_158: -1246317565
+      Magiscarf 1_159: -835192495
+      Magiscarf 1_16: 588685206
+      Magiscarf 1_160: -59389180
+      Magiscarf 1_161: -379211031
+      Magiscarf 1_162: -1823198306
+      Magiscarf 1_163: 405451751
+      Magiscarf 1_164: -1053155280
+      Magiscarf 1_165: 751679614
+      Magiscarf 1_166: -288574613
+      Magiscarf 1_167: -186462906
+      Magiscarf 1_168: 2137318369
+      Magiscarf 1_169: -1891361096
+      Magiscarf 1_17: -1422414065
+      Magiscarf 1_170: 1568157321
+      Magiscarf 1_171: 521198462
+      Magiscarf 1_172: -566348154
+      Magiscarf 1_173: 1109299370
+      Magiscarf 1_174: -1380451643
+      Magiscarf 1_175: -738557701
+      Magiscarf 1_176: 396187247
+      Magiscarf 1_177: 1469947494
+      Magiscarf 1_178: -1602893408
+      Magiscarf 1_179: -478318964
+      Magiscarf 1_18: -167417741
+      Magiscarf 1_180: -562806661
+      Magiscarf 1_181: -993044410
+      Magiscarf 1_182: -496944148
+      Magiscarf 1_183: -1967262049
+      Magiscarf 1_184: 884462252
+      Magiscarf 1_185: -1925227223
+      Magiscarf 1_186: 2023617279
+      Magiscarf 1_187: -132732427
+      Magiscarf 1_188: -440774666
+      Magiscarf 1_189: 1783580900
+      Magiscarf 1_19: 447316674
+      Magiscarf 1_190: -438253412
+      Magiscarf 1_191: 879100962
+      Magiscarf 1_192: -1422345222
+      Magiscarf 1_193: -1223831222
+      Magiscarf 1_194: -906748782
+      Magiscarf 1_195: 57773810
+      Magiscarf 1_196: 596554136
+      Magiscarf 1_197: 347513331
+      Magiscarf 1_198: 1940121488
+      Magiscarf 1_199: -1181851251
+      Magiscarf 1_2: 1365556196
+      Magiscarf 1_20: 1441483699
+      Magiscarf 1_200: -59151499
+      Magiscarf 1_201: 2014608126
+      Magiscarf 1_202: -272582766
+      Magiscarf 1_203: -421977797
+      Magiscarf 1_204: 469249446
+      Magiscarf 1_205: 1225573615
+      Magiscarf 1_206: -878003039
+      Magiscarf 1_207: 910508121
+      Magiscarf 1_208: 1137707731
+      Magiscarf 1_209: 1213940901
+      Magiscarf 1_21: 973549501
+      Magiscarf 1_210: 919541844
+      Magiscarf 1_211: 1467707316
+      Magiscarf 1_212: 1407061496
+      Magiscarf 1_213: -1490461717
+      Magiscarf 1_214: -82475530
+      Magiscarf 1_22: -1847704633
+      Magiscarf 1_23: -32236180
+      Magiscarf 1_24: 1853445930
+      Magiscarf 1_25: 1046461167
+      Magiscarf 1_26: -1083331302
+      Magiscarf 1_27: -1635406596
+      Magiscarf 1_28: -1922814452
+      Magiscarf 1_29: 1661925688
+      Magiscarf 1_3: 1278829228
+      Magiscarf 1_30: -252335591
+      Magiscarf 1_31: 1969619108
+      Magiscarf 1_32: 936141501
+      Magiscarf 1_33: 1943379075
+      Magiscarf 1_34: -1628000031
+      Magiscarf 1_35: 52321520
+      Magiscarf 1_36: 2082366420
+      Magiscarf 1_37: 1285479825
+      Magiscarf 1_38: -1148400083
+      Magiscarf 1_39: 1821404051
+      Magiscarf 1_4: 1351093551
+      Magiscarf 1_40: 1764462343
+      Magiscarf 1_41: -1257756119
+      Magiscarf 1_42: -1105435398
+      Magiscarf 1_43: -830226639
+      Magiscarf 1_44: -1065511588
+      Magiscarf 1_45: 1837277500
+      Magiscarf 1_46: -694822904
+      Magiscarf 1_47: 64945092
+      Magiscarf 1_48: 601461849
+      Magiscarf 1_49: 1513635689
+      Magiscarf 1_5: 1311020738
+      Magiscarf 1_50: -1962641948
+      Magiscarf 1_51: -650223766
+      Magiscarf 1_52: -1618409404
+      Magiscarf 1_53: -589617939
+      Magiscarf 1_54: -2076912358
+      Magiscarf 1_55: 2044716546
+      Magiscarf 1_56: -219745805
+      Magiscarf 1_57: -721256275
+      Magiscarf 1_58: 621594123
+      Magiscarf 1_59: 1466332041
+      Magiscarf 1_6: 475018441
+      Magiscarf 1_60: -279124159
+      Magiscarf 1_61: 833879325
+      Magiscarf 1_62: -383964175
+      Magiscarf 1_63: 769246083
+      Magiscarf 1_64: -714604227
+      Magiscarf 1_65: -597230470
+      Magiscarf 1_66: 1975452950
+      Magiscarf 1_67: 999451211
+      Magiscarf 1_68: 1502375714
+      Magiscarf 1_69: 167484096
+      Magiscarf 1_7: -1964410025
+      Magiscarf 1_70: 1277083979
+      Magiscarf 1_71: -1666036118
+      Magiscarf 1_72: 104800780
+      Magiscarf 1_73: 91008842
+      Magiscarf 1_74: 1391070010
+      Magiscarf 1_75: -1609967035
+      Magiscarf 1_76: -895951822
+      Magiscarf 1_77: 1982766127
+      Magiscarf 1_78: 559582935
+      Magiscarf 1_79: 553787739
+      Magiscarf 1_8: 1139440997
+      Magiscarf 1_80: -1184217564
+      Magiscarf 1_81: 837424584
+      Magiscarf 1_82: 591029192
+      Magiscarf 1_83: 1967106738
+      Magiscarf 1_84: 473561751
+      Magiscarf 1_85: -623578618
+      Magiscarf 1_86: 1296826230
+      Magiscarf 1_87: 473129180
+      Magiscarf 1_88: -1322485108
+      Magiscarf 1_89: 10488319
+      Magiscarf 1_9: -1721499993
+      Magiscarf 1_90: -1927960845
+      Magiscarf 1_91: 1651288537
+      Magiscarf 1_92: -1429925465
+      Magiscarf 1_93: 2107266643
+      Magiscarf 1_94: 2002160531
+      Magiscarf 1_95: -1040966407
+      Magiscarf 1_96: 926669890
+      Magiscarf 1_97: -1210944149
+      Magiscarf 1_98: -1516565179
+      Magiscarf 1_99: 1311637880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

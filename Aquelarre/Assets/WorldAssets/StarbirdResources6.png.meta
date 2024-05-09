@@ -1,0 +1,3728 @@
+fileFormatVersion: 2
+guid: 987611fb2443fb1469d062a27660737f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StarbirdResources6_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 649
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb94fe217269e43a6ea308dd4ab17b
+      internalID: 255156493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 730
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde8812bc5b1ef6498c8902ffba4e449
+      internalID: 1375032375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 721
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17983d85607aea448bf8456c319a401
+      internalID: 1221881151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 653
+        width: 431
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6a3e2ac2688c24a8d3caf0ea4e606b
+      internalID: -154265283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 676
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c16fcfc0206948b459cdb74121485
+      internalID: 114533245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 673
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf70971cbed83cf4c88a259711b5c68a
+      internalID: 1630442522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 76
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0e4ed00e239144da8c0cf9617ae623
+      internalID: 896454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 288
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd20615f8789f34780988b2441cbe02
+      internalID: 1677311950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 300
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628c22c616ad7c4eb57496b239ae145
+      internalID: 1210804407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 294
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756fcb8c2d4c5b46a3f59420c0d6497
+      internalID: -785292466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 300
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf6556c1224e904b90264499da0f07c
+      internalID: -542035325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_13
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 288
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c89a696dc4dffb4883bba8215a212a7
+      internalID: 1840471548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc8b70c0155e1f4ba8c14c7bba94d96
+      internalID: -1980121792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_15
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 307
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a11b231e5bf504498093100327c0c9
+      internalID: -1335177058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf86e298e12954d802abeddd0c214c
+      internalID: 1085725118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 290
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b9c01586bcafa47b63febb06e07f1c
+      internalID: 1730186384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_18
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 290
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b7534ceb518144da86ea1638ffea85
+      internalID: 1035980428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 207
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c187339341e2514eab92eee364cf8c5
+      internalID: 450485186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 240
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c3a9e2e0574a4aa11d923eec08356
+      internalID: 2049299453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 240
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d87606e7aa0e8c47a1441956ac6114f
+      internalID: -1288430398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 240
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c850873edc2c02d4fbceacb219aaebf8
+      internalID: 1020961195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 240
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a247bdcedded974d81eea8082f1f95a
+      internalID: -1740604288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_24
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 244
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdceadae338122448ce69cf300014ea
+      internalID: -1162741794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 270
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d22f90123a092c45bb04b3bf3193a95
+      internalID: -693768682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 265
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51686e6d1c2886d4a829fb9e73ac0f2b
+      internalID: 1257282277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 273
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec309f035a13d04b97229d496347d7f
+      internalID: 720207583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 271
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9597be3afc661940ba2752c76ca75ce
+      internalID: -768173062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 192
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab339c880d5e1e446b154bbf676c3d35
+      internalID: 113441642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141d84af82d8c74a9ce4e9e27bd327e
+      internalID: 2026616708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 263
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c54e13c3173224686fef492f60392b
+      internalID: 953163794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 257
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c8b35770a153b49ad7369ca7cd5e54
+      internalID: -1830338934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_33
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2974bd7fc260549b626a5c6bc983f9
+      internalID: 455060514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_34
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee66d5bbaad594eaab39b4b6347059
+      internalID: -2031798515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_35
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf472fc659863f40a8bd6c11d22e85a
+      internalID: -1042017126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d0400705ac0845ad33aec5998f487
+      internalID: -27220464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_37
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db0951b489b7a4990ee9216f41ff19
+      internalID: 965973047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9fbd6b692999c4c9825dad90ebe960
+      internalID: -1223286063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_39
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7acccbf74a2a14f8a27b7831111c36
+      internalID: -1908019467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_40
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3918a90ae51f4c4da3d10b7c3f17987
+      internalID: -551792741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_41
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362807793ce6d61419f45026f66ba9c4
+      internalID: 1259100750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 261
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0cdbefb4bf0254a91d88f1596df6c9
+      internalID: 523501364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_43
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cf331b58f52664cb54cb37f0d2c32d
+      internalID: 653724798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_44
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599481e90c1506c4ebf9916a4f3d5a7d
+      internalID: -256879309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_45
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 259
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42706cd73761df74aa7eac555d697009
+      internalID: 266734664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 251
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a377d16ef3b04da47e8d3c2e55c8c
+      internalID: -1661790365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_47
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 245
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724b6658faa396845bbc163a9ec878fd
+      internalID: -155746092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_48
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 252
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12224cd69856f3f4abab0fdfc0cd75bd
+      internalID: 1955709210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 253
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99a63580c4dc6441a099d7f426cfa64
+      internalID: 529421419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 250
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc1c8f084010514281e0f7aae83f9ee
+      internalID: 790692213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_51
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 250
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f781c534a9a29644080c1165f6123d1e
+      internalID: 1674044094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_52
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 250
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2077545f96d914946bfd7d02a64ec697
+      internalID: -309903737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_53
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 242
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c669ceb83e329249931bdbc7b9d77b4
+      internalID: -1020943877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_54
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 196
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe41cfb0c61a343955a8d116d78f2e
+      internalID: 2024320205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_55
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 196
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7adf1c77979cb4fa9676c1ef30ac27
+      internalID: 750284998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 196
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d85a8655f684fe479b5dc78d8776831
+      internalID: 1770656633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_57
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 196
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eafb0664c2aa9a419f884f94e826c01
+      internalID: -1183401165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_58
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 192
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e843681920ea01e49ada021b9a008521
+      internalID: 2028675968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 167
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3df30a1d4692724c912c5a500019b6a
+      internalID: 58458142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_60
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824ccac893946e142b7e7bbd873fd47b
+      internalID: 681832699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2824c130ff0a4aab19bc8fa51abd3
+      internalID: -275271164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 204
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd3d2eba3c9b0b4095f9a4b37f137b2
+      internalID: -210027193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_63
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 203
+        width: 94
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdc077b4a96b8549846d8a4290382f9
+      internalID: -1671063849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e04f9020a26c38479dcdbc8359c8a0d
+      internalID: -925101899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 151
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c42f9bcce83d6542b34455d7418fafc
+      internalID: 617951160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 145
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c74fa2bfde70284a88c086cc657203b
+      internalID: 1669192112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 145
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9142101359c454a419f441d4eb2465b2
+      internalID: 1539701683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 145
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ec07803c573540a72559304b9bcd4
+      internalID: -608921666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_69
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 145
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d10bc55216aff40b27738ad907a10f
+      internalID: 874165362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_70
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 145
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884bd17e7406f884b8ab512cb6389166
+      internalID: 920883619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_71
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2
+        width: 42
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b9c4f38f8a2e40bf2034095d6d874
+      internalID: 690025873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_72
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 148
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37bbb61551f41541aafc9605f9bbd6a
+      internalID: 1988958859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 154
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4cd8026825d6c43ac7cefb19c7fbb4
+      internalID: 537996165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c216cfd0f20c541945b222f03443d2
+      internalID: 1325923810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44725aba3b8e0dc40a8ec43aa62590cb
+      internalID: 1884184853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 98
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612bd7921879ea647848e49baf373366
+      internalID: 133771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe88db6e27e72046be3ebf5e366d461
+      internalID: 2110254353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_78
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 98
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd699a70091e2b644b4287da87093667
+      internalID: -450333069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_79
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 98
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beabc6589c2e6f49b1f417ee908ad72
+      internalID: -1658680158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 98
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa6e543421110488790c215e00f124
+      internalID: -1948629716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e720ae9bbe9ffc044aa645272f800f11
+      internalID: -2062155557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_82
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 97
+        width: 188
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94fdcf7722f33e48b8b03f7d0ac6757
+      internalID: 1675144070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39de9407f1e718840a19810c7bcbe633
+      internalID: 1544674815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 54
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f6ae63328817342a17e64ad4c49414
+      internalID: 1242620866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 54
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bf44c9db469e146b6fb874dcb77654
+      internalID: 1307693608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 54
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb78659c88fd31c4d98e7beb5f250c96
+      internalID: -1409212437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_87
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 50
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5af5deda6b2ec4697eef07741aa42c
+      internalID: 798045835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_88
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 50
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e826e44808ede45babb6800c9e62e1
+      internalID: -42001913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_89
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 50
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70fc4b307b24340a4e923aff190c89
+      internalID: 941976027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_90
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 78
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684af3302d65fb47ac9bbf374c84598
+      internalID: 745757000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_91
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 87
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c53ddb91b529047ad33f0eebf49e57
+      internalID: 2136251318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_92
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 64
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37abe3966bd7e84c8995a2c737444b8
+      internalID: -347451809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_93
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 78
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a375031148fab52439a4293fa34c8c12
+      internalID: 1231226931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 64
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822e5642c8c4234489456809a2b2ad5
+      internalID: 1806725521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 78
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06c737d42eb98e4f8dc17fe755d2205
+      internalID: 562511607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_96
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 64
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c45d873443d894ba6247cf1b9c4198
+      internalID: 380820120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_97
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 64
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453b1ec96b83b34ca2eaab3b1957e7f
+      internalID: 1689076016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_98
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 80
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d2e5e2ed66e348a38854c0a8813d4
+      internalID: 1776069190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_99
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb63aa29c26df074297a540f1f59cea1
+      internalID: -1161639152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_100
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03836c85372f884f9fe850638d698d3
+      internalID: -2147274623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_101
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d071a6a72ffa7042b9e9fabfb2bb4af
+      internalID: -1564578862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_102
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35af4e86105b5c46aca1f4bcaa30553
+      internalID: -645636408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_103
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e1a7aa8efd1d4a96a1c10c0afa0cd
+      internalID: 1387181738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_104
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc89329db6df3b4fa20b00ccdaf0cc2
+      internalID: -2099152097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 59
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ab9dd9cfd8104e9594a053dc40fe9
+      internalID: 1272138614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_106
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc2ccc2d69b80742b3d4810bb351f17
+      internalID: 1965628055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_107
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 51
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4019709dc091c014588ce18160ae7020
+      internalID: 985709119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_108
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 56
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b28ea5269d5584b842936ee708048e
+      internalID: 822480703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_109
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1bae633ba8fe439a8e95e390495b8
+      internalID: -1217793347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_110
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 51
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896a5ea91d120148971db35b9b8fa76
+      internalID: -1514712500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_111
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 56
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8601fc6aa31fdd41ba46d280e83cf86
+      internalID: -1020102365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_112
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e985d66873c2949a0d834435cb53b6
+      internalID: -1376605896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_113
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 51
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001879b924770b944a9fbf8deecd8064
+      internalID: -975033848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_114
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5140a75a1839440a75d5fb3128ab17
+      internalID: 1268629570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_115
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 51
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebd2e053015374aac1f77d3772bf0a
+      internalID: 482502335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_116
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675bf23a5783f7b4095667c5fff4e7e9
+      internalID: -501351188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_117
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 51
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307beb3050322c84faf605c71d0e7a12
+      internalID: -766869568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_118
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 63
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a80247e8dead9d4c9fff55afe61de4f
+      internalID: 1938403952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_119
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 57
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a497ec866a404eadae4fad40b57f4
+      internalID: -1398633219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_120
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 57
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad68bcf742bb146a0f84d613565cf6
+      internalID: 995393066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_121
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f3f50c7ed906439ff995d043ec83d
+      internalID: -42979657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_122
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e4e036a50c1624f8873ae15ce00581
+      internalID: 2124803555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_123
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f37d6a621b5b40b14cefd910a4273
+      internalID: -703919412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50d731573dedda479b542a3582c4866
+      internalID: -1981644377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_125
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 6
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460699f8c738bae43902fd5944f1ee4c
+      internalID: -109377573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 6
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95090d3556005347bece670a95f4e4f
+      internalID: 1509453488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_127
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da70873701c7a45ae0147181e06b4b
+      internalID: 1729664366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_128
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd7f1a5bbc5ea49b4e5dbb896b5c18
+      internalID: -1513629531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_129
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfe59b6077b6f64282145df027f4925
+      internalID: 169440612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_130
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c13934456252045a881b31fe7de8cd
+      internalID: 552528946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_131
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29824ac46a591ad4f9a0343e46242ab4
+      internalID: 1910689027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_132
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 16
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d36e8a9b9d9814e80cd4e161859f59
+      internalID: -2122510958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_133
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f5126d41507249b2d318c684ecd87
+      internalID: -651063821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_134
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 16
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf25b5ac28ba46a47b3a3fb841a343d0
+      internalID: -1912502846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_135
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ebb10fd029db847b306960927e2e4f
+      internalID: -549810502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_136
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 16
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a4c85bd7efcf840880f6a6306a1742
+      internalID: 1763933492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_137
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 16
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f8ee731d0899441a366fdadd270ec8
+      internalID: -139697230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_138
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 32
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c132618d627947884a66b441b0a03
+      internalID: 1960707905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_139
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 0
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa5e89048eae074ba9a9d13abde5829
+      internalID: -689565964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_140
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5d876bd018f3458956fc5a22a900f
+      internalID: 762038845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_141
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac75966c66594ec4c8e26e0fdd67ff96
+      internalID: 1790127269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_142
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320039be3d0773418b2623ba32fc8df
+      internalID: -1041307854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94b00352c6b65468dee2908faece2d
+      internalID: 522148859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_144
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f8c0b42066d943ac5b08587f65838
+      internalID: -1223713853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_145
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7593027e8208e244e95bb555b29dc60b
+      internalID: 1444991758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_146
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b07335ac59cacb43b0204c70f7def8f
+      internalID: 1162362291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_147
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4807e72f53c624cbd7fff0bb1afda6
+      internalID: -1146066735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_148
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22b0ccb89f282349a4a0c6e8ceb21fd
+      internalID: -730194601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_149
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cecb690120f0144caf62ad23267718e
+      internalID: -2062494252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_150
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0118247c83852419ff554c80e6bf68
+      internalID: -1440003406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_151
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48abcd86165cc474491b98a992285441
+      internalID: -848327768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_152
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53373f7902969fd46bb85a8642e22ae4
+      internalID: -513202357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_153
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc8e9144be184047a399b7147b5d368
+      internalID: 1453250626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_154
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36e1393ba7540247bf41841c6690a94
+      internalID: 969536688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_155
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ec8e03c20b7140afea465377867ee
+      internalID: 185875789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_156
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e2e9e4c2fe87a4d8918f3e5def7898
+      internalID: -2081440615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_157
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cdcaf6a25d7544aa383ce73c433ac9
+      internalID: -1735846816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_158
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6fd2ffef8d474281bb9faffbc838d
+      internalID: -1447191534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_159
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 15
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711affa4e7cc9bc418152b284a48917c
+      internalID: 930347316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_160
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 9
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00860219b8c7ab7429e048656ed24e71
+      internalID: -916606945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_161
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 9
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07d5f72d9f9e074ba8cf73690ba91b6
+      internalID: 1691990986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_162
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b238cfab571bde459e19447a7dda96b
+      internalID: 169796091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_163
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3440336748ddc459027de2eff7fb6b
+      internalID: -66491761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarbirdResources6_164
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0905eb07d33d84391e261f7bc0a212
+      internalID: 2117839841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      StarbirdResources6_0: -503675202
+      StarbirdResources6_1: 255156493
+      StarbirdResources6_10: 1210804407
+      StarbirdResources6_100: -2147274623
+      StarbirdResources6_101: -1564578862
+      StarbirdResources6_102: -645636408
+      StarbirdResources6_103: 1387181738
+      StarbirdResources6_104: -2099152097
+      StarbirdResources6_105: 1272138614
+      StarbirdResources6_106: 1965628055
+      StarbirdResources6_107: 985709119
+      StarbirdResources6_108: 822480703
+      StarbirdResources6_109: -1217793347
+      StarbirdResources6_11: -785292466
+      StarbirdResources6_110: -1514712500
+      StarbirdResources6_111: -1020102365
+      StarbirdResources6_112: -1376605896
+      StarbirdResources6_113: -975033848
+      StarbirdResources6_114: 1268629570
+      StarbirdResources6_115: 482502335
+      StarbirdResources6_116: -501351188
+      StarbirdResources6_117: -766869568
+      StarbirdResources6_118: 1938403952
+      StarbirdResources6_119: -1398633219
+      StarbirdResources6_12: -542035325
+      StarbirdResources6_120: 995393066
+      StarbirdResources6_121: -42979657
+      StarbirdResources6_122: 2124803555
+      StarbirdResources6_123: -703919412
+      StarbirdResources6_124: -1981644377
+      StarbirdResources6_125: -109377573
+      StarbirdResources6_126: 1509453488
+      StarbirdResources6_127: 1729664366
+      StarbirdResources6_128: -1513629531
+      StarbirdResources6_129: 169440612
+      StarbirdResources6_13: 1840471548
+      StarbirdResources6_130: 552528946
+      StarbirdResources6_131: 1910689027
+      StarbirdResources6_132: -2122510958
+      StarbirdResources6_133: -651063821
+      StarbirdResources6_134: -1912502846
+      StarbirdResources6_135: -549810502
+      StarbirdResources6_136: 1763933492
+      StarbirdResources6_137: -139697230
+      StarbirdResources6_138: 1960707905
+      StarbirdResources6_139: -689565964
+      StarbirdResources6_14: -1980121792
+      StarbirdResources6_140: 762038845
+      StarbirdResources6_141: 1790127269
+      StarbirdResources6_142: -1041307854
+      StarbirdResources6_143: 522148859
+      StarbirdResources6_144: -1223713853
+      StarbirdResources6_145: 1444991758
+      StarbirdResources6_146: 1162362291
+      StarbirdResources6_147: -1146066735
+      StarbirdResources6_148: -730194601
+      StarbirdResources6_149: -2062494252
+      StarbirdResources6_15: -1335177058
+      StarbirdResources6_150: -1440003406
+      StarbirdResources6_151: -848327768
+      StarbirdResources6_152: -513202357
+      StarbirdResources6_153: 1453250626
+      StarbirdResources6_154: 969536688
+      StarbirdResources6_155: 185875789
+      StarbirdResources6_156: -2081440615
+      StarbirdResources6_157: -1735846816
+      StarbirdResources6_158: -1447191534
+      StarbirdResources6_159: 930347316
+      StarbirdResources6_16: 1085725118
+      StarbirdResources6_160: -916606945
+      StarbirdResources6_161: 1691990986
+      StarbirdResources6_162: 169796091
+      StarbirdResources6_163: -66491761
+      StarbirdResources6_164: 2117839841
+      StarbirdResources6_17: 1730186384
+      StarbirdResources6_18: 1035980428
+      StarbirdResources6_19: 450485186
+      StarbirdResources6_2: 1375032375
+      StarbirdResources6_20: 2049299453
+      StarbirdResources6_21: -1288430398
+      StarbirdResources6_22: 1020961195
+      StarbirdResources6_23: -1740604288
+      StarbirdResources6_24: -1162741794
+      StarbirdResources6_25: -693768682
+      StarbirdResources6_26: 1257282277
+      StarbirdResources6_27: 720207583
+      StarbirdResources6_28: -768173062
+      StarbirdResources6_29: 113441642
+      StarbirdResources6_3: 1221881151
+      StarbirdResources6_30: 2026616708
+      StarbirdResources6_31: 953163794
+      StarbirdResources6_32: -1830338934
+      StarbirdResources6_33: 455060514
+      StarbirdResources6_34: -2031798515
+      StarbirdResources6_35: -1042017126
+      StarbirdResources6_36: -27220464
+      StarbirdResources6_37: 965973047
+      StarbirdResources6_38: -1223286063
+      StarbirdResources6_39: -1908019467
+      StarbirdResources6_4: -154265283
+      StarbirdResources6_40: -551792741
+      StarbirdResources6_41: 1259100750
+      StarbirdResources6_42: 523501364
+      StarbirdResources6_43: 653724798
+      StarbirdResources6_44: -256879309
+      StarbirdResources6_45: 266734664
+      StarbirdResources6_46: -1661790365
+      StarbirdResources6_47: -155746092
+      StarbirdResources6_48: 1955709210
+      StarbirdResources6_49: 529421419
+      StarbirdResources6_5: 114533245
+      StarbirdResources6_50: 790692213
+      StarbirdResources6_51: 1674044094
+      StarbirdResources6_52: -309903737
+      StarbirdResources6_53: -1020943877
+      StarbirdResources6_54: 2024320205
+      StarbirdResources6_55: 750284998
+      StarbirdResources6_56: 1770656633
+      StarbirdResources6_57: -1183401165
+      StarbirdResources6_58: 2028675968
+      StarbirdResources6_59: 58458142
+      StarbirdResources6_6: 1630442522
+      StarbirdResources6_60: 681832699
+      StarbirdResources6_61: -275271164
+      StarbirdResources6_62: -210027193
+      StarbirdResources6_63: -1671063849
+      StarbirdResources6_64: -925101899
+      StarbirdResources6_65: 617951160
+      StarbirdResources6_66: 1669192112
+      StarbirdResources6_67: 1539701683
+      StarbirdResources6_68: -608921666
+      StarbirdResources6_69: 874165362
+      StarbirdResources6_7: 896454741
+      StarbirdResources6_70: 920883619
+      StarbirdResources6_71: 690025873
+      StarbirdResources6_72: 1988958859
+      StarbirdResources6_73: 537996165
+      StarbirdResources6_74: 1325923810
+      StarbirdResources6_75: 1884184853
+      StarbirdResources6_76: 133771262
+      StarbirdResources6_77: 2110254353
+      StarbirdResources6_78: -450333069
+      StarbirdResources6_79: -1658680158
+      StarbirdResources6_8: -1781012901
+      StarbirdResources6_80: -1948629716
+      StarbirdResources6_81: -2062155557
+      StarbirdResources6_82: 1675144070
+      StarbirdResources6_83: 1544674815
+      StarbirdResources6_84: 1242620866
+      StarbirdResources6_85: 1307693608
+      StarbirdResources6_86: -1409212437
+      StarbirdResources6_87: 798045835
+      StarbirdResources6_88: -42001913
+      StarbirdResources6_89: 941976027
+      StarbirdResources6_9: 1677311950
+      StarbirdResources6_90: 745757000
+      StarbirdResources6_91: 2136251318
+      StarbirdResources6_92: -347451809
+      StarbirdResources6_93: 1231226931
+      StarbirdResources6_94: 1806725521
+      StarbirdResources6_95: 562511607
+      StarbirdResources6_96: 380820120
+      StarbirdResources6_97: 1689076016
+      StarbirdResources6_98: 1776069190
+      StarbirdResources6_99: -1161639152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

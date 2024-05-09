@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 6faf0f255d9635d4292476377099ef25
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 455
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae372aaef2081643b119598e48196fc
+      internalID: -505431920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 483
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24d861cb44d8f14a968bbefd91fa70f
+      internalID: 1529527415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_3
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 449
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa749cb5d8afe419da74738d364bf7
+      internalID: -268970314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_5
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 421
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981862e5f4c2d0499adc10a989c99bb
+      internalID: 823161867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_6
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 392
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56db0dd7376430043afb793c83181178
+      internalID: -87140915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 359
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87afa2fb11ae3164b9a221338ae1473f
+      internalID: 2039773502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 339
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5276f9ff41eb92b4c9325ca653b9e9a1
+      internalID: -1724897092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 324
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ab459bc62d4054bb91f61442f9eee9
+      internalID: -1170980416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 288
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6d221585f34084e87c071f11997af8
+      internalID: 376183338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 266
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da199481d2291419fce846aab74903
+      internalID: -1700301469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d6a5166061ddc42af0d14516445bb2
+      internalID: -531150518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_14
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 293
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c61df05191fef2429125011c9563771
+      internalID: 201628870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 227
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e7988e5b7b5ad4e92e071901f9fc0e
+      internalID: -1896750277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1281f3e5dca76438c5003ad2e3a5f7
+      internalID: -641375356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 257
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe3fb126355dbf46bab5933a070b9eb
+      internalID: -1356569489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddce71d6d7bbe44c937bf780c1bc076
+      internalID: 1171597953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_19
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 228
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecae0e0ffa2a6344aa76ca9da756229
+      internalID: 1059091978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 228
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9e344f3608ef344b179ff8355176c1
+      internalID: -1881866995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89bac075dc117f49b1dfedfc06995d4
+      internalID: -829695830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 215
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3b5d860cd8a045b3e158c73f2aab5
+      internalID: -477273851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 193
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff56632b4f4ad747878a9d0d11ed1a3
+      internalID: 639021702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 193
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798bce6a544c9c419f1ea849e0957b1
+      internalID: 453967522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 162
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b817f5997a8044b1d9fb0cb822797
+      internalID: -982159618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_26
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3671c061cae00ad48a20ad11797e94aa
+      internalID: 1832369996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed27efdc404dd01448c5218b3b5be97b
+      internalID: -2104228363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 161
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65564c1c07488f441a6debbfc0971561
+      internalID: -1806757113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd8aa5c8601c04da50da749a0d20c6
+      internalID: -290138359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 143
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7dbf4c3442ce04984bf3fdd5a9377b
+      internalID: -283415711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 106
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1218009361cfef64e8c5b1f5c1d40a3a
+      internalID: -613074527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 115
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5187cea1fb85443a6fe1d89f0d5b12
+      internalID: 1553978672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63bc4a8f859584459eee640c43a8574
+      internalID: 893850460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044667427b15727458a88250606400ed
+      internalID: 1269387568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 89
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b79e460c73a5249af3810b66d40a6a
+      internalID: -137138803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_36
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 89
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac78c734fb6fc4f8e045371d46420b
+      internalID: 1908030450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 95
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28354ba5f0ec41b44b4880deb965cd82
+      internalID: -542289286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 86
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa52de3111a2114dad8b453e93a1fc5
+      internalID: 1480880020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_39
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 72
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f098b9305227ebd40b93e547fbd95c55
+      internalID: -85290055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 72
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7775252396e4741a111ae81c81bfef
+      internalID: -2111332809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e8451563237244ebae29b5aeb5068e
+      internalID: -35774383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1575ed0d00efd0468b6a56e5a346445
+      internalID: -775490663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_43
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 57
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9b31e5b30ad1408a76dd6b62b9b9d
+      internalID: -602686939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_44
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 57
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756610f447775114f8b8f9d184fb2a74
+      internalID: -1523796444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 68
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6689fcdb00f54549a966915b704bac5
+      internalID: -118873876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 72
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea488c43046414286d80fa1304b31b
+      internalID: -212648680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_47
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 33
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217438abcd896b2408f1d347cf96587c
+      internalID: -1608943654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 55
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1892645ed7bf2aa468e53b21e2cc9234
+      internalID: -1736599408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 62
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd469df7d003224398a757ff7865f39
+      internalID: -1646077802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bcd5caf1eebb41b5d431b7affc359
+      internalID: -173242102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_51
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 48
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d294b6e1b597bcd4db7ac33c0e8696c5
+      internalID: -505820277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3673c19f799f0040b5d91829fbfc2b9
+      internalID: 1001299004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 6
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d627658bc38772847b22c221c93eb517
+      internalID: -1178446510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 25
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce676ad1edcae78488897389e5ae111f
+      internalID: -1174940972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_55
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 25
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1379a058f5a92a140beefc72ae41b0ec
+      internalID: 1138593768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 40
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e62f389bd71c44381ecfdf223a0f64
+      internalID: 1974162772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 36
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebf897f96061a4a9393543d94bc5b7
+      internalID: -655752797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_58
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 33
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea42b9cd30b7a44d8a0bf83fbfcf2d6
+      internalID: -1396276339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 30
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a2ee456658a447950892576e0b92e
+      internalID: 1298586171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caitlin NicNubill3_60
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 23
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f61efa21487642927313a8596c262
+      internalID: -125423793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Caitlin NicNubill3_0: -505431920
+      Caitlin NicNubill3_1: 1945294807
+      Caitlin NicNubill3_10: 376183338
+      Caitlin NicNubill3_11: 1459094913
+      Caitlin NicNubill3_12: -1700301469
+      Caitlin NicNubill3_13: -531150518
+      Caitlin NicNubill3_14: 201628870
+      Caitlin NicNubill3_15: -1896750277
+      Caitlin NicNubill3_16: -641375356
+      Caitlin NicNubill3_17: -1356569489
+      Caitlin NicNubill3_18: 1171597953
+      Caitlin NicNubill3_19: 1059091978
+      Caitlin NicNubill3_2: 1529527415
+      Caitlin NicNubill3_20: -1881866995
+      Caitlin NicNubill3_21: -829695830
+      Caitlin NicNubill3_22: -477273851
+      Caitlin NicNubill3_23: 639021702
+      Caitlin NicNubill3_24: 453967522
+      Caitlin NicNubill3_25: -982159618
+      Caitlin NicNubill3_26: 1832369996
+      Caitlin NicNubill3_27: -2104228363
+      Caitlin NicNubill3_28: -1806757113
+      Caitlin NicNubill3_29: -290138359
+      Caitlin NicNubill3_3: -268970314
+      Caitlin NicNubill3_30: -283415711
+      Caitlin NicNubill3_31: -613074527
+      Caitlin NicNubill3_32: 1553978672
+      Caitlin NicNubill3_33: 893850460
+      Caitlin NicNubill3_34: 1269387568
+      Caitlin NicNubill3_35: -137138803
+      Caitlin NicNubill3_36: 1908030450
+      Caitlin NicNubill3_37: -542289286
+      Caitlin NicNubill3_38: 1480880020
+      Caitlin NicNubill3_39: -85290055
+      Caitlin NicNubill3_4: -212579673
+      Caitlin NicNubill3_40: -2111332809
+      Caitlin NicNubill3_41: -35774383
+      Caitlin NicNubill3_42: -775490663
+      Caitlin NicNubill3_43: -602686939
+      Caitlin NicNubill3_44: -1523796444
+      Caitlin NicNubill3_45: -118873876
+      Caitlin NicNubill3_46: -212648680
+      Caitlin NicNubill3_47: -1608943654
+      Caitlin NicNubill3_48: -1736599408
+      Caitlin NicNubill3_49: -1646077802
+      Caitlin NicNubill3_5: 823161867
+      Caitlin NicNubill3_50: -173242102
+      Caitlin NicNubill3_51: -505820277
+      Caitlin NicNubill3_52: 1001299004
+      Caitlin NicNubill3_53: -1178446510
+      Caitlin NicNubill3_54: -1174940972
+      Caitlin NicNubill3_55: 1138593768
+      Caitlin NicNubill3_56: 1974162772
+      Caitlin NicNubill3_57: -655752797
+      Caitlin NicNubill3_58: -1396276339
+      Caitlin NicNubill3_59: 1298586171
+      Caitlin NicNubill3_6: -87140915
+      Caitlin NicNubill3_60: -125423793
+      Caitlin NicNubill3_7: 2039773502
+      Caitlin NicNubill3_8: -1724897092
+      Caitlin NicNubill3_9: -1170980416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
