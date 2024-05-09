@@ -118,7 +118,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 64
+  controlID: 109
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 65
+  controlID: 110
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 66
+  controlID: 119
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 43
+  controlID: 120
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -722,7 +722,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 1.4471563, y: -1.3044549, z: -0.0025399635}
     speed: 2
     m_Value: {x: 1.4471563, y: -1.3044549, z: -0.0025399635}
   m_RenderMode: 0
@@ -774,7 +774,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 10
+    m_Target: 2.1781733
     speed: 2
     m_Value: 2.1781733
   m_Ortho:
@@ -838,9 +838,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 8c6e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: f6faffff
+      m_ExpandedIDs: 1afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -900,16 +900,50 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_ViewTransforms:
     m_KeySerializationHelper:
+    - {fileID: 2189335990012991183, guid: 8f6fd8a4a934e0248b93dec794500016, type: 2}
+    - {fileID: 2599025813932721255, guid: 8f6fd8a4a934e0248b93dec794500016, type: 2}
     - {fileID: -1702061896224381962, guid: 8f6fd8a4a934e0248b93dec794500016, type: 2}
     m_ValueSerializationHelper:
-    - e00: 1
+    - e00: 1.15
       e01: 0
       e02: 0
-      e03: 0
+      e03: -387.20023
       e10: 0
-      e11: 1
+      e11: 1.15
       e12: 0
-      e13: 0
+      e13: -50.84008
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1.2392086
+      e01: 0
+      e02: 0
+      e03: -190.6399
+      e10: 0
+      e11: 1.2392086
+      e12: 0
+      e13: -13.371223
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1.15
+      e01: 0
+      e02: 0
+      e03: -71.26001
+      e10: 0
+      e11: 1.15
+      e12: 0
+      e13: -46.99
       e20: 0
       e21: 0
       e22: 1
@@ -1079,7 +1113,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Anim
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1087,16 +1121,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Anim
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\juanc\Documents\Aquelarre\Aquelarre
+  m_LastProjectPath: C:\Users\juanc\Documents\Desarrollo de VideoJuegos 3D\Aquelarre\Aquelarre
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a330000
-    m_LastClickedID: 13162
-    m_ExpandedIDs: 000000006a33000000ca9a3b
+    m_SelectedIDs: 70700000
+    m_LastClickedID: 28784
+    m_ExpandedIDs: 00000000fa6e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1124,7 +1158,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000fa6e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

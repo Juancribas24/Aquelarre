@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 0c494fd61b50fae499ae0eb4b4d555d1
+  productGUID: 732f035af2f576445819b3f26dde651a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -669,10 +669,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: fcea3094-e98a-4254-a2c4-33e933d880ab
+  cloudProjectId: a96e38c9-9139-4b11-86ea-1ca60764d48d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Aquelarre 2024-05-09_08-35-48
+  projectName: Aquelarre
   organizationId: juancribas
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
