@@ -44,6 +44,12 @@ TagManager:
   - name: Suelo
     uniqueID: 4077682021
     locked: 0
+  - name: Paredes
+    uniqueID: 710345497
+    locked: 0
+  - name: Entorno
+    uniqueID: 3281117683
+    locked: 0
   - name: Player
     uniqueID: 292368177
     locked: 0
