@@ -1,0 +1,5135 @@
+fileFormatVersion: 2
+guid: cdd77eea6e2da2e4293d7dd673a50135
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: descarga (3)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1153
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59f9e4e06bdec49bdc27abdd444020
+      internalID: -510657341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1159
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906cb05269e1c124ca8a855658e7cff7
+      internalID: 652866090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1159
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567842646507b0c4e9fac35e63fee31d
+      internalID: 100972327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1159
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b8838e41a9b146ae64293ece36617
+      internalID: 956121160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1159
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0d853d829ee84fb3e6864212ebb90
+      internalID: -1779428651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1150
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434c6d24dc7436d428a5dc2973cfbb88
+      internalID: 2067726812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1150
+        width: 97
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1914b45f669a2c4d98c1b884974bfac
+      internalID: -1101417421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1176
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713bca1d529dc8843a43980ee0f2b78e
+      internalID: 878902559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01aaa981c02e149ac0f6fe6f02ee4b
+      internalID: -216982069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1177
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600b9ad7f374c1a48a6fe15e179629e1
+      internalID: 2012596064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1176
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6039e9abe2cf654da6c05cb5816ed52
+      internalID: -1041650194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1135
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de15c9351f804408b3663cab20ebcf
+      internalID: 1535521366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_12
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1174
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c21bda3b131ae449b63884855d7691e
+      internalID: -467083868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1174
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82bffc4f7a57c14095a3ed89a9dedd6
+      internalID: -1017260388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_14
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1174
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d00e2d207e27c14da4704dfe58f6b53
+      internalID: 569597076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_15
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1174
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afcbf73e7d5f174eb7700a747fa321f
+      internalID: -1036835065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1086
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3430cd6626374cb59b1f30118fb2e
+      internalID: 547580109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1080
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e096da4290564cba3f08b62c8e23e
+      internalID: -699120728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1108
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24a34009d1a60c4b80251c661b797c9
+      internalID: 1955751433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_19
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1081
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25d336174ca7a5429204eef264759f5
+      internalID: -771507871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4601357309f3ce48a23ed34b5599a6c
+      internalID: 1874092894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1138
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759bbaa782d2f041998c3ba83619864
+      internalID: 678734035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689d9c742d8d4b041885ebd134093020
+      internalID: 1399395018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_23
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1138
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a8a2d3efc21c43819710ecfc469fb
+      internalID: -729465367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_24
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1130
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba63885142b59ad4e80a57cd79a00f55
+      internalID: 871107482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1130
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761966c174e3bf24d8c34656a85be9f6
+      internalID: 1025910087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1130
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479c045d9abf3f4c93bacb8d2e38e00
+      internalID: -1750150615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_27
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1130
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c01a342d77e554e9425ba2361da516
+      internalID: 863849349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1095
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524dc4312f58cc145a75cc59db501c1d
+      internalID: -1849672041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1096
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fa949d8be20c24bb71a84c8a682704
+      internalID: -763653193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1096
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca47f0cc101afa42b3193aa588d5823
+      internalID: 1909276112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_31
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1050
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a68cc3cf9e7754ea597bdbbffe66b5
+      internalID: -1738787641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_32
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1087
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da639e50c23254ab422f7e47425de0
+      internalID: 1997562517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1087
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09deb79ed473b264989466159962530d
+      internalID: 640961833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_34
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1087
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0882aae479d145b92fa7511da86d4
+      internalID: -1292477476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_35
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1087
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31baee35d712b3d44a17dbe783813b13
+      internalID: -2049959978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1027
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d61c2d51598d44e9e5f385160a480c
+      internalID: -1962154488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1028
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f321505b7e199d44a00b098d07f92de
+      internalID: -128529822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1027
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d6360a5ff14448bacdd5c70cdf80b
+      internalID: -708337899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_39
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 954
+        width: 29
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68acfea17ee60543a304157e5b258e4
+      internalID: 1434418337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1044
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c53a752bca15146af5aa326c458740
+      internalID: -2098495631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1044
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b428fe7b6ae742a5f53f40225e053
+      internalID: 56701698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_42
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1044
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee7df305b4f084081b72610d20de64
+      internalID: 488766268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1044
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d14e016387322408dc08a8160aa0bf
+      internalID: -871980073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 982
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be0f0dbf6c008644977b923c98e3aa8
+      internalID: -1678940857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 982
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e07cd36f21d414d84e15011ff07bf3
+      internalID: 702208064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 981
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d54a647ff89834f80807d6eae05d32
+      internalID: 562686189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1007
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889397e1271e3214e839b80112c8340b
+      internalID: 881487245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_48
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1008
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b80c87862f1644790b25e35d4e9de2
+      internalID: -733947688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_49
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1007
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a411295c084bb434d854c04e52b8cb01
+      internalID: 296789582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 955
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d505587f96c547b6029bdd3167524
+      internalID: -218578013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_51
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 960
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9862f81dca53d114680607bf280a106e
+      internalID: 946283301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 999
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef61ebb2bb4be4c80e044172430f8b
+      internalID: 22792306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_53
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 999
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb65ba331ce45914e852149adaa40981
+      internalID: -1373310058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_54
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 999
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559f1b5c69b138e4ca7aced78989e477
+      internalID: -998453933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_55
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 999
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83525e55f9a6c2b4ebd581b821908cb9
+      internalID: -2081474317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_56
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 961
+        width: 96
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410f5836f3239624e954dc0d1de3f4fd
+      internalID: 1958258492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 962
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640ba5b698cf7f14c8ad65b767aa3e6b
+      internalID: -315286371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 968
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167a6f7b1d0a2ae4e9e61e94fd35c4ff
+      internalID: -760856011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 954
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f65a8e10ff437e42b05cefae27d682b
+      internalID: -1735410255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 954
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab6645ed112ae64fbcdc10c0e8dc5aa
+      internalID: 171934972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_61
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 954
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96ce93940a1ec4e821abb81944d9c5
+      internalID: 646768206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_62
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 954
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125772a36abcfcd4cba9eaf50729a93e
+      internalID: 2072558951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1645be283e16bbd4495f0eddc99e9988
+      internalID: -1847215962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 864
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45a009ce6d62845a455b2acb434964
+      internalID: 1420361996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 864
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffc1a5b2710a18498af1d2aeb0a40d4
+      internalID: -1533022839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_66
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 896
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f143165746a9a748bca6dcf45d5d683
+      internalID: 1188349833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 922
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec03f0f87a676234bbb5de42cac53d33
+      internalID: -732678206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 917
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e8b8753f965044095fd39375f5b984
+      internalID: -1382649238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_69
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 917
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c28feffbf7784d85dea546ef73c33
+      internalID: -1001027998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_70
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 913
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcbbce92c3529049a4196c073480bcf
+      internalID: 862176940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 903
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570d9090ab6f4d46ae5fd9b33cc4577
+      internalID: -1530602368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_72
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 903
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c050ef4f6bb838438b1f03b09c67ae2
+      internalID: 1550899189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_73
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 903
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f29b92451f403043b0376af5bb4a7c8
+      internalID: -2031109757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_74
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 903
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ebeb6f74842304da76078b48bbcbd3
+      internalID: 1558827260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_75
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 862
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f4467bcc9d55749b7b48ceba9bf6bf
+      internalID: 1609204898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_76
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 873
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5c82e632bbf96478ff5a8c3d3aa0cc
+      internalID: 986142172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_77
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 873
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69db4382c3ff5724eaed53a09815f5be
+      internalID: 102091021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_78
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 875
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7412357905b770408870426c4077b96
+      internalID: -1521035713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_79
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 875
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08a173e295aec40b3fb9c1ecf6ff7e
+      internalID: -190198865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_80
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 885
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a0f7f8e25761241b8cf0c30bf00972
+      internalID: -1264027144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_81
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 874
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da5794e61041347b76c84689dd2209
+      internalID: 792338742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 874
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2a28ac4302794e8f56705d0672ca7
+      internalID: 520927492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_83
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 876
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f60fa74c455e84188b84ffc4c5d646
+      internalID: 1053662854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 783
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3f55c24a1ef7b4e991c11c91fa3a66
+      internalID: 982214161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 783
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfd2a06f16815a47a9164f60958f5c3
+      internalID: -2112308617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 783
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b2337e9ed011f49a857c594cdaf140
+      internalID: -1084901010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 815
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371cca55d8d093b4da94e3eb30da2106
+      internalID: -640035792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 800
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338fe1bdd42a394419330c784e919107
+      internalID: -1850921405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 800
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ab8fca8dbc8540a267abaab06b1f9
+      internalID: 521705547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 790
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e32d509a123d48a1dbe34443f14fa
+      internalID: 2136904611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_91
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 790
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f14b48af40034b913f60e08df4a6b
+      internalID: 1096978979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 791
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71e7eb0ec538b448ec38f0247442a5
+      internalID: 679391283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_93
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 794
+        width: 34
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbebf4e53c80b34e85c2c5fa2d69813
+      internalID: 1048446480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_94
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 794
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7100bcf942cf6428a32951e5be8eac
+      internalID: 1998416489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_95
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 784
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d20a98283cbf343938b970fd4e62f3
+      internalID: 1900691112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 700
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c83e8d3c172cb468d26b4e28ba5e3e
+      internalID: -223011643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 700
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d300e09f4bc6f5449852f302b5d6d763
+      internalID: -1583798245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_98
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 700
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87ee631e20e604da0aea4bfb9f3ebb
+      internalID: -557169968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a332bb0d4bc6b74782d951691ba1adb
+      internalID: 733450584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_100
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 686
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9266d24653e4eb94cac31e3e3a40dd9c
+      internalID: -1377598273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_101
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 726
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72aeef4c19af9f40aa4d368f250ee0c
+      internalID: 866429576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_102
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 726
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72c4d97802c594f992fca669b7ee74
+      internalID: -2052795307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_104
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 702
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2429c1e612b77f488f4b5d25205623a
+      internalID: 239538732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_105
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 701
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90c9432c5d979f42ad7abc1df89ea80
+      internalID: -1000981936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 626
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa851b3f22dcc0d488dd6484dfdae2ca
+      internalID: -2054514539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_107
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 626
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f323e33c5f934aac64dcf1a2f9b97
+      internalID: 1198910862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_108
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 597
+        width: 28
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2be29db3d0b6824b9c1cc835e77c6f1
+      internalID: -2136430966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_109
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 612
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901c626ceb660ce4fa80f0b429dd5970
+      internalID: 1959304946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_110
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 654
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8834c15f76c314da688c89f7023605
+      internalID: 10799078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 638
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6577977a5b3ee44b64d354143aa169
+      internalID: 419374108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_112
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 638
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83985be6d2960d543960f63e53c56d48
+      internalID: -1182371121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_113
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 638
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230543e13cb8a0b4eb342f2e100b9e7c
+      internalID: -1978219634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_114
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 638
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd08bb8626f25249a42b53f83f3ef58
+      internalID: -258238046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_115
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 614
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca7a6fa435f99647aca31ebfde429b9
+      internalID: 776855714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_116
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 614
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f320f6134bc447b961638fa55c8ae
+      internalID: -2136205477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_117
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 606
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f4c01ddae48249a0df4c33c6c4d6d
+      internalID: 768769790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_118
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 606
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965da0de1e91a5e4f9ef63579bec8698
+      internalID: -1954055738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_119
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 606
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d485adabf45056429ff791343b765f3
+      internalID: -1216556220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 606
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228c8608f6cbee4a932699c192a21f6
+      internalID: -1231630754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_121
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 606
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11938d6beeb95d44da07326acf43f9e4
+      internalID: -816846322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_122
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 606
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984ed285f8bf9f248abbb5ff66d42914
+      internalID: 1753036852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_123
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 539
+        width: 13
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe67b844844144a9cef5f0caabc363
+      internalID: -1825388103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_124
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 542
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76013c1bed8b44cb544ca34e1dc101
+      internalID: 91062714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 541
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66a90e50d5cfe941920bcfb256ff38c
+      internalID: -803979507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_126
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 539
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98bb8153179c54fb3b730c5a8ffb47
+      internalID: -1477588966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_127
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 540
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a57e8149db0f34d82ff954ddf677a0
+      internalID: -412389838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_128
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 537
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91744e6a9ac5b84cb7480cc20e21234
+      internalID: -1735208954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_129
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 538
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c193e41bd171849a508e5f2a37b198
+      internalID: -578095873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_130
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 537
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edba054d1d0bf4846b2295a867f1b319
+      internalID: 196182287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_131
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 538
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe68ec58c90670438b2dd510ad6fb98
+      internalID: -1667933609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_132
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 538
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa813a489b98e794096b8f77887f51e2
+      internalID: 1837916171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_133
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 538
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79525713ad3c65449127b17173f14c0
+      internalID: 1251947744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_134
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 538
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2e81f546a6a84b9b448a0e38d5170
+      internalID: -1688143275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_135
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 538
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb297d7a0e1eb343a784740bfddc0b3
+      internalID: 773028447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_136
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 550
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58ad5f57d566e42b63c5b6e8cbba2f
+      internalID: -1059952449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_137
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 535
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ae731b9a102224b9fd84c99836af19
+      internalID: 1282364741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_138
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 527
+        width: 33
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8771fa1ba3eb743a686ab0eafc6f98
+      internalID: 1694334350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_139
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 527
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0170463edcfc47409c628caec605346
+      internalID: -1999728025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_140
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 537
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ca0d003bdf734b841fb6d076602e8
+      internalID: 1778309147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 431
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0691fa795b89945b8565346da63066
+      internalID: -835766000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_142
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 431
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604a4e4ef7787a48b1c464ce5510bd0
+      internalID: -68960837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_143
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 431
+        width: 37
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bcf4369ebbf4a488b0ff9003f70c13
+      internalID: 1406774669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_144
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 429
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a902bc9f76a0d24f9be81072cca356e
+      internalID: -1808204409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_145
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 429
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc21b900856cc946ab7a4978a789747
+      internalID: 348453755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_146
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 461
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be052398db16ba9489fb21313dda6a24
+      internalID: -691603623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_147
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 462
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa26b2ea9faee84d93bff77ddc2ff51
+      internalID: 209219199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_148
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 464
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f378ff76d2c0ea4e9e9ac91503024f0
+      internalID: -2143390335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_149
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 464
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3cc3b586e21184e91770682c8b198f
+      internalID: -712000704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_150
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 461
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bbe89ff21b09f4797b929cb6b40bfa
+      internalID: -1428126198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_151
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 462
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b24b0faca5aa41bfbab30b088b627
+      internalID: -1443256035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_152
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 464
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f7f5bf174fa24c8ffbbac2caf2b89
+      internalID: -881213838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_153
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 464
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb8cc1cd0809824e9c27b64c7d4f0db
+      internalID: 684695428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_154
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 335
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83571cf0efc493a4183666ba198043ba
+      internalID: -1035188558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_155
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 410
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa241e20248404986939ed643099c5
+      internalID: -424065658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_156
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 412
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dd3cd2a9a4ce845b5d34eb87df25d8
+      internalID: 545426633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_157
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 411
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4136bd4e89d8abb45b00e1eb087155f2
+      internalID: -1442136699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_158
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 412
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567deb79a571a6e47a35618fa9b59dff
+      internalID: 1729192482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_159
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 416
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa17f5b1aa1cb174992d581d9758a3e3
+      internalID: -1792700988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_160
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 371
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f9550176623704dbe4dbbaa8090d63
+      internalID: 51849123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 371
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd44add0c61a2047a1eca1373ea3d88
+      internalID: -1430058341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_162
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 371
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d804dbcd85846c4db829e32c5a5fdd5
+      internalID: 1947681237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_163
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 371
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b31e2cff31e8a545a3600f42846ce67
+      internalID: 2033333254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_164
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 358
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a3d6b01b25ef44fb6a5fd8f4f9d559
+      internalID: 840110022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 361
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bc342c74a89d418a60cda6efcf1eb
+      internalID: -501928927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_166
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 362
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3f9cf1fa484a1418ff38efd8672328
+      internalID: 1665439040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_167
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 362
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543829ee187d29b4eaa9f3b45df650f1
+      internalID: 126939011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_168
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 348
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8490f36abebef4ea198d2369bd6dbc
+      internalID: -1331488283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_169
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 348
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47de296af986b47803964aa933b709
+      internalID: 1984738553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_170
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 356
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cce721794b27e448abdbd415899252
+      internalID: -1518305649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_171
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 356
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545cff913dba7246ac9cdfba39c5af7
+      internalID: -1177080546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_172
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 349
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683e37afb8054a84087aeb5ade564c3a
+      internalID: 2128522208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_173
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 349
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1747174ed721e048af308b61f46bfff
+      internalID: -1101001887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_174
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 358
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e2b875136ad045a37d3f7eb651126
+      internalID: -518183235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_175
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 357
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0461d7c74c89fca42bae48ab3ad35ab1
+      internalID: -2082146835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_176
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 340
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36ab42235d6c947a7bf5dea53a5177
+      internalID: 470786217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_177
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 322
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c50031953725c488729a708504b08c
+      internalID: -553411200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_178
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 322
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769fda8bee964bb4fa204e03e8b088bc
+      internalID: 295121640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_179
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 309
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4ef819db89bd64aaeb59527f9c3515
+      internalID: 18219890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_180
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 310
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86000fbfe19a2504480327616a602b0b
+      internalID: -359789132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_181
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 300
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e812772ed20e24b85f2032ca3ae84a
+      internalID: -722760941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_182
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 300
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5fe2e06acd79b439665430d658e22e
+      internalID: -101945928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_183
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 308
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41adb949db96024c98220c20fc1702d
+      internalID: -1652647735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_184
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 308
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd907cff94e9a746a4f3087f872e4e2
+      internalID: -2102680861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_185
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 300
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b44c87f6cbbe940b24137f0609faaf
+      internalID: 1879785981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_186
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 300
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767cd83b070fd2488bbe6627ba62187
+      internalID: -1208124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_187
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 308
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54efba02a96dd614fabc8b8ff73a6c4c
+      internalID: 1289443151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_188
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 308
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5b2e78477cb546935eab66f362680
+      internalID: 1717622255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_189
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 268
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e50eef62efd24cb2b2705815476a0
+      internalID: -258918038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_190
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 298
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d097c8007225b084998331a1f618d7a7
+      internalID: 399463820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_191
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 311
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41132743a2f51d84a9b205e3ae1e07da
+      internalID: -36758346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_192
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c3ae1b2925d074b92eb482bbf6af25
+      internalID: 1480287062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_193
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5540ff47445c27148a716f89c23afaa5
+      internalID: -1653657655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_194
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe062a8a8496ba748920c62f3cdcaa9f
+      internalID: 2136938952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_195
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b2ae0cb09111b4c94cd47b5d862d40
+      internalID: -2130661096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_196
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80309b8d732df1e4b8bcfcf615271537
+      internalID: -350261335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_197
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013cac84040a4964aa3e1ec1aa8d560c
+      internalID: 2041051160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_198
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 229
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b439a737ac2bf74db37a7f9302b39ea
+      internalID: 1998150749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_199
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 229
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4670258673010b4aa7f0b16c4cc9a42
+      internalID: -1764242066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_200
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 229
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9350d8f1c0dd19646a32efbc20460c55
+      internalID: -1079048363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_201
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 248
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9bb2d8996ba544f8e2c5d3d1beb3ea
+      internalID: -2088771964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_202
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 248
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703082cad5399db4d9aa22379fb78a8b
+      internalID: -1708999602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_203
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 256
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2f8c1a64cdad438f6adb4e0be0858
+      internalID: 2010588397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_204
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 256
+        width: 11
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38a8e0372dd2b8478be45a7d7f0ffeb
+      internalID: -88892417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_205
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 246
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126422f9f4183c047b1aa52fb5a94cec
+      internalID: -214307022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_206
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 246
+        width: 13
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd67d50f5d24fc4d8d6b2db13ee9502
+      internalID: 927853379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_207
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 256
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61483f9fe1ec2c4a902ac93ec139865
+      internalID: -1678353209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_208
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 254
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54341c202be10c4ea6924e7cd8b39d3
+      internalID: 1470346460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_209
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 119
+        width: 41
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611db3e4fab77c4490e89a96bdd97db
+      internalID: 1232418333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_210
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b15d0ba105ce74e9208b2dc926df7e
+      internalID: 466205149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_211
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 152
+        width: 97
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7d81b9292fe66448c7dcacd6aab1c7
+      internalID: -155342220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_212
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 151
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c17db000301d449a1a4a86a3706832
+      internalID: 386830808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_213
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 151
+        width: 97
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1e3888ea7e6241b7a6bb3b13f451d
+      internalID: -162573656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_214
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 152
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0af0bf73cc494b9c5314ff70661ee
+      internalID: -803020149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_215
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 153
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefa2f62c772db4a853193bfedd65b3
+      internalID: 800163261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_216
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 20
+        width: 41
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a83232f653d7148838383e2d169311
+      internalID: -472286377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_217
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 20
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0ff83498840747a9a44343fbb180e
+      internalID: -135867493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721df27a7e5341c448c38236a8c973e5
+      internalID: 1000252098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_219
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 85
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67adc0cc3e37ed449a460d50d765f685
+      internalID: -2118407827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 85
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee5aac2b0d5464cb97f740762ce75c
+      internalID: 1812394742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_221
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 84
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e627d46122d291646bbe8e2e1e347cde
+      internalID: 861318795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_222
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 85
+        width: 102
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66b36301b77e4c42bbc74e612def263
+      internalID: -1805482348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_223
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 13
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6c0a93cc25e704985413fbebc8090b
+      internalID: 862888819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_224
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 12
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dc8c27cfef2fd468cd5b9f8d576566
+      internalID: -1474507616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_225
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 13
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0b1d20a71d5f24f90b1983fb162c5b
+      internalID: -657009117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_226
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 14
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c329a794bdb54d8e333dfeb17ad3c
+      internalID: -67920215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: descarga (3)_227
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 14
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a07ed7516c0dd94aa82e98f3644dbc6
+      internalID: 1717723287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      descarga (3)_0: -510657341
+      descarga (3)_1: 652866090
+      descarga (3)_10: -1041650194
+      descarga (3)_100: -1377598273
+      descarga (3)_101: 866429576
+      descarga (3)_102: -2052795307
+      descarga (3)_103: -2031755585
+      descarga (3)_104: 239538732
+      descarga (3)_105: -1000981936
+      descarga (3)_106: -2054514539
+      descarga (3)_107: 1198910862
+      descarga (3)_108: -2136430966
+      descarga (3)_109: 1959304946
+      descarga (3)_11: 1535521366
+      descarga (3)_110: 10799078
+      descarga (3)_111: 419374108
+      descarga (3)_112: -1182371121
+      descarga (3)_113: -1978219634
+      descarga (3)_114: -258238046
+      descarga (3)_115: 776855714
+      descarga (3)_116: -2136205477
+      descarga (3)_117: 768769790
+      descarga (3)_118: -1954055738
+      descarga (3)_119: -1216556220
+      descarga (3)_12: -467083868
+      descarga (3)_120: -1231630754
+      descarga (3)_121: -816846322
+      descarga (3)_122: 1753036852
+      descarga (3)_123: -1825388103
+      descarga (3)_124: 91062714
+      descarga (3)_125: -803979507
+      descarga (3)_126: -1477588966
+      descarga (3)_127: -412389838
+      descarga (3)_128: -1735208954
+      descarga (3)_129: -578095873
+      descarga (3)_13: -1017260388
+      descarga (3)_130: 196182287
+      descarga (3)_131: -1667933609
+      descarga (3)_132: 1837916171
+      descarga (3)_133: 1251947744
+      descarga (3)_134: -1688143275
+      descarga (3)_135: 773028447
+      descarga (3)_136: -1059952449
+      descarga (3)_137: 1282364741
+      descarga (3)_138: 1694334350
+      descarga (3)_139: -1999728025
+      descarga (3)_14: 569597076
+      descarga (3)_140: 1778309147
+      descarga (3)_141: -835766000
+      descarga (3)_142: -68960837
+      descarga (3)_143: 1406774669
+      descarga (3)_144: -1808204409
+      descarga (3)_145: 348453755
+      descarga (3)_146: -691603623
+      descarga (3)_147: 209219199
+      descarga (3)_148: -2143390335
+      descarga (3)_149: -712000704
+      descarga (3)_15: -1036835065
+      descarga (3)_150: -1428126198
+      descarga (3)_151: -1443256035
+      descarga (3)_152: -881213838
+      descarga (3)_153: 684695428
+      descarga (3)_154: -1035188558
+      descarga (3)_155: -424065658
+      descarga (3)_156: 545426633
+      descarga (3)_157: -1442136699
+      descarga (3)_158: 1729192482
+      descarga (3)_159: -1792700988
+      descarga (3)_16: 547580109
+      descarga (3)_160: 51849123
+      descarga (3)_161: -1430058341
+      descarga (3)_162: 1947681237
+      descarga (3)_163: 2033333254
+      descarga (3)_164: 840110022
+      descarga (3)_165: -501928927
+      descarga (3)_166: 1665439040
+      descarga (3)_167: 126939011
+      descarga (3)_168: -1331488283
+      descarga (3)_169: 1984738553
+      descarga (3)_17: -699120728
+      descarga (3)_170: -1518305649
+      descarga (3)_171: -1177080546
+      descarga (3)_172: 2128522208
+      descarga (3)_173: -1101001887
+      descarga (3)_174: -518183235
+      descarga (3)_175: -2082146835
+      descarga (3)_176: 470786217
+      descarga (3)_177: -553411200
+      descarga (3)_178: 295121640
+      descarga (3)_179: 18219890
+      descarga (3)_18: 1955751433
+      descarga (3)_180: -359789132
+      descarga (3)_181: -722760941
+      descarga (3)_182: -101945928
+      descarga (3)_183: -1652647735
+      descarga (3)_184: -2102680861
+      descarga (3)_185: 1879785981
+      descarga (3)_186: -1208124
+      descarga (3)_187: 1289443151
+      descarga (3)_188: 1717622255
+      descarga (3)_189: -258918038
+      descarga (3)_19: -771507871
+      descarga (3)_190: 399463820
+      descarga (3)_191: -36758346
+      descarga (3)_192: 1480287062
+      descarga (3)_193: -1653657655
+      descarga (3)_194: 2136938952
+      descarga (3)_195: -2130661096
+      descarga (3)_196: -350261335
+      descarga (3)_197: 2041051160
+      descarga (3)_198: 1998150749
+      descarga (3)_199: -1764242066
+      descarga (3)_2: 100972327
+      descarga (3)_20: 1874092894
+      descarga (3)_200: -1079048363
+      descarga (3)_201: -2088771964
+      descarga (3)_202: -1708999602
+      descarga (3)_203: 2010588397
+      descarga (3)_204: -88892417
+      descarga (3)_205: -214307022
+      descarga (3)_206: 927853379
+      descarga (3)_207: -1678353209
+      descarga (3)_208: 1470346460
+      descarga (3)_209: 1232418333
+      descarga (3)_21: 678734035
+      descarga (3)_210: 466205149
+      descarga (3)_211: -155342220
+      descarga (3)_212: 386830808
+      descarga (3)_213: -162573656
+      descarga (3)_214: -803020149
+      descarga (3)_215: 800163261
+      descarga (3)_216: -472286377
+      descarga (3)_217: -135867493
+      descarga (3)_218: 1000252098
+      descarga (3)_219: -2118407827
+      descarga (3)_22: 1399395018
+      descarga (3)_220: 1812394742
+      descarga (3)_221: 861318795
+      descarga (3)_222: -1805482348
+      descarga (3)_223: 862888819
+      descarga (3)_224: -1474507616
+      descarga (3)_225: -657009117
+      descarga (3)_226: -67920215
+      descarga (3)_227: 1717723287
+      descarga (3)_23: -729465367
+      descarga (3)_24: 871107482
+      descarga (3)_25: 1025910087
+      descarga (3)_26: -1750150615
+      descarga (3)_27: 863849349
+      descarga (3)_28: -1849672041
+      descarga (3)_29: -763653193
+      descarga (3)_3: 956121160
+      descarga (3)_30: 1909276112
+      descarga (3)_31: -1738787641
+      descarga (3)_32: 1997562517
+      descarga (3)_33: 640961833
+      descarga (3)_34: -1292477476
+      descarga (3)_35: -2049959978
+      descarga (3)_36: -1962154488
+      descarga (3)_37: -128529822
+      descarga (3)_38: -708337899
+      descarga (3)_39: 1434418337
+      descarga (3)_4: -1779428651
+      descarga (3)_40: -2098495631
+      descarga (3)_41: 56701698
+      descarga (3)_42: 488766268
+      descarga (3)_43: -871980073
+      descarga (3)_44: -1678940857
+      descarga (3)_45: 702208064
+      descarga (3)_46: 562686189
+      descarga (3)_47: 881487245
+      descarga (3)_48: -733947688
+      descarga (3)_49: 296789582
+      descarga (3)_5: 2067726812
+      descarga (3)_50: -218578013
+      descarga (3)_51: 946283301
+      descarga (3)_52: 22792306
+      descarga (3)_53: -1373310058
+      descarga (3)_54: -998453933
+      descarga (3)_55: -2081474317
+      descarga (3)_56: 1958258492
+      descarga (3)_57: -315286371
+      descarga (3)_58: -760856011
+      descarga (3)_59: -1735410255
+      descarga (3)_6: -1101417421
+      descarga (3)_60: 171934972
+      descarga (3)_61: 646768206
+      descarga (3)_62: 2072558951
+      descarga (3)_63: -1847215962
+      descarga (3)_64: 1420361996
+      descarga (3)_65: -1533022839
+      descarga (3)_66: 1188349833
+      descarga (3)_67: -732678206
+      descarga (3)_68: -1382649238
+      descarga (3)_69: -1001027998
+      descarga (3)_7: 878902559
+      descarga (3)_70: 862176940
+      descarga (3)_71: -1530602368
+      descarga (3)_72: 1550899189
+      descarga (3)_73: -2031109757
+      descarga (3)_74: 1558827260
+      descarga (3)_75: 1609204898
+      descarga (3)_76: 986142172
+      descarga (3)_77: 102091021
+      descarga (3)_78: -1521035713
+      descarga (3)_79: -190198865
+      descarga (3)_8: -216982069
+      descarga (3)_80: -1264027144
+      descarga (3)_81: 792338742
+      descarga (3)_82: 520927492
+      descarga (3)_83: 1053662854
+      descarga (3)_84: 982214161
+      descarga (3)_85: -2112308617
+      descarga (3)_86: -1084901010
+      descarga (3)_87: -640035792
+      descarga (3)_88: -1850921405
+      descarga (3)_89: 521705547
+      descarga (3)_9: 2012596064
+      descarga (3)_90: 2136904611
+      descarga (3)_91: 1096978979
+      descarga (3)_92: 679391283
+      descarga (3)_93: 1048446480
+      descarga (3)_94: 1998416489
+      descarga (3)_95: 1900691112
+      descarga (3)_96: -223011643
+      descarga (3)_97: -1583798245
+      descarga (3)_98: -557169968
+      descarga (3)_99: 733450584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
