@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -106,9 +106,4558 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Aristarco_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2048
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b608f0966249764193d842289097325
+      internalID: 1307416915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2048
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e766a9d5677ee49448480707be34b41e
+      internalID: -1851273297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2048
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ff87b644cd3a6408da749b1427f621
+      internalID: 653226409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2048
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89b237a5c2d1646aca95be44f0ac9e
+      internalID: 1032538055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2048
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75baffdfbe5fa5649963566f7b12847c
+      internalID: 1913899762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2048
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765eed7043c4f204c956ce04d3560e52
+      internalID: -56550802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2049
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a03f9bd3586c4d9c3a5f0cc862d57
+      internalID: 544478198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1984
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505a055bd41dcd44c97d8f4e0246cc43
+      internalID: 1065254816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1984
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa825351721ceb94d805bf2755022584
+      internalID: -1881448439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1984
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5394840f53392194d82123eb0b5a37a7
+      internalID: 1507980117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31d742f3e642f45b793799ae11fde2
+      internalID: -1642599003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1984
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c6d505dc1df6b43a0ff3aab6a0612b
+      internalID: -748757353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1984
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f021c41f35db3a40a25f0831de746d0
+      internalID: -1917172530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1984
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700c74242982354abe022b293d4d8ab
+      internalID: 1227187743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1920
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab23eccfaac5c4c9c5a66d4609b6ed
+      internalID: 995691940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1920
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d1f2838a97de54a85b5d485a1792a5
+      internalID: -924402174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1920
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12336cf535ae4094cb03ac37c9489c28
+      internalID: -1101394546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1920
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beb7ef7bbf7c0e448a0152ab71a5dc1
+      internalID: -1979590564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1920
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f19dc40051cf7140a1afdf777800fb3
+      internalID: 2121214788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1920
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be073c0c78240754b967b4ec69d83586
+      internalID: 1692144161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1920
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b7fff441a226c44a7ad1fa41762082
+      internalID: -195208574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1856
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f7caed14c90b148b56ee13bc28366d
+      internalID: -1034281781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1856
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5bc303bbd02140a4a1387b38c1773
+      internalID: -1030119920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1856
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107087c6f60cb64085dcb822e5a2a0c
+      internalID: 887218588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1856
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d7541ff502d184b99be9ab87c84e4c
+      internalID: 513500021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a07f6cc84800144abb5c75dae324e4
+      internalID: -1185325475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1856
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a257f512629d4480dceb6b24695fe
+      internalID: 2139697699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1856
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6d40a5859d134aa8a63cadd079534
+      internalID: -362137431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1792
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b35605c11d4e40b93c986fa02c4fe
+      internalID: -318515943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1792
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982f724861bc7f6409cf42edc06cbfe7
+      internalID: 1498384295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1792
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca3083a89dce94092ce6b338a6ddba
+      internalID: 2020838047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1792
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c90312a5855c64489748c3a955fb4b
+      internalID: 1236411697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1792
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afaa7b202ef564b8907d452bd0a631
+      internalID: -48236334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1792
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c38db485510eb4d9c59018d33c2761
+      internalID: -1833801349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1792
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675bcb17895895449e3b3769acfa99e
+      internalID: -1574346363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1792
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56864dad110c814d9661704d54a59f1
+      internalID: -600044389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1728
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31f16af5b2d89845bbd2bf2716d0886
+      internalID: -1847722712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1728
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547ec58b383e8d4c8a28b43082ffa24
+      internalID: 1957652730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1728
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed25a3ea4ef9ec40af3196a972861c8
+      internalID: 1752882059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1728
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3bf01631dee5f44b24e86d97e4825a
+      internalID: 1111705022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1728
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba96c8e73717d946b268c9a448a9d6c
+      internalID: 1853933709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1728
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b87d5b078a5b842a3175abdb30891a
+      internalID: -1297119915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1728
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ab326da54b63439bc0b7c86a6c8fc
+      internalID: -274731415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1728
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d7357df5d99dc43b1771b4a4fe55bd
+      internalID: -1756474683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34a6955382434849ad0f25455312d15
+      internalID: -1418421705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1664
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70116c19b21a2c46a9652a44f62083a
+      internalID: -377818081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1664
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56957051a39c142b7a5ebe877606d1
+      internalID: 2120886505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1665
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dba0cc9ecde74b94880993407351f
+      internalID: 186189763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1665
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92804443bd15e8246976d8583af91bef
+      internalID: -1003033021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1664
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ecad1939dd63b478c0f6aaa2565d7c
+      internalID: -1524423095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1665
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab72c8077bbf904593486ad042808fd
+      internalID: 1030251242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1665
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87f8cafabfdf914bb8cef1069d2c32b
+      internalID: 1005816080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1600
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83765d3683e2ef459527789aa9bdde5
+      internalID: 564287367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1600
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc355f530f8009488fefeaa85003ad5
+      internalID: 1995153497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1600
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bf2abc7de17c1408be144155c3325e
+      internalID: -2042279651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1600
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f7c4dd01a763042af53d38df61d9a9
+      internalID: -1748789094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1600
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464b1472e2f138c48ab0a750cf84951d
+      internalID: -331408018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1600
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffce131e066943438935a37f6187aa4
+      internalID: -643512200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1600
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b489221eeaee84896609cb7364f107
+      internalID: 759714297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1600
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c78242a5bb49d4b9c477d6e1d4494a
+      internalID: -1133666800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1536
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e70623cb4289943b44fc910deb127e
+      internalID: -969534023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1536
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe761a190d37d942886a9cc5db3fc67
+      internalID: -2001124237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ba138155d503498b03ccbc4f4d75e
+      internalID: -1497628512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1536
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ebd7cdd28782d49a7bef261dfe4285
+      internalID: 478776160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a381b1ad0137348b2ceedd0e6ad89c
+      internalID: -2113513900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66d2bacf7fe7824a9e083aa8a599230
+      internalID: -949264708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c168342178f924c95728e4518720f8
+      internalID: -313698100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e6a69840c2d34c851f4a89b31ebcc
+      internalID: -1766144038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1536
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ba87cb02542bb44902a0ac23a4faa9
+      internalID: 573598626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1472
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58229dcc9bad23744ba2959e1bf87bf3
+      internalID: 1148472205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa6b597c5497743b53daa250f53f5f
+      internalID: -1318351364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1472
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3ffb76468c444b90d7bb8773b74a3
+      internalID: -992577190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1472
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689cd6126eb6d7c46b4b684660a37cea
+      internalID: -1461989984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1472
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b8b83280dad348acc2332f419ecdd
+      internalID: -1782773502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1472
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c0b71d6f69dd94c86da705e21b2998
+      internalID: 98790613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1472
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0db842f6a6183489b18f4434f87e25
+      internalID: 12073387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1472
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a69cf9b1b2bba4788e48382c14c08e
+      internalID: -178824850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1472
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c25bd809d9fb9469c873b07cbe67a8
+      internalID: -361847406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1408
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cc0204624b3244aaceed0fb526b0cd
+      internalID: -273995029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1408
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeaab1246ba40849999ff8388a9447b
+      internalID: -2020834558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1408
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fb4db8d15bc844798c994e7acdaec2
+      internalID: 205633929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1408
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee88fdba4eaedc444931a206da8e79a8
+      internalID: 477280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1408
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579919c460f9f4840bdd50b06b34cd51
+      internalID: 1840270537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1408
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c9573c1ed4e1438618a78fa0ce7cb
+      internalID: -1963862164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1408
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c60fc8d448bbac448b7c9fa4c5c9e3b
+      internalID: -1959392095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1408
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c99fc3606ba4d344916d068914b321c
+      internalID: 1115961091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1408
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877c25b1757efd347a338daf09fe77a6
+      internalID: 1099951428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1344
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175f7e11368a5ef4ab7d0a845cd51cbe
+      internalID: -1658369143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0db6e17db6164c85fbbabbaffafa3
+      internalID: 957942067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1344
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a54da3a8143a42a11ca75c7825cbd
+      internalID: 1225171784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1344
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371fe95252e31ec4e9bef7a38404a570
+      internalID: -1665945588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1344
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c9fca89ae8b74fa0f034b3513fa79
+      internalID: 943546707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1344
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f79068f859d0b44b9f2eb4c0172780
+      internalID: -1443773208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1344
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95588eb03a26021429b17811f6b66f24
+      internalID: 370787491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1344
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab177e559a5ded846a8c7ed9228459a7
+      internalID: -2073663673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1344
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b9ad2ce65f9645a809a7e970d46e3
+      internalID: 61778668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c81a7b3af4dfe4428fb0e462b0f3e5b
+      internalID: -1565610494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1280
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eef4eb13a4ef847a8022f49b1af699
+      internalID: -1368979103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1280
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d85f355ec96f144aeb4fc3775e33a6
+      internalID: 2129141884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f420e1a0ede7fc488ae9073dd8a32ad
+      internalID: 788289676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2eabbdea393e445a37cc085a6e1320
+      internalID: -551983907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1280
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5d8ed429c828f498d75ec6c0443587
+      internalID: 2146605798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1283
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1c841c7986d94993f7cb5a42aa30f
+      internalID: 188207940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1281
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a19eb76b47f65b4dbadf1742b55f995
+      internalID: 462043954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1281
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e17a8873584504492708d873d720bb
+      internalID: -935946932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1284
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36119efa771037f4ab940c9df82ce5d8
+      internalID: -875669875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1284
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f3781a05a40a24cb06268f9f22f712
+      internalID: -759373888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1284
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954a51fddaa7b224c9e8b181126d3f5e
+      internalID: 872426277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c816007f67b121240bf5fbaa99fe893a
+      internalID: 1677209651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d9547abbc5d5d44bed99a664376c9c
+      internalID: -121020529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1216
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a20920feaed699468ac2a289c17d305
+      internalID: 1506941139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ee16633f48ac742a6bbd5bcde73c4c
+      internalID: 1766474252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1216
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978fd07d6639083498f6d4f34fb206ae
+      internalID: 1245074914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e62d503547ee1f45815a5c260762c75
+      internalID: -358103112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5d68b759b34dd4ca3e008e93dcefc5
+      internalID: 1740751671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55deecc71172753419697c8a01645fe1
+      internalID: 983643533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1152
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c3e45059e72c499b43e8bfdf8fa1f
+      internalID: 428359440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1152
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b804d6e2f8263a468433a4b732e5bdd
+      internalID: 1848795190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1152
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e486a7deccb26664f94ecf8408c7d74d
+      internalID: 1397528969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1152
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bb9a36d49e80541bd341627b606293
+      internalID: -1114674298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1088
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e9b0a1ca471af4ea9033c3dd841ef7
+      internalID: 986873391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1088
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48565d0fe2712f34bbeb2783822c079f
+      internalID: 1729981181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9931833fb5e8c434dabf5dd95c5d2aa9
+      internalID: -1250532246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1088
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d983329017327046a014108d1cd0e63
+      internalID: 1038690724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1088
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ceebc6f800e5a4c93ec2a23b6e23b8
+      internalID: 581809120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1088
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca25a748690cc243a992b80e1eba2ad
+      internalID: 1322195737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b95a52e7c3ce48958f111e9927706
+      internalID: -258489725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146fb59708839f640a4643c1252cb50b
+      internalID: -1873804569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03e332da659e3048aac85faecec9bbf
+      internalID: 768920592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f52c86da03f3a43a79cbdd9ad64e29
+      internalID: 1992753696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba00a79add785b419ac40c122f8d204
+      internalID: -456923979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1024
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95b5adb4269932468d65c8957183dcd
+      internalID: 599405126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1024
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6d3d0f092ca454cae6bf90b733fce3
+      internalID: -1601830604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1024
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f2efe458771d40b3b81c85c445117
+      internalID: -1785707444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33b93a91c4b93549afbc8ac87f03c42
+      internalID: -584155682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1024
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc2ef7bd6d7c124c92eb727a4b9bc16
+      internalID: 1026367377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20f0ebe5ea569148bc53a0138072bbd
+      internalID: -1063034854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39521b02141fcf142bc3967cf8991bc4
+      internalID: -558006893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1024
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad423ed9bc616e948bb14330ae3e8564
+      internalID: 1134829171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 960
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647c79f60d99fb459f025ddd2fa2f62
+      internalID: -1752698286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb816fea603a4544bfbdace7cfbd8df
+      internalID: -392514347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 960
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40559accb1b374382e874012314690
+      internalID: 1438338852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498fd526d70dca46a485ee23a23adaa
+      internalID: -1339554067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc00693742e7284c87500f61ef88a46
+      internalID: -493242447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8413d4b52b064d041ac1df78cac934d8
+      internalID: 749333627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9e2089864a5a44b95170fbf71ddc2
+      internalID: 828612333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 960
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e261a3fda6c5d4884aed9c4684f542
+      internalID: -2021404574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 960
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986fb09496f19cb4dbd1639a260019e4
+      internalID: 1562360191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c7c9fc065fb14b89a0ea2686c255c
+      internalID: 485282248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33665ac126fd7164791b6b70ac502845
+      internalID: -1224331420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca1db8358d110649a90c97b23cfed94
+      internalID: -1164556213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2bf2cef28a3648b45fbf1ea39deea
+      internalID: 1440798367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33aea72c019f2624999c6d4c0c9c9447
+      internalID: 741436570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30dc877c51c2cd4bb2aeeccf0f1e139
+      internalID: 1669556998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 896
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ddfa0c43c0a14ab37603e75da0187
+      internalID: -617423006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f7e38d52dddcd40938fdcfd1cfc913
+      internalID: 1311849157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14728dd486bb08d4fafb4b4e8060ed95
+      internalID: -382651650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0b1b2ea51989f4c82ca1b6e8b2c351
+      internalID: -198858683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59d9d8b0e4e514590f91a5c5f13fcd
+      internalID: -1292486067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3ead736d00d194d85c6c44ba71fae9
+      internalID: 1815375679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e29a9ef4682d47972892e51f43339
+      internalID: 1695205224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153dd986910224843821b52342abad3e
+      internalID: -1545661073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 896
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126943d0c4ef37449a784a2a76df5ad7
+      internalID: -530126701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 896
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a39327df2b89542b66cf4260057d04
+      internalID: 234090209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 896
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6b5d999982414f92b88c81b6e6522
+      internalID: 1909074045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcaa2cc287a5bd429e4808eb44d4fbf
+      internalID: -1323939728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 832
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7b6c6ff22a9043b4d12cc0bfc0356
+      internalID: 1147245374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36d9983381a7b4e8c270215f21be5f
+      internalID: 436874569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda4ce3f724010448eba5eb63f116ad
+      internalID: -761932515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4f7b9256f9404eab1c0d82617f923
+      internalID: 150262862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 832
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5043f8dd5980384fadd5a9731215831
+      internalID: -1183500509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ab6b7b217c2d49b63b4719ffd7ee1
+      internalID: -112727836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 832
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac7423c038392498b6f81036cd032e
+      internalID: -390178355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 832
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ddb66a86280b42a55b06cedf2ea27
+      internalID: 939736890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e695177b97f4c45ae99517af2a242f
+      internalID: 540306819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03540a687d4fdaf4bbb59687d3dfeede
+      internalID: -1795292035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ad7ea3eed9f6b4f99952294eb004cc
+      internalID: 576827416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5e0f5a466b11a4d9eb2a961154433d
+      internalID: 1191762307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48626538eec78324f8a87bbe75cbca4d
+      internalID: 312745902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 768
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f901e98810d8c904b822b230d1f4ccb3
+      internalID: 220568816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b6c56422d71e42bf2c23ea92ce726
+      internalID: -1581694338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d5c0977640e874ea5c9e21d853a618
+      internalID: -1029046717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ef288472d3fc4385b8d3e4b6c96e8
+      internalID: -60650892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 768
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b48feb20abb2e4d9c4c9c9e93c1085
+      internalID: 1872263494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 640
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb47cdc9b9d36d458fe065aef4fb6bf
+      internalID: -829588436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4aed851b0c94a4498c3296a539b6ac
+      internalID: 1627263148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 640
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ae8cd8843a444aa4bd39a58bc5642
+      internalID: -1598081487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 640
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79550198cdd67444bcb6d74a097ebc9
+      internalID: -1745780039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 640
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f1139964fd1e459b4ff717c5c3883
+      internalID: 31319459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 640
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263286ddc9622354b9076778e3932d70
+      internalID: 1808703375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 640
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056db5140ed3cfc41ab9fd6b911b2f6e
+      internalID: -2088913468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 640
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32f99b2c708afa49abd94aa747abe5d
+      internalID: 1912167042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 448
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa8ebc2faa15d4fa588d48289d7b91
+      internalID: -1385860037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 448
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57032953166cda048b75e42381aaee90
+      internalID: -425663664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 448
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760a2226986ee943a1bf926562dfa5b
+      internalID: 1252719114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 448
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db3c4c7b0c0a04990e60fb1b56b699
+      internalID: -1773179916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 448
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ca8f920bf6a0d4c81924c82ea622ad
+      internalID: 365788468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 448
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df3e4d80680d1840ad372020c191b77
+      internalID: -804007004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 448
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96b8aa1c6787e49a9ad4d4ebe9e86b
+      internalID: 700141835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 448
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cf5b47df188464cb55df6fd82ccd75
+      internalID: -1356467815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba71fc578760fff4eaf4b043c69737ef
+      internalID: 2068203373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 256
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb632eb228e1e514b8a9f4d6327c8a98
+      internalID: -447364087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 256
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0449d5fa78aa1084ea3035b33bce472a
+      internalID: 144290946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 257
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58e62f38d871494a881794a86cbefe9
+      internalID: 1013073396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 257
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4222a52e8600a648886d99141722e63
+      internalID: 1843748910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 256
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf328229f49e4f64aa7374619675ed7d
+      internalID: -1466223168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 257
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580224d2a0ec63d4f906ec0593bfbc68
+      internalID: -939237975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 257
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10e6f4d33f0a748a90e76c912891e1
+      internalID: -479055514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 64
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241a994978f5c60418993643eb56ed81
+      internalID: 866967654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 64
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad97b64e0ab6d164cbd085c78ef575d8
+      internalID: 213720278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 64
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eade6e7592ae5e04da5f7cb45cd0703e
+      internalID: 1607868291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 64
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51711cc3499d6c14385badf9650348d8
+      internalID: -1424692724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 64
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb57620b58a7c2449678353dc8bb3a7
+      internalID: 1993912457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 64
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae67b9fbd65fea408b6467aa7c71e98
+      internalID: 861776366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 64
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e6a540fd04bf4b8d320297d2e3f40
+      internalID: 524789972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aristarco_Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 64
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0da60711132944a5404d8648bcadc
+      internalID: 224981633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +4668,223 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Aristarco_Sheet_0: 1307416915
+      Aristarco_Sheet_1: -1851273297
+      Aristarco_Sheet_10: -1642599003
+      Aristarco_Sheet_100: -551983907
+      Aristarco_Sheet_101: 2146605798
+      Aristarco_Sheet_102: 188207940
+      Aristarco_Sheet_103: 462043954
+      Aristarco_Sheet_104: -935946932
+      Aristarco_Sheet_105: -875669875
+      Aristarco_Sheet_106: -759373888
+      Aristarco_Sheet_107: 872426277
+      Aristarco_Sheet_108: 1677209651
+      Aristarco_Sheet_109: -121020529
+      Aristarco_Sheet_11: -748757353
+      Aristarco_Sheet_110: 1506941139
+      Aristarco_Sheet_111: 1766474252
+      Aristarco_Sheet_112: 1245074914
+      Aristarco_Sheet_113: -358103112
+      Aristarco_Sheet_114: 1740751671
+      Aristarco_Sheet_115: 983643533
+      Aristarco_Sheet_116: 428359440
+      Aristarco_Sheet_117: 1848795190
+      Aristarco_Sheet_118: 1397528969
+      Aristarco_Sheet_119: -1114674298
+      Aristarco_Sheet_12: -1917172530
+      Aristarco_Sheet_120: 986873391
+      Aristarco_Sheet_121: 1729981181
+      Aristarco_Sheet_122: -1250532246
+      Aristarco_Sheet_123: 1038690724
+      Aristarco_Sheet_124: 581809120
+      Aristarco_Sheet_125: 1322195737
+      Aristarco_Sheet_126: -258489725
+      Aristarco_Sheet_127: -1873804569
+      Aristarco_Sheet_128: 768920592
+      Aristarco_Sheet_129: 1992753696
+      Aristarco_Sheet_13: 1227187743
+      Aristarco_Sheet_130: -456923979
+      Aristarco_Sheet_131: 599405126
+      Aristarco_Sheet_132: -1601830604
+      Aristarco_Sheet_133: -1785707444
+      Aristarco_Sheet_134: -584155682
+      Aristarco_Sheet_135: 1026367377
+      Aristarco_Sheet_136: -1063034854
+      Aristarco_Sheet_137: -558006893
+      Aristarco_Sheet_138: 1134829171
+      Aristarco_Sheet_139: -1752698286
+      Aristarco_Sheet_14: 995691940
+      Aristarco_Sheet_140: -392514347
+      Aristarco_Sheet_141: 1438338852
+      Aristarco_Sheet_142: -1339554067
+      Aristarco_Sheet_143: -493242447
+      Aristarco_Sheet_144: 749333627
+      Aristarco_Sheet_145: 828612333
+      Aristarco_Sheet_146: -2021404574
+      Aristarco_Sheet_147: 1562360191
+      Aristarco_Sheet_148: 485282248
+      Aristarco_Sheet_149: -1224331420
+      Aristarco_Sheet_15: -924402174
+      Aristarco_Sheet_150: -1164556213
+      Aristarco_Sheet_151: 1440798367
+      Aristarco_Sheet_152: 741436570
+      Aristarco_Sheet_153: 1669556998
+      Aristarco_Sheet_154: -617423006
+      Aristarco_Sheet_155: 1311849157
+      Aristarco_Sheet_156: -382651650
+      Aristarco_Sheet_157: -198858683
+      Aristarco_Sheet_158: -1292486067
+      Aristarco_Sheet_159: 1815375679
+      Aristarco_Sheet_16: -1101394546
+      Aristarco_Sheet_160: 1695205224
+      Aristarco_Sheet_161: -1545661073
+      Aristarco_Sheet_162: -530126701
+      Aristarco_Sheet_163: 234090209
+      Aristarco_Sheet_164: 1909074045
+      Aristarco_Sheet_165: -1323939728
+      Aristarco_Sheet_166: 1147245374
+      Aristarco_Sheet_167: 436874569
+      Aristarco_Sheet_168: -761932515
+      Aristarco_Sheet_169: 150262862
+      Aristarco_Sheet_17: -1979590564
+      Aristarco_Sheet_170: -1183500509
+      Aristarco_Sheet_171: -112727836
+      Aristarco_Sheet_172: -390178355
+      Aristarco_Sheet_173: 939736890
+      Aristarco_Sheet_174: 540306819
+      Aristarco_Sheet_175: -1795292035
+      Aristarco_Sheet_176: 576827416
+      Aristarco_Sheet_177: 1191762307
+      Aristarco_Sheet_178: 312745902
+      Aristarco_Sheet_179: 220568816
+      Aristarco_Sheet_18: 2121214788
+      Aristarco_Sheet_180: -1581694338
+      Aristarco_Sheet_181: -1029046717
+      Aristarco_Sheet_182: -60650892
+      Aristarco_Sheet_183: 1872263494
+      Aristarco_Sheet_184: -829588436
+      Aristarco_Sheet_185: 1627263148
+      Aristarco_Sheet_186: -1598081487
+      Aristarco_Sheet_187: -1745780039
+      Aristarco_Sheet_188: 31319459
+      Aristarco_Sheet_189: 1808703375
+      Aristarco_Sheet_19: 1692144161
+      Aristarco_Sheet_190: -2088913468
+      Aristarco_Sheet_191: 1912167042
+      Aristarco_Sheet_192: -1385860037
+      Aristarco_Sheet_193: -425663664
+      Aristarco_Sheet_194: 1252719114
+      Aristarco_Sheet_195: -1773179916
+      Aristarco_Sheet_196: 365788468
+      Aristarco_Sheet_197: -804007004
+      Aristarco_Sheet_198: 700141835
+      Aristarco_Sheet_199: -1356467815
+      Aristarco_Sheet_2: 653226409
+      Aristarco_Sheet_20: -195208574
+      Aristarco_Sheet_200: 2068203373
+      Aristarco_Sheet_201: -447364087
+      Aristarco_Sheet_202: 144290946
+      Aristarco_Sheet_203: 1013073396
+      Aristarco_Sheet_204: 1843748910
+      Aristarco_Sheet_205: -1466223168
+      Aristarco_Sheet_206: -939237975
+      Aristarco_Sheet_207: -479055514
+      Aristarco_Sheet_208: 866967654
+      Aristarco_Sheet_209: 213720278
+      Aristarco_Sheet_21: -1034281781
+      Aristarco_Sheet_210: 1607868291
+      Aristarco_Sheet_211: -1424692724
+      Aristarco_Sheet_212: 1993912457
+      Aristarco_Sheet_213: 861776366
+      Aristarco_Sheet_214: 524789972
+      Aristarco_Sheet_215: 224981633
+      Aristarco_Sheet_22: -1030119920
+      Aristarco_Sheet_23: 887218588
+      Aristarco_Sheet_24: 513500021
+      Aristarco_Sheet_25: -1185325475
+      Aristarco_Sheet_26: 2139697699
+      Aristarco_Sheet_27: -362137431
+      Aristarco_Sheet_28: -318515943
+      Aristarco_Sheet_29: 1498384295
+      Aristarco_Sheet_3: 1032538055
+      Aristarco_Sheet_30: 2020838047
+      Aristarco_Sheet_31: 1236411697
+      Aristarco_Sheet_32: -48236334
+      Aristarco_Sheet_33: -1833801349
+      Aristarco_Sheet_34: -1574346363
+      Aristarco_Sheet_35: -600044389
+      Aristarco_Sheet_36: -1847722712
+      Aristarco_Sheet_37: 1957652730
+      Aristarco_Sheet_38: 1752882059
+      Aristarco_Sheet_39: 1111705022
+      Aristarco_Sheet_4: 1913899762
+      Aristarco_Sheet_40: 1853933709
+      Aristarco_Sheet_41: -1297119915
+      Aristarco_Sheet_42: -274731415
+      Aristarco_Sheet_43: -1756474683
+      Aristarco_Sheet_44: -1418421705
+      Aristarco_Sheet_45: -377818081
+      Aristarco_Sheet_46: 2120886505
+      Aristarco_Sheet_47: 186189763
+      Aristarco_Sheet_48: -1003033021
+      Aristarco_Sheet_49: -1524423095
+      Aristarco_Sheet_5: -56550802
+      Aristarco_Sheet_50: 1030251242
+      Aristarco_Sheet_51: 1005816080
+      Aristarco_Sheet_52: 564287367
+      Aristarco_Sheet_53: 1995153497
+      Aristarco_Sheet_54: -2042279651
+      Aristarco_Sheet_55: -1748789094
+      Aristarco_Sheet_56: -331408018
+      Aristarco_Sheet_57: -643512200
+      Aristarco_Sheet_58: 759714297
+      Aristarco_Sheet_59: -1133666800
+      Aristarco_Sheet_6: 544478198
+      Aristarco_Sheet_60: -969534023
+      Aristarco_Sheet_61: -2001124237
+      Aristarco_Sheet_62: -1497628512
+      Aristarco_Sheet_63: 478776160
+      Aristarco_Sheet_64: -2113513900
+      Aristarco_Sheet_65: -949264708
+      Aristarco_Sheet_66: -313698100
+      Aristarco_Sheet_67: -1766144038
+      Aristarco_Sheet_68: 573598626
+      Aristarco_Sheet_69: 1148472205
+      Aristarco_Sheet_7: 1065254816
+      Aristarco_Sheet_70: -1318351364
+      Aristarco_Sheet_71: -992577190
+      Aristarco_Sheet_72: -1461989984
+      Aristarco_Sheet_73: -1782773502
+      Aristarco_Sheet_74: 98790613
+      Aristarco_Sheet_75: 12073387
+      Aristarco_Sheet_76: -178824850
+      Aristarco_Sheet_77: -361847406
+      Aristarco_Sheet_78: -273995029
+      Aristarco_Sheet_79: -2020834558
+      Aristarco_Sheet_8: -1881448439
+      Aristarco_Sheet_80: 205633929
+      Aristarco_Sheet_81: 477280747
+      Aristarco_Sheet_82: 1840270537
+      Aristarco_Sheet_83: -1963862164
+      Aristarco_Sheet_84: -1959392095
+      Aristarco_Sheet_85: 1115961091
+      Aristarco_Sheet_86: 1099951428
+      Aristarco_Sheet_87: -1658369143
+      Aristarco_Sheet_88: 957942067
+      Aristarco_Sheet_89: 1225171784
+      Aristarco_Sheet_9: 1507980117
+      Aristarco_Sheet_90: -1665945588
+      Aristarco_Sheet_91: 943546707
+      Aristarco_Sheet_92: -1443773208
+      Aristarco_Sheet_93: 370787491
+      Aristarco_Sheet_94: -2073663673
+      Aristarco_Sheet_95: 61778668
+      Aristarco_Sheet_96: -1565610494
+      Aristarco_Sheet_97: -1368979103
+      Aristarco_Sheet_98: 2129141884
+      Aristarco_Sheet_99: 788289676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
