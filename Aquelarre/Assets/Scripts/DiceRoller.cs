@@ -9,6 +9,7 @@ public class DiceRoller : MonoBehaviour
     public Sprite[] diceFaces; // Array de sprites de cada cara del dado
     public float rotationTime = 1.0f; // Tiempo total de la animación
     private SpriteRenderer spriteRenderer;
+    private int lastRoll; // Último resultado del dado
 
     void Awake()
     {
@@ -50,5 +51,10 @@ public class DiceRoller : MonoBehaviour
         // Decide el resultado final
         randomFace = Random.Range(0, diceFaces.Length);
         spriteRenderer.sprite = diceFaces[randomFace];
+        lastRoll = randomFace + 1; // Almacena el resultado final
+    }
+    public int GetLastRoll()
+    {
+        return lastRoll;
     }
 }
