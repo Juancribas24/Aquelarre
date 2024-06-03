@@ -9,4 +9,5 @@ public class EnemyStatsManager : ScriptableObject
     public int strength;
     public int dexterity;
     public int intelligence;
+    public int defense;
 }

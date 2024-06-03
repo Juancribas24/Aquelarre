@@ -8,6 +8,21 @@ public class TurnBasedCombat : MonoBehaviour
     public List<PlayerCharacter> playerCharacters;
     public List<Character> enemyCharacters;
     private Queue<MonoBehaviour> turnOrder;
+    public GameObject combatUI; // Referencia a la UI del combate
+
+    public static TurnBasedCombat Instance { get; private set; }
+
+    void Awake()
+    {
+        if (Instance == null)
+        {
+            Instance = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
     void Start()
     {
@@ -16,6 +31,15 @@ public class TurnBasedCombat : MonoBehaviour
 
     void InitializeCombat()
     {
+        // Deshabilitar el movimiento del jugador
+        foreach (PlayerCharacter player in playerCharacters)
+        {
+            player.GetComponent<PlayerMovInputSystem>().canMove = false;
+        }
+
+        // Mostrar la UI del combate
+        combatUI.SetActive(true);
+
         StartCoroutine(DetermineTurnOrder());
     }
 
@@ -40,7 +64,8 @@ public class TurnBasedCombat : MonoBehaviour
             MonoBehaviour currentCharacter = turnOrder.Dequeue();
             if (currentCharacter is PlayerCharacter playerCharacter)
             {
-                playerCharacter.TakeTurn(this);
+                // Esperar a que el jugador haga clic en el botón de ataque
+                // No llamamos automáticamente a TakeTurn
             }
             else if (currentCharacter is Character enemyCharacter)
             {
@@ -56,5 +81,19 @@ public class TurnBasedCombat : MonoBehaviour
     public void EndTurn()
     {
         StartNextTurn();
+    }
+
+    public void OnMagicAttackButtonPressed()
+    {
+        // Seleccionar el jugador y el enemigo objetivo (puedes mejorar esto para seleccionar enemigos específicos)
+        PlayerCharacter currentPlayer = turnOrder.Peek() as PlayerCharacter;
+        if (currentPlayer != null)
+        {
+            Character targetEnemy = enemyCharacters[Random.Range(0, enemyCharacters.Count)];
+            currentPlayer.PerformMagicAttack(targetEnemy);
+            turnOrder.Dequeue(); // Eliminar el jugador de la cola ya que está realizando su turno
+            Debug.Log("Se usó");
+        }
+        Debug.Log("No se usó");
     }
 }

@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: Aristarco
   m_EditorClassIdentifier: 
   maxHealth: 150
-  strength: 15
+  strength: 25
   dexterity: 25
   intelligence: 40
+  deffense: 25

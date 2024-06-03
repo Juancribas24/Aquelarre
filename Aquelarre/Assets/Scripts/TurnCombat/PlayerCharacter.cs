@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlayerCharacter : MonoBehaviour
 {
     public NPCStatsManager npcStats;
+    public GameObject magicAttackPrefab; // Prefab del ataque mágico
     private int currentHealth;
 
     void Start()
@@ -21,28 +22,46 @@ public class PlayerCharacter : MonoBehaviour
 
     public void TakeTurn(TurnBasedCombat combat)
     {
-        StartCoroutine(PerformAttack(combat));
+        // Aquí no iniciamos automáticamente el ataque, sino que esperamos a que el jugador haga clic en el botón de la UI.
     }
 
-    IEnumerator PerformAttack(TurnBasedCombat combat)
+    public void PerformMagicAttack(Character target)
     {
-        DiceRoller.Instance.RollDice();
-        yield return new WaitForSeconds(DiceRoller.Instance.rotationTime);
-
-        int diceRoll = DiceRoller.Instance.GetLastRoll();
-        int damage = CalculateDamage(diceRoll);
-
-        // Example attack on a random enemy
-        //Character target = combat.allCharacters[Random.Range(0, combat.allCharacters.Count)];
-        //target.TakeDamage(damage);
-
-        // End the turn
-        combat.EndTurn();
+        StartCoroutine(ExecuteMagicAttack(target));
     }
 
-    int CalculateDamage(int diceRoll)
+    IEnumerator ExecuteMagicAttack(Character target)
     {
-        return npcStats.strength + diceRoll;
+        // Instanciar el prefab del ataque mágico
+        GameObject attackInstance = Instantiate(magicAttackPrefab, transform.position, Quaternion.identity);
+
+        // Aquí puedes agregar animaciones o efectos especiales antes de aplicar el daño
+
+        yield return new WaitForSeconds(2.0f); // Duración de la habilidad
+
+        // Calcular el daño basado en la inteligencia del jugador y la defensa del enemigo
+        int damage = CalculateDamage(target);
+
+        // Aplicar el daño al enemigo
+        target.TakeDamage(damage);
+
+        // Destruir el prefab del ataque después de usarlo
+        Destroy(attackInstance);
+
+        // Terminar el turno
+        TurnBasedCombat.Instance.EndTurn();
+    }
+
+    int CalculateDamage(Character target)
+    {
+        Enemy enemyComponent = target.GetComponent<Enemy>();
+        if (enemyComponent != null)
+        {
+            int attackPower = npcStats.intelligence;
+            int enemyDefense = enemyComponent.enemyStats.defense; // Asumiendo que agregaste 'defense' en EnemyStatsManager
+            return Mathf.Max(0, attackPower - enemyDefense); // Asegurarse de que el daño no sea negativo
+        }
+        return 0;
     }
 
     public void TakeDamage(int damage)

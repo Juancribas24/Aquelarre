@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 200
   strength: 40
-  dexterity: 20
+  dexterity: 10
   intelligence: 5
+  deffense: 40

@@ -12,7 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd2c9c7d5782fda48bd7c552ed63330b, type: 3}
   m_Name: DIegoLeon
   m_EditorClassIdentifier: 
-  maxHealth: 0
-  strength: 0
-  dexterity: 0
-  intelligence: 0
+  maxHealth: 150
+  strength: 40
+  dexterity: 40
+  intelligence: 40
+  deffense: 40

@@ -14,6 +14,8 @@ public class PlayerMovInputSystem : MonoBehaviour
     // Referencia al InputAction
     private PlayerInput playerInputActions;
 
+    public bool canMove = true;
+
     void Awake()
     {
         playerInputActions = new PlayerInput();
@@ -62,11 +64,17 @@ public class PlayerMovInputSystem : MonoBehaviour
 
     void OnMovePerformed(InputAction.CallbackContext context)
     {
-        moveInput = context.ReadValue<Vector2>();
+        if (canMove)
+        {
+            moveInput = context.ReadValue<Vector2>();
+        }
     }
 
     void OnMoveCanceled(InputAction.CallbackContext context)
     {
-        moveInput = Vector2.zero;
+        if (canMove)
+        {
+            moveInput = Vector2.zero;
+        }
     }
 }
