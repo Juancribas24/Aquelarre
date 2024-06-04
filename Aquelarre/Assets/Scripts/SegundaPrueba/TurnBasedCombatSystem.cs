@@ -8,12 +8,15 @@ public class TurnBasedCombatSystem : MonoBehaviour
     public PlayerController[] playerControllers;
     public EnemyController[] enemies;
     public TextMeshProUGUI combatLog;
+    public GameObject enemySelectionUI; // UI para la selección de enemigos
 
     private int currentPlayerIndex = 0;
     private int currentEnemyIndex = 0;
     private bool isPlayerTurn = true;
     private bool playerHasSelectedAttack = false;
     private AttackType selectedAttack;
+    private EnemyController currentTarget;
+    private int selectedEnemyIndex = -1;
 
     void Start()
     {
@@ -82,11 +85,24 @@ public class TurnBasedCombatSystem : MonoBehaviour
         // Esperar a que el dado termine de girar
         yield return new WaitForSeconds(DiceRoller.Instance.rotationTime);
 
-        // Lógica de ataque del jugador
-        ExecutePlayerAttack(player, selectedAttack);
+        // Mostrar UI de selección de enemigos
+        ShowEnemySelectionUI();
 
-        // Esconder UI de selección de ataque
+        // Esperar a que el jugador seleccione un enemigo
+        yield return new WaitUntil(() => selectedEnemyIndex >= 0);
+
+        // Seleccionar el objetivo del ataque
+        currentTarget = SelectTarget();
+
+        // Lógica de ataque del jugador
+        yield return ExecutePlayerAttack(player, selectedAttack, currentTarget);
+
+        // Esconder UI de selección de ataque y enemigos
         HideAttackSelectionUI();
+        HideEnemySelectionUI();
+
+        // Resetear el índice de enemigo seleccionado
+        selectedEnemyIndex = -1;
 
         yield return new WaitForSeconds(2f);
     }
@@ -153,7 +169,12 @@ public class TurnBasedCombatSystem : MonoBehaviour
         playerHasSelectedAttack = true;
     }
 
-    void ExecutePlayerAttack(CharacterStats player, AttackType attackType)
+    public void SetSelectedEnemy(int index)
+    {
+        selectedEnemyIndex = index;
+    }
+
+    IEnumerator ExecutePlayerAttack(CharacterStats player, AttackType attackType, EnemyController target)
     {
         // Obtener el resultado del dado
         int diceRoll = DiceRoller.Instance.GetLastRoll();
@@ -163,9 +184,6 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
         // Verificar si es un golpe crítico (20 natural en el dado)
         bool isCriticalHit = (diceRoll == 20);
-
-        // Seleccionar el objetivo
-        EnemyController target = SelectTarget();
 
         if (target != null)
         {
@@ -186,6 +204,35 @@ public class TurnBasedCombatSystem : MonoBehaviour
             {
                 // El ataque falla
                 combatLog.text = player.characterName + "'s attack missed due to low attack roll.";
+                yield break; // Terminar la coroutine si el ataque falla
+            }
+
+            // Reproducir la animación de ataque
+            if (attackType == AttackType.Physical)
+            {
+                playerControllers[currentPlayerIndex].PlayPhysicalAttackAnimation();
+                yield return new WaitForSeconds(1.0f); // Duración de la animación de ataque físico
+
+                // Deslizarse hacia el enemigo
+                Vector3 startPosition = playerControllers[currentPlayerIndex].transform.position;
+                Vector3 endPosition = target.transform.position;
+                float moveDuration = 0.5f;
+                yield return MoveToPosition(playerControllers[currentPlayerIndex].transform, endPosition, moveDuration);
+
+                // Realizar la animación de ataque
+                playerControllers[currentPlayerIndex].PlayPhysicalAttackAnimation();
+                yield return new WaitForSeconds(1.0f); // Duración de la animación de ataque físico
+
+                // Volver a la posición original
+                yield return MoveToPosition(playerControllers[currentPlayerIndex].transform, startPosition, moveDuration);
+                playerControllers[currentPlayerIndex].StopPhysicalAttackAnimation();
+            }
+            else if (attackType == AttackType.Magic)
+            {
+                playerControllers[currentPlayerIndex].PlayMagicAttackAnimation();
+                playerControllers[currentPlayerIndex].ExecuteMagicAttack(target.transform.position);
+                yield return new WaitForSeconds(1.0f); // Duración de la animación de ataque mágico
+                playerControllers[currentPlayerIndex].StopMagicAttackAnimation();
             }
 
             // Aplicar el daño
@@ -212,7 +259,13 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
     EnemyController SelectTarget()
     {
-        // Implementa lógica para seleccionar un objetivo (por ahora selecciona el primer enemigo vivo)
+        // Implementa lógica para seleccionar un objetivo (por ahora selecciona el enemigo vivo seleccionado)
+        if (selectedEnemyIndex >= 0 && selectedEnemyIndex < enemies.Length && enemies[selectedEnemyIndex].GetCurrentHealth() > 0)
+        {
+            return enemies[selectedEnemyIndex];
+        }
+
+        // Si no hay enemigo seleccionado, selecciona el primer enemigo vivo
         foreach (var enemy in enemies)
         {
             if (enemy.GetCurrentHealth() > 0)
@@ -237,10 +290,39 @@ public class TurnBasedCombatSystem : MonoBehaviour
     void ShowAttackSelectionUI()
     {
         // Muestra la UI de selección de ataque
+        // Implementa tu lógica aquí
     }
 
     void HideAttackSelectionUI()
     {
         // Esconde la UI de selección de ataque
+        // Implementa tu lógica aquí
+    }
+
+    void ShowEnemySelectionUI()
+    {
+        // Muestra la UI de selección de enemigos
+        enemySelectionUI.SetActive(true);
+    }
+
+    void HideEnemySelectionUI()
+    {
+        // Esconde la UI de selección de enemigos
+        enemySelectionUI.SetActive(false);
+    }
+
+    IEnumerator MoveToPosition(Transform transform, Vector3 position, float duration)
+    {
+        Vector3 initialPosition = transform.position;
+        float timer = 0;
+
+        while (timer < duration)
+        {
+            transform.position = Vector3.Lerp(initialPosition, position, timer / duration);
+            timer += Time.deltaTime;
+            yield return null;
+        }
+
+        transform.position = position;
     }
 }
