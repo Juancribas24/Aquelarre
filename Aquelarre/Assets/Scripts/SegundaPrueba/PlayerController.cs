@@ -14,13 +14,21 @@ public class PlayerController : MonoBehaviour
 
     void Start()
     {
-        InitializePlayer();
+        // Aquí no hacemos nada ya que la inicialización será manejada por TurnBasedCombatSystem
     }
 
-    void InitializePlayer()
+    public void InitializePlayer()
     {
-        currentHealth = playerStats.health;
-        UpdateHealthUI();
+        if (playerStats != null)
+        {
+            currentHealth = playerStats.health;
+            Debug.Log(gameObject.name + " initialized with health: " + currentHealth);
+            UpdateHealthUI();
+        }
+        else
+        {
+            Debug.LogError("PlayerStats not assigned in " + gameObject.name);
+        }
     }
 
     public void TakeDamage(int damage)

@@ -17,11 +17,35 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
     void Start()
     {
+        // Inicializar todos los controladores de jugadores y enemigos
+        InitializeControllers();
+
+        // Iniciar la rutina de combate
         StartCoroutine(StartCombat());
+    }
+
+    void InitializeControllers()
+    {
+        foreach (var player in playerControllers)
+        {
+            player.InitializePlayer();
+        }
+
+        foreach (var enemy in enemies)
+        {
+            enemy.InitializeEnemy();
+        }
     }
 
     IEnumerator StartCombat()
     {
+        // Verificar si hay jugadores y enemigos vivos antes de empezar el combate
+        if (IsCombatOver())
+        {
+            EndCombat();
+            yield break;
+        }
+
         while (!IsCombatOver())
         {
             if (isPlayerTurn)
@@ -86,6 +110,7 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
         foreach (var player in playerControllers)
         {
+            Debug.Log("Player " + player.name + " health: " + player.GetCurrentHealth());
             if (player.GetCurrentHealth() > 0)
             {
                 playersAlive = true;
@@ -95,12 +120,16 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
         foreach (var enemy in enemies)
         {
+            Debug.Log("Enemy " + enemy.name + " health: " + enemy.GetCurrentHealth());
             if (enemy.GetCurrentHealth() > 0)
             {
                 enemiesAlive = true;
                 break;
             }
         }
+
+        Debug.Log("Players Alive: " + playersAlive);
+        Debug.Log("Enemies Alive: " + enemiesAlive);
 
         return !(playersAlive && enemiesAlive);
     }
@@ -109,6 +138,7 @@ public class TurnBasedCombatSystem : MonoBehaviour
     {
         combatLog.text = "Combat is over!";
         // Implement end of combat logic here
+        Debug.Log("Combat Ended");
     }
 
     public void PlayerSelectedAttack(AttackType attackType)
