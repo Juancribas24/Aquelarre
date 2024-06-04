@@ -9,11 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd2c9c7d5782fda48bd7c552ed63330b, type: 3}
-  m_Name: PlayerNoEquip
+  m_Script: {fileID: 11500000, guid: 943be25e57e8a6d47b3de39851dfda12, type: 3}
+  m_Name: NPCEquip
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  strength: 10
-  dexterity: 10
-  intelligence: 20
-  deffense: 10
+  characterName: NPCEquip
+  health: 100
+  dexterity: 15
+  attack: 25
+  defense: 20
+  intelligence: 15

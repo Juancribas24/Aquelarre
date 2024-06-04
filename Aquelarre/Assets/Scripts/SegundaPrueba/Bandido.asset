@@ -9,11 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd2c9c7d5782fda48bd7c552ed63330b, type: 3}
-  m_Name: Juana
+  m_Script: {fileID: 11500000, guid: 943be25e57e8a6d47b3de39851dfda12, type: 3}
+  m_Name: Bandido
   m_EditorClassIdentifier: 
-  maxHealth: 100
-  strength: 5
-  dexterity: 15
-  intelligence: 25
-  deffense: 10
+  characterName: Bandido
+  health: 100
+  dexterity: 0
+  attack: 10
+  defense: 10
+  intelligence: 10

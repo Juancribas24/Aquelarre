@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4630993663781083324}
   - component: {fileID: 7296039923756195654}
   - component: {fileID: 8570288672930904637}
+  - component: {fileID: 2266280725623944137}
   m_Layer: 0
   m_Name: MagicBubble
   m_TagString: Untagged
@@ -106,3 +107,16 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2266280725623944137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5969847259167532958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db63e82c7cce5524186e8e55e3975acd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10

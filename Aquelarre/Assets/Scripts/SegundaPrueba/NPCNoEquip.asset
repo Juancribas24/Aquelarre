@@ -9,11 +9,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd2c9c7d5782fda48bd7c552ed63330b, type: 3}
-  m_Name: DIegoLeon
+  m_Script: {fileID: 11500000, guid: 943be25e57e8a6d47b3de39851dfda12, type: 3}
+  m_Name: NPCNoEquip
   m_EditorClassIdentifier: 
-  maxHealth: 150
-  strength: 40
-  dexterity: 40
-  intelligence: 40
-  deffense: 40
+  characterName: NPCNoEquip
+  health: 100
+  dexterity: 10
+  attack: 10
+  defense: 10
+  intelligence: 15
