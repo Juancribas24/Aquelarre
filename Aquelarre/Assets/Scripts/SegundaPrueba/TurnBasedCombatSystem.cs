@@ -76,6 +76,12 @@ public class TurnBasedCombatSystem : MonoBehaviour
         // Esperar a que el jugador seleccione un ataque
         yield return new WaitUntil(() => playerHasSelectedAttack);
 
+        // Lanzar el dado
+        DiceRoller.Instance.RollDice();
+
+        // Esperar a que el dado termine de girar
+        yield return new WaitForSeconds(DiceRoller.Instance.rotationTime);
+
         // Lógica de ataque del jugador
         ExecutePlayerAttack(player, selectedAttack);
 
@@ -149,14 +155,41 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
     void ExecutePlayerAttack(CharacterStats player, AttackType attackType)
     {
-        // Lógica para realizar el ataque del jugador
-        EnemyController target = SelectTarget(); // Implementa lógica para seleccionar el objetivo
+        // Obtener el resultado del dado
+        int diceRoll = DiceRoller.Instance.GetLastRoll();
+
+        // Calcular el tiro de ataque
+        int attackRoll = diceRoll + player.attack;
+
+        // Verificar si es un golpe crítico (20 natural en el dado)
+        bool isCriticalHit = (diceRoll == 20);
+
+        // Seleccionar el objetivo
+        EnemyController target = SelectTarget();
 
         if (target != null)
         {
-            int damage = CalculateDamage(player, target.enemyStats, attackType);
+            int damage = 0;
+            if (isCriticalHit)
+            {
+                // Golpe crítico
+                damage = Mathf.CeilToInt(CalculateDamage(player, target.enemyStats, attackType) * 1.5f);
+                combatLog.text = player.characterName + " scored a critical hit on " + target.enemyStats.characterName + " for " + damage + " damage!";
+            }
+            else if (attackRoll > target.enemyStats.defense)
+            {
+                // Ataque normal
+                damage = CalculateDamage(player, target.enemyStats, attackType);
+                combatLog.text = player.characterName + " used " + attackType + " attack on " + target.enemyStats.characterName + " for " + damage + " damage.";
+            }
+            else
+            {
+                // El ataque falla
+                combatLog.text = player.characterName + "'s attack missed due to low attack roll.";
+            }
+
+            // Aplicar el daño
             target.TakeDamage(damage);
-            combatLog.text = player.characterName + " used " + attackType + " attack on " + target.enemyStats.characterName + " for " + damage + " damage.";
         }
     }
 
