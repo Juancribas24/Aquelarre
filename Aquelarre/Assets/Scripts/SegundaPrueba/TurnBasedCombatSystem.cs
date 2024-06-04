@@ -1,4 +1,4 @@
-using System.Collections;
+锘縰sing System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -46,16 +46,16 @@ public class TurnBasedCombatSystem : MonoBehaviour
         playerHasSelectedAttack = false;
         selectedAttack = AttackType.Physical; // Default or placeholder
 
-        // Mostrar UI de selecci髇 de ataque
+        // Mostrar UI de selecci贸n de ataque
         ShowAttackSelectionUI();
 
         // Esperar a que el jugador seleccione un ataque
         yield return new WaitUntil(() => playerHasSelectedAttack);
 
-        // L骻ica de ataque del jugador
+        // L贸gica de ataque del jugador
         ExecutePlayerAttack(player, selectedAttack);
 
-        // Esconder UI de selecci髇 de ataque
+        // Esconder UI de selecci贸n de ataque
         HideAttackSelectionUI();
 
         yield return new WaitForSeconds(2f);
@@ -64,7 +64,7 @@ public class TurnBasedCombatSystem : MonoBehaviour
     IEnumerator EnemyTurn(CharacterStats enemy)
     {
         combatLog.text = enemy.characterName + "'s turn.";
-        yield return new WaitForSeconds(1f); // A馻dir un peque駉 retraso para la acci髇 del enemigo
+        yield return new WaitForSeconds(1f); // A帽adir un peque帽o retraso para la acci贸n del enemigo
 
         // Seleccionar un objetivo (un jugador) al azar
         PlayerController target = SelectRandomPlayerTarget();
@@ -119,20 +119,15 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
     void ExecutePlayerAttack(CharacterStats player, AttackType attackType)
     {
-        // L骻ica para realizar el ataque del jugador
-        EnemyController target = SelectTarget(); // Implementa l骻ica para seleccionar el objetivo
+        // L贸gica para realizar el ataque del jugador
+        EnemyController target = SelectTarget(); // Implementa l贸gica para seleccionar el objetivo
 
-        switch (attackType)
+        if (target != null)
         {
-            case AttackType.Physical:
-                target.TakeDamage(CalculateDamage(player, target.enemyStats, attackType));
-                break;
-            case AttackType.Magic:
-                target.TakeDamage(CalculateDamage(player, target.enemyStats, attackType));
-                break;
+            int damage = CalculateDamage(player, target.enemyStats, attackType);
+            target.TakeDamage(damage);
+            combatLog.text = player.characterName + " used " + attackType + " attack on " + target.enemyStats.characterName + " for " + damage + " damage.";
         }
-
-        combatLog.text = player.characterName + " used " + attackType + " attack on " + target.enemyStats.characterName + ".";
     }
 
     void ExecuteEnemyAttack(CharacterStats enemy, PlayerController target)
@@ -154,7 +149,7 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
     EnemyController SelectTarget()
     {
-        // Implementa l骻ica para seleccionar un objetivo (por ahora selecciona el primer enemigo vivo)
+        // Implementa l贸gica para seleccionar un objetivo (por ahora selecciona el primer enemigo vivo)
         foreach (var enemy in enemies)
         {
             if (enemy.GetCurrentHealth() > 0)
@@ -164,18 +159,7 @@ public class TurnBasedCombatSystem : MonoBehaviour
         }
         return null;
     }
-    EnemyController SelectEnemyTarget()
-    {
-        // Implementa l骻ica para seleccionar un objetivo (por ahora selecciona el primer enemigo vivo)
-        foreach (var enemy in enemies)
-        {
-            if (enemy.GetCurrentHealth() > 0)
-            {
-                return enemy;
-            }
-        }
-        return null;
-    }
+
     PlayerController SelectRandomPlayerTarget()
     {
         // Seleccionar un jugador vivo al azar
@@ -189,11 +173,11 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
     void ShowAttackSelectionUI()
     {
-        // Muestra la UI de selecci髇 de ataque
+        // Muestra la UI de selecci贸n de ataque
     }
 
     void HideAttackSelectionUI()
     {
-        // Esconde la UI de selecci髇 de ataque
+        // Esconde la UI de selecci贸n de ataque
     }
 }
