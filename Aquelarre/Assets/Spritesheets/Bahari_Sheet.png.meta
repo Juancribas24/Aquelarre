@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,7 +69,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -106,9 +106,4264 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bahari_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2048
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116976f6b16fc1499fe45c850f594f2
+      internalID: 599713473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2048
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb69681bf6ba8c42b92b075e7bb9070
+      internalID: 1037145769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2048
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f137723b2b0f46545a1f5df15b48b141
+      internalID: -315622947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2048
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed0aed13914c445b3d5cf4fbc6a6c6
+      internalID: -1724273061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2048
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcdb64a8ed78164a97035566c07efef
+      internalID: 1545407165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2048
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4698a8b0ed2d44cb70074d51e23fa8
+      internalID: 1098028953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2048
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c09d5518dd6eb347985bcc21128e981
+      internalID: 469971128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1984
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960622c6056375647a0771d18bebe256
+      internalID: -1603518442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1984
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f31456b4ddcac14d9e0db82b3d616ed
+      internalID: -624971365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1984
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93a04b429cd947479ee1ee5999840e4
+      internalID: 1756097793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1984
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a1a1e55ae7fc948a7abf7163a814c8
+      internalID: 47558924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1984
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08441432ed17e047acdde9433d805be
+      internalID: -174663835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1984
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718565467f6c7944d83360d80fe64900
+      internalID: 1574828509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1984
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290507b438053c45b4a2075aff30bfc
+      internalID: 138338567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1920
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85908fe374a69bf439d9cc44e7010fe1
+      internalID: -841998626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1920
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31812c897930f3a44814080a65ebd68c
+      internalID: -1662892094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1920
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173028b8c490b249914eb0ff9c4d952
+      internalID: 212019076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1920
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e395d84e85c934fba01f4237f72d09
+      internalID: -905611253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1920
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbe3fb9f3d3f944684fc213ce8cde85
+      internalID: -1278531501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1920
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01689e907db40f418a6f77c2b6495dc
+      internalID: -38447491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1920
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e1d214734bef44b5b0a7d76a6b11a
+      internalID: -1576835120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c314f7c9c829544aa239ef26cceb80
+      internalID: -2066068722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867bf4ae6be7b844e80c6daf3b65d0a8
+      internalID: -1943245061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88463620fad4fca46ab2aecb93ebe9c4
+      internalID: -777134816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45248df70bd2cde42b34ae830155e321
+      internalID: -892699954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1856
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a8989c00dc520438c64611757f2407
+      internalID: -1345605325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1856
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a65e8337802524a9205e28c074089c
+      internalID: -1646711121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1856
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3882218fd51474d8f7bdf13d968b98
+      internalID: -1710323314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1792
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05cb80eaed667459e9442321a59f96
+      internalID: 1416306176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1792
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b1c5b9c469074cbdc03057b7ef501
+      internalID: -584945698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1792
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bebb620e72903a429e3f84c749ba110
+      internalID: 434416651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1792
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917a4d7f8e50404996b69be4ce66eda
+      internalID: 1982400622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1792
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658160123d7979543a8b2fba4b70a96c
+      internalID: 1971225654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1792
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63feddcfb6ef21243afbc07d5c782a59
+      internalID: -170317937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1792
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e09e62dfa50a4582a3ca93c600620
+      internalID: 1145058797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1792
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd781d996eab4704fb61d9d2125fdcbd
+      internalID: -2090048291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1728
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fac9b545040c8142a08a73b3c813919
+      internalID: -320920121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1728
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d8bdc7f2a99df43b11e7c84120baf2
+      internalID: 443902091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1728
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1d7398235e9d74d83172d7701458c3
+      internalID: -250656289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1728
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dce7223b8d5b4a4c9b9d53c14a43aa0
+      internalID: 837487676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1728
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc72dbf30b23654c885050fbc9c791e
+      internalID: 292817061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1728
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf832a2b73dcb9a4aafdb20038306092
+      internalID: 2059185554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1728
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753bc01c906cda5479232b690417d8e3
+      internalID: 1092486089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1728
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fa562b8a6d0684385090ebc74c701c
+      internalID: -422060790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1664
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5941a836bbaf49ad3eec3a6722f5f
+      internalID: 1097328557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1664
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4054a80258544399580006ab66118
+      internalID: -1667404712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1664
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c34d3aca50ce48bee3cdb30cedc4b
+      internalID: -767174209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1665
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f982fea46e9465048b209dd63543477d
+      internalID: -1098586650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1665
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f16a57a9b48ecb48ace9375dcccc009
+      internalID: -83693094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1664
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9c0cfdcc7e114d8bc147b9794234d
+      internalID: 830730728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1665
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428b719e300108c4d8766698d735faac
+      internalID: 1079569619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1665
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0679c034d919a841ab1869c84b4090c
+      internalID: 1062208586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1600
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d08f71c0e7e0804f8cba630e248a38c
+      internalID: 474905274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1600
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ce152b242a4a34490affe99d6ae395
+      internalID: -1976406379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1600
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af11d680d95524784e6446f435d213
+      internalID: -150756411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1600
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8257e269ddf152642978b117fe7223d3
+      internalID: 1162829960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1600
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67416dd5e452ad4ab78ac1817e3f30a
+      internalID: -189327102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1600
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4d13aa4700bd48a26ad9aaf31ba52
+      internalID: -22373978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1600
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff5daf36b572df4fa27c7a4107763f3
+      internalID: 1254699839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1600
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c95c1c6e931154895e974bed0d0827
+      internalID: -1855961303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97fb7ef206ea694eb5f2ef39fe94d3c
+      internalID: -364431756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187144e4fb47ac44fa525e7c99a08add
+      internalID: 1432505208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7591ad8884b9694e8ec0369e2af030a
+      internalID: 912165090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1536
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca56c69874f3d47b1fbc7efdf2f771
+      internalID: 72916314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd58197e7eab5f43aada67438e8db36
+      internalID: 1958026615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d020fa46b3cdbc4294e4a441eeff29b
+      internalID: -2127433614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493295734973c043b88ac8687042735
+      internalID: -1814027560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1536
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db3277a2ac107f46812d16c5256d1e8
+      internalID: -437712537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1536
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802fa14cc686a5c4f8b2f697f3cf9b46
+      internalID: -1973813056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1472
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8efd5721e6f5c44b8d813ce36027fb
+      internalID: -1836742719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1472
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77bd92c1810114e8bb1f705b8893c1
+      internalID: -1467840352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1472
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa216d0e71b10499eaedc2b76b8b4c
+      internalID: -2076760229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1472
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520db62f030047b419e43fcb2cc9222f
+      internalID: -970931618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1472
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c63d70999c0d940a05d3712644377a
+      internalID: 294446161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1472
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f09f3914e88c040ab6103cef5c4c00
+      internalID: -1293943324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1472
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620baa3b20222c44baa9e80f1facbdfa
+      internalID: 2041889562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1472
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca703282f22b704a9f85a0c57b5f241
+      internalID: 1150893940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1472
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1e08c72b21764dabdb59dee33e394
+      internalID: -429805432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed3ee1d094366b47af72af2e240a3c4
+      internalID: -820881113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96daa17d3f7bad64393867c2259f0539
+      internalID: -485385333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c260aef1757448b0c65b3ec37885f
+      internalID: -1895774752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1408
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf6c3f93f22da47abf44865a880077
+      internalID: 1517405548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefbb47026c4f1b4994f0bae79cb717f
+      internalID: -1093562285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7dba747e7ad694e91dd0815dee546e
+      internalID: -618861153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757bd313e1453fc4bbdaa9e8008b60e4
+      internalID: 1359804354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1408
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1dffd8973bc3f4082390a6e6da2c3b
+      internalID: -1295537502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1408
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668fd3e4284e9324e8575da5088cf6c8
+      internalID: 2060210698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1344
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc148480b1ac9ef41a62a5174d7619e0
+      internalID: 1790357179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1344
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628d242833b3e3408135503e119c47a
+      internalID: -564517397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1344
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d19a6f15e37841a9de4a668384ed1
+      internalID: -1579710049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1344
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1425f89ff8404c9154d919a8778f1
+      internalID: -785211819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1344
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e68feaea2b63418c98d545dcb69ed
+      internalID: 418410203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1344
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fbc888917463f4a816a0d5666b5af2
+      internalID: -293212212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1344
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e9470c25644f24eb3b3007ebbfca6e
+      internalID: 854027506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1344
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0109d4920df0b64ca3e521d5cfc65a5
+      internalID: -1898829436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1344
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67bfe4b0e89b224887636f9806664e7
+      internalID: 420615857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1280
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d1fe14fdd15a74ebff79d86cd2a05e
+      internalID: -1383620874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1280
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff1aff8752d0a41ab9df9b51659672
+      internalID: -2067106727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1280
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a828a548bc614f9eb3299fb250619
+      internalID: 328412435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1280
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9886bf8a45dacb43b18384fafdd678d
+      internalID: 1147084611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1280
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd3185498b93d44fba5b4bc9107ffd9
+      internalID: -1601940007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1280
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab9ed06cd35aca49a6539acb378dfd5
+      internalID: 1380898501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1216
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428d26b1c8a9c8e449edfab28685fe5a
+      internalID: 1467478164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1216
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3c091565ef84b4e8fd56106b819bad
+      internalID: -112007630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1216
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2093e81766212c04eb7d2c926fccffcc
+      internalID: 2074481852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c9b6b7a97eed543af892eb35ca74f9
+      internalID: 1925038723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1216
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a2a6110d83112478356b7834080f7a
+      internalID: -484197016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451103adb8bf4a945a219c338aaab778
+      internalID: 1558345414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1152
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5448bf9f437ee4295fc99b768ed0ae
+      internalID: -1751233122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1152
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cc34994f3804144a5fbfaf60af1efb
+      internalID: 1787410734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1152
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc358ad59ccce0b468c0afcb879f83f2
+      internalID: -625184429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1152
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8aa82931089840aaf938fa254bb08
+      internalID: -990297916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1152
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c8ad99feb15e458ff70cafc7a7f67
+      internalID: -1216988742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1152
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936261312a2436f42ab7c96909ea8fe8
+      internalID: -951688715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1088
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85884585ddbce94ba83391101cd3a8f
+      internalID: -888059696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1088
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428dc2f6611bbf2429c20740f0800ed7
+      internalID: 1844247975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1088
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ae41462b7526149867c1b208f1b59d
+      internalID: -198357743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1088
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06d5379ec8df7647af7ec1e1dcdfcb2
+      internalID: -46849987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1088
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4da84a0ed9454fb3373d5450dca0e
+      internalID: 2053844157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1088
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf70f7ccd3c0e41ba93e094a16af4e
+      internalID: -103119171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1024
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304d9fb0845a8664cb2aa82a5f91ebe6
+      internalID: -1702646554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1024
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a83192d552a6d47bc568ded2a24be4
+      internalID: 1908922790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1024
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4986a7f8e616408a5bf388129d0df
+      internalID: 444157249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032ce8826fa6994a9c45cc0cf88501c
+      internalID: -2134473956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1024
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ad265c4268d5418d9eb1cced86f95
+      internalID: 318748554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1024
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07aee880dcab934fa8627e330b1609f
+      internalID: 588121679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1024
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e566230d1eaeae0429b6851bee421249
+      internalID: 936162235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1024
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786ad9258e7a3ca448a83565dceccb05
+      internalID: -1733953862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1024
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c0eb900e1fa3946a4053179f143b28
+      internalID: -721893488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1024
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb853625835214c81574d8bf89256e
+      internalID: -459348578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df593bd978f674a9ebc9adec32e881
+      internalID: -1797605876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ec7586afcbcf4e83bf55e3965c092
+      internalID: 1882316340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1024
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecff9ff248908a2428f26647ceab2f13
+      internalID: -1372356156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24835345b95405e4989d3bd82bfec63f
+      internalID: -1142380218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9b1930ef149f4ba01cd4dfe2fdb60
+      internalID: 737767886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 960
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81027006ed1a943afaaa539e5b8384
+      internalID: -611701893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 960
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4add9662d5a8826459df1bd9bf104617
+      internalID: 1353757211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb45a03d501dd448dbce7998946a2e
+      internalID: 1736349513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563cdfe3b41161a42a2cfa1602d2f61a
+      internalID: -999674784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c25023a4274b3547b9e590f3b2134e5
+      internalID: -210120146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1604f649a0e895b4fb573c471c16dc8e
+      internalID: -387554827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 960
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee08dbe08c8b24e9bbeb4c1030d5ac
+      internalID: -1678959776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 960
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175be7d2d0d4cca43ba2b39ee6deadcd
+      internalID: -1226998263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 960
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec16440d502f4440bfe8c4044bc64b8
+      internalID: 51181265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a3c62c803eb641bd096c8d8f930c2
+      internalID: 628145632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 960
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5d0ca7f0e87604bab2c653e3d71f59
+      internalID: 2090561354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 896
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f30ed9fbe552b43bc8c058f3afb1ce
+      internalID: 1004172474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 896
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5025e5916494a4681ff23e6f35005a
+      internalID: -687429977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 896
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fe737caacb4094a895393786b48548
+      internalID: 303035661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ff9eadab31f542a53a689cb3dff4d
+      internalID: 560282741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b804481e08b756a4384b61ee662e7166
+      internalID: 852248230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b98007db0298a540bd6471419481163
+      internalID: 65570365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1a032dabbd7cc4cb1fbdca384bacbf
+      internalID: 324058864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a9a87d1bd9694fb5fa964ce1fb629
+      internalID: 856750290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f660fad27cf1742bf07d2c109a0920
+      internalID: 1666407110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53f3370ad2724499c42f259ccc7e8e
+      internalID: 403594702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a6c3a3675aa7244986c4b2babd972b
+      internalID: -293746853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aebc42167e725244a053a4159cbc4ff
+      internalID: 1647828566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 896
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea9d066e94f04245a066d58fa90f2f7
+      internalID: -1668441705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc5623a7b365649811cf1f77c058ff
+      internalID: 1575726552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d33c980d08b034987fa689e7a5da9b
+      internalID: 2005209882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 832
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc107e1e28b37a4489ccad53c52d7e3
+      internalID: -1052846232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 832
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a7021e5eb8a14eb54f0ae5ea9978e
+      internalID: 697464511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f3acb09af1b4448bbbfa9131b49c20
+      internalID: -563259837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2289887bb374b49a4ae098aac0a0ec
+      internalID: -853955215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f893b84b3739d469fd4e9c3339585e
+      internalID: 1959478456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ac28c2b5f8d6442919bc6d89c75296
+      internalID: 446370512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 832
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d4061fe1c59b847a483fbf4b116560
+      internalID: 2042360222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 832
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a999a17d83e37eb4c8b69f591b3bfde3
+      internalID: 1862922535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 832
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f8f9b42e5d70440a4143a9a85393b8
+      internalID: -327706417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 832
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f4a39ea1c0b8243911f4c7891b0995
+      internalID: -1748851285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 832
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7a7e2050c0074c93918106ae0e907
+      internalID: 729982864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 768
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c722d7d1e1a88a6469359ce7302b46e7
+      internalID: -615359089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 768
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab709fd2840fd6429d88965bd771e0b
+      internalID: -1688261332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 768
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8b9bfabf47db45897d3045c16fb3f
+      internalID: 1937206876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 768
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee7f0bc628d7f448769d4d37d49116
+      internalID: -1051198614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 768
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af2e42a9971006409e1b25bba31f095
+      internalID: 1226282423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 768
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ced5d990110ef47a6667b69d120222
+      internalID: 1652738634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 640
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3301a0b21554b04488e47bf3a3fb788
+      internalID: -809064532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 640
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c715d85d073a04db9fa1d6c6ec2b30
+      internalID: 875915819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 640
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83d8e38f37aad419b290d2f8fac1cd
+      internalID: 1927705137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 640
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c136216e3eec44b333ecf5a3ec696
+      internalID: 482561782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 640
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2ed19cce9515e4fa95cb338235d8f1
+      internalID: 1339233591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 640
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f159f171794b9d4bb016b71adc15d36
+      internalID: 409730862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 448
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceff21616edd02b4fb25aa99100a14b6
+      internalID: -1270692216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 448
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102eb908494c5c947a50cc3666e41e78
+      internalID: -1907749476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 448
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b7623381b1eb545b6d57dda777d394
+      internalID: 1477857410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 448
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f093ba80f3a50d3439df7ea22d5aca86
+      internalID: -1033652991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 448
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc7fd210ad0147498377598bdd2bc8c
+      internalID: -1049044520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 448
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c9eb02988cc24580f4cffce867691
+      internalID: -1899141591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410b47b2a5b8a94eb0758b46eebe207
+      internalID: 477735954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 256
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb7fcc29cf7ce4f889d80b72db3cf2
+      internalID: -123178066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 256
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75825dc27b0f0f84a8bae977019b8a58
+      internalID: -1624034050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 256
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656f8ec58a85fa841a52e49ade4b7ee6
+      internalID: 1921944126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 256
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a884572780c79cd4fbf918e954cd49f8
+      internalID: -1165475620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 256
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b6bffa1111da34f81820ea36d066e2
+      internalID: -1139069123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 64
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feb1f924be248448b263982c3b78bd6
+      internalID: 2061957262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc4cfc1b59996f49ad6b2ab8edc29f3
+      internalID: 1179940800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf31c08b778898b4cabd7a9183427467
+      internalID: 865374607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 64
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44092ecd245665645bd67a95a8de12d8
+      internalID: 1424955013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 64
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe25b09598a1b84487dcccd4ffeb468
+      internalID: 147719993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bahari_Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 64
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192ea81a0422af468d1325b5027a02c
+      internalID: -2004047702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +4374,209 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bahari_Sheet_0: 599713473
+      Bahari_Sheet_1: 1037145769
+      Bahari_Sheet_10: 47558924
+      Bahari_Sheet_100: -1601940007
+      Bahari_Sheet_101: 1380898501
+      Bahari_Sheet_102: 1467478164
+      Bahari_Sheet_103: -112007630
+      Bahari_Sheet_104: 2074481852
+      Bahari_Sheet_105: 1925038723
+      Bahari_Sheet_106: -484197016
+      Bahari_Sheet_107: 1558345414
+      Bahari_Sheet_108: -1751233122
+      Bahari_Sheet_109: 1787410734
+      Bahari_Sheet_11: -174663835
+      Bahari_Sheet_110: -625184429
+      Bahari_Sheet_111: -990297916
+      Bahari_Sheet_112: -1216988742
+      Bahari_Sheet_113: -951688715
+      Bahari_Sheet_114: -888059696
+      Bahari_Sheet_115: 1844247975
+      Bahari_Sheet_116: -198357743
+      Bahari_Sheet_117: -46849987
+      Bahari_Sheet_118: 2053844157
+      Bahari_Sheet_119: -103119171
+      Bahari_Sheet_12: 1574828509
+      Bahari_Sheet_120: -1702646554
+      Bahari_Sheet_121: 1908922790
+      Bahari_Sheet_122: 444157249
+      Bahari_Sheet_123: -2134473956
+      Bahari_Sheet_124: 318748554
+      Bahari_Sheet_125: 588121679
+      Bahari_Sheet_126: 936162235
+      Bahari_Sheet_127: -1733953862
+      Bahari_Sheet_128: -721893488
+      Bahari_Sheet_129: -459348578
+      Bahari_Sheet_13: 138338567
+      Bahari_Sheet_130: -1797605876
+      Bahari_Sheet_131: 1882316340
+      Bahari_Sheet_132: -1372356156
+      Bahari_Sheet_133: -1142380218
+      Bahari_Sheet_134: 737767886
+      Bahari_Sheet_135: -611701893
+      Bahari_Sheet_136: 1353757211
+      Bahari_Sheet_137: 1736349513
+      Bahari_Sheet_138: -999674784
+      Bahari_Sheet_139: -210120146
+      Bahari_Sheet_14: -841998626
+      Bahari_Sheet_140: -387554827
+      Bahari_Sheet_141: -1678959776
+      Bahari_Sheet_142: -1226998263
+      Bahari_Sheet_143: 51181265
+      Bahari_Sheet_144: 628145632
+      Bahari_Sheet_145: 2090561354
+      Bahari_Sheet_146: 1004172474
+      Bahari_Sheet_147: -687429977
+      Bahari_Sheet_148: 303035661
+      Bahari_Sheet_149: 560282741
+      Bahari_Sheet_15: -1662892094
+      Bahari_Sheet_150: 852248230
+      Bahari_Sheet_151: 65570365
+      Bahari_Sheet_152: 324058864
+      Bahari_Sheet_153: 856750290
+      Bahari_Sheet_154: 1666407110
+      Bahari_Sheet_155: 403594702
+      Bahari_Sheet_156: -293746853
+      Bahari_Sheet_157: 1647828566
+      Bahari_Sheet_158: -1668441705
+      Bahari_Sheet_159: 1575726552
+      Bahari_Sheet_16: 212019076
+      Bahari_Sheet_160: 2005209882
+      Bahari_Sheet_161: -1052846232
+      Bahari_Sheet_162: 697464511
+      Bahari_Sheet_163: -563259837
+      Bahari_Sheet_164: -853955215
+      Bahari_Sheet_165: 1959478456
+      Bahari_Sheet_166: 446370512
+      Bahari_Sheet_167: 2042360222
+      Bahari_Sheet_168: 1862922535
+      Bahari_Sheet_169: -327706417
+      Bahari_Sheet_17: -905611253
+      Bahari_Sheet_170: -1748851285
+      Bahari_Sheet_171: 729982864
+      Bahari_Sheet_172: -615359089
+      Bahari_Sheet_173: -1688261332
+      Bahari_Sheet_174: 1937206876
+      Bahari_Sheet_175: -1051198614
+      Bahari_Sheet_176: 1226282423
+      Bahari_Sheet_177: 1652738634
+      Bahari_Sheet_178: -809064532
+      Bahari_Sheet_179: 875915819
+      Bahari_Sheet_18: -1278531501
+      Bahari_Sheet_180: 1927705137
+      Bahari_Sheet_181: 482561782
+      Bahari_Sheet_182: 1339233591
+      Bahari_Sheet_183: 409730862
+      Bahari_Sheet_184: -1270692216
+      Bahari_Sheet_185: -1907749476
+      Bahari_Sheet_186: 1477857410
+      Bahari_Sheet_187: -1033652991
+      Bahari_Sheet_188: -1049044520
+      Bahari_Sheet_189: -1899141591
+      Bahari_Sheet_19: -38447491
+      Bahari_Sheet_190: 477735954
+      Bahari_Sheet_191: -123178066
+      Bahari_Sheet_192: -1624034050
+      Bahari_Sheet_193: 1921944126
+      Bahari_Sheet_194: -1165475620
+      Bahari_Sheet_195: -1139069123
+      Bahari_Sheet_196: 2061957262
+      Bahari_Sheet_197: 1179940800
+      Bahari_Sheet_198: 865374607
+      Bahari_Sheet_199: 1424955013
+      Bahari_Sheet_2: -315622947
+      Bahari_Sheet_20: -1576835120
+      Bahari_Sheet_200: 147719993
+      Bahari_Sheet_201: -2004047702
+      Bahari_Sheet_21: -2066068722
+      Bahari_Sheet_22: -1943245061
+      Bahari_Sheet_23: -777134816
+      Bahari_Sheet_24: -892699954
+      Bahari_Sheet_25: -1345605325
+      Bahari_Sheet_26: -1646711121
+      Bahari_Sheet_27: -1710323314
+      Bahari_Sheet_28: 1416306176
+      Bahari_Sheet_29: -584945698
+      Bahari_Sheet_3: -1724273061
+      Bahari_Sheet_30: 434416651
+      Bahari_Sheet_31: 1982400622
+      Bahari_Sheet_32: 1971225654
+      Bahari_Sheet_33: -170317937
+      Bahari_Sheet_34: 1145058797
+      Bahari_Sheet_35: -2090048291
+      Bahari_Sheet_36: -320920121
+      Bahari_Sheet_37: 443902091
+      Bahari_Sheet_38: -250656289
+      Bahari_Sheet_39: 837487676
+      Bahari_Sheet_4: 1545407165
+      Bahari_Sheet_40: 292817061
+      Bahari_Sheet_41: 2059185554
+      Bahari_Sheet_42: 1092486089
+      Bahari_Sheet_43: -422060790
+      Bahari_Sheet_44: 1097328557
+      Bahari_Sheet_45: -1667404712
+      Bahari_Sheet_46: -767174209
+      Bahari_Sheet_47: -1098586650
+      Bahari_Sheet_48: -83693094
+      Bahari_Sheet_49: 830730728
+      Bahari_Sheet_5: 1098028953
+      Bahari_Sheet_50: 1079569619
+      Bahari_Sheet_51: 1062208586
+      Bahari_Sheet_52: 474905274
+      Bahari_Sheet_53: -1976406379
+      Bahari_Sheet_54: -150756411
+      Bahari_Sheet_55: 1162829960
+      Bahari_Sheet_56: -189327102
+      Bahari_Sheet_57: -22373978
+      Bahari_Sheet_58: 1254699839
+      Bahari_Sheet_59: -1855961303
+      Bahari_Sheet_6: 469971128
+      Bahari_Sheet_60: -364431756
+      Bahari_Sheet_61: 1432505208
+      Bahari_Sheet_62: 912165090
+      Bahari_Sheet_63: 72916314
+      Bahari_Sheet_64: 1958026615
+      Bahari_Sheet_65: -2127433614
+      Bahari_Sheet_66: -1814027560
+      Bahari_Sheet_67: -437712537
+      Bahari_Sheet_68: -1973813056
+      Bahari_Sheet_69: -1836742719
+      Bahari_Sheet_7: -1603518442
+      Bahari_Sheet_70: -1467840352
+      Bahari_Sheet_71: -2076760229
+      Bahari_Sheet_72: -970931618
+      Bahari_Sheet_73: 294446161
+      Bahari_Sheet_74: -1293943324
+      Bahari_Sheet_75: 2041889562
+      Bahari_Sheet_76: 1150893940
+      Bahari_Sheet_77: -429805432
+      Bahari_Sheet_78: -820881113
+      Bahari_Sheet_79: -485385333
+      Bahari_Sheet_8: -624971365
+      Bahari_Sheet_80: -1895774752
+      Bahari_Sheet_81: 1517405548
+      Bahari_Sheet_82: -1093562285
+      Bahari_Sheet_83: -618861153
+      Bahari_Sheet_84: 1359804354
+      Bahari_Sheet_85: -1295537502
+      Bahari_Sheet_86: 2060210698
+      Bahari_Sheet_87: 1790357179
+      Bahari_Sheet_88: -564517397
+      Bahari_Sheet_89: -1579710049
+      Bahari_Sheet_9: 1756097793
+      Bahari_Sheet_90: -785211819
+      Bahari_Sheet_91: 418410203
+      Bahari_Sheet_92: -293212212
+      Bahari_Sheet_93: 854027506
+      Bahari_Sheet_94: -1898829436
+      Bahari_Sheet_95: 420615857
+      Bahari_Sheet_96: -1383620874
+      Bahari_Sheet_97: -2067106727
+      Bahari_Sheet_98: 328412435
+      Bahari_Sheet_99: 1147084611
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
