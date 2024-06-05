@@ -1,0 +1,736 @@
+fileFormatVersion: 2
+guid: a6946cfbb3bef664595007046ffe4616
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 218
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14cd0135c8ea0340bb179b42d3c87d2
+      internalID: 1188296004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 218
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac5252cd1d156a44a62e028089b72d7
+      internalID: -2028637950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 218
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f84cb79bbf386c4fb3006a9714b5f3c
+      internalID: 824504427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 218
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1ef2b08e9d2f48a7a0b5f82808452
+      internalID: 1280395140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 218
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf71acb78b991b643b1e747341725c22
+      internalID: 1595303388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 180
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c090903fbd69942b4f0924d9a80759
+      internalID: 1037289681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 180
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0750adbd2b4b6ca459be38b4eeb9af46
+      internalID: 1796823085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 180
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c197466c2a8b459bec059018c0511
+      internalID: 287307197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 180
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febc0e7bf0f767e4587c08ba30f8b9a9
+      internalID: 75361382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 180
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a8e6ab9eaab23469e77b5ae98d5c48
+      internalID: 1746846997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 145
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1a95d8f6c5f4479c551c695d1a6d7
+      internalID: -1590421296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 145
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f613b9075e7bc4d8e0e9e0f599af7c
+      internalID: 854179468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 145
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b7d28c1ce2c74197e5cd7c9b73de6
+      internalID: -755555285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 145
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a6b9fd539e5b45adcc2bfbf7bd084
+      internalID: 1424964547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d258e0d8f440142bb842d7c4a76f69
+      internalID: -1076597337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 108
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356d923801c831b4d93963652985d40a
+      internalID: -610465348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 108
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc88d82435b626945a5745662b443c6d
+      internalID: 1977389273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 108
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125c617f3cc26a43ae5dcdddd42e929
+      internalID: -1413588259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e19059824af764d8781c48a072d86a
+      internalID: -1845746308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb36fa12af83f4eaed3f4550a99d9a
+      internalID: 1014613499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 72
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf2c38fed4d8724eaf5ce23ff5ffbba
+      internalID: 1893220171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d94a43e4370f6479db5ac4eeeba79f
+      internalID: 856438622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 37
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef571f0a9a8e6704f9983ac453934f5f
+      internalID: 740396377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eac64929b134044bca6e8c7459f5f9
+      internalID: 100644821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 28
+        height: 32
+      alignment: 9
+      pivot: {x: 0.66054386, y: 0.48618305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1dd32f090f7ea4ab7a370ed96f7072
+      internalID: -267622576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 30
+        height: 32
+      alignment: 9
+      pivot: {x: 0.68668693, y: 0.48157734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e9a302257a5ce4f86ce0d5d8f51e13
+      internalID: -1466080627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Fiona_28
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5184231, y: 0.48157734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e59ccd6c919094582a56eb930e2190
+      internalID: -1862537733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Chrono Trigger - Fiona_0: 1188296004
+      SNES - Chrono Trigger - Fiona_1: -2028637950
+      SNES - Chrono Trigger - Fiona_10: -1590421296
+      SNES - Chrono Trigger - Fiona_11: 854179468
+      SNES - Chrono Trigger - Fiona_12: -755555285
+      SNES - Chrono Trigger - Fiona_13: 1424964547
+      SNES - Chrono Trigger - Fiona_14: -1076597337
+      SNES - Chrono Trigger - Fiona_15: -610465348
+      SNES - Chrono Trigger - Fiona_16: 1977389273
+      SNES - Chrono Trigger - Fiona_17: -1413588259
+      SNES - Chrono Trigger - Fiona_18: -1845746308
+      SNES - Chrono Trigger - Fiona_19: 1014613499
+      SNES - Chrono Trigger - Fiona_2: 824504427
+      SNES - Chrono Trigger - Fiona_20: 1893220171
+      SNES - Chrono Trigger - Fiona_21: 856438622
+      SNES - Chrono Trigger - Fiona_22: 740396377
+      SNES - Chrono Trigger - Fiona_23: 100644821
+      SNES - Chrono Trigger - Fiona_24: 98348574
+      SNES - Chrono Trigger - Fiona_25: -267622576
+      SNES - Chrono Trigger - Fiona_26: 1748912699
+      SNES - Chrono Trigger - Fiona_27: -1466080627
+      SNES - Chrono Trigger - Fiona_28: -1862537733
+      SNES - Chrono Trigger - Fiona_3: 1280395140
+      SNES - Chrono Trigger - Fiona_4: 1595303388
+      SNES - Chrono Trigger - Fiona_5: 1037289681
+      SNES - Chrono Trigger - Fiona_6: 1796823085
+      SNES - Chrono Trigger - Fiona_7: 287307197
+      SNES - Chrono Trigger - Fiona_8: 75361382
+      SNES - Chrono Trigger - Fiona_9: 1746846997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

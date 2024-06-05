@@ -1,0 +1,976 @@
+fileFormatVersion: 2
+guid: 0a14741adb824c54dbc75cc86d3ebf58
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 215
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0eb6568b38fb54cbcdc4814ca2099d
+      internalID: -1239755523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 215
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea71c8e346d5fc4b8d399e76590fb3b
+      internalID: -1970937307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 215
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dffe8253be40b4bb96eeeaec6ba717
+      internalID: 644541054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 214
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66227a2bf1c4144fb12dafea94f0708
+      internalID: -1888174463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 214
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512cfdd3f29b8994fa7283811910a457
+      internalID: -655937948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 215
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c1ecc0791c14444a5ed62065b18b5a
+      internalID: 1019696930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 182
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50286dd4ebc39145a7a67bbc7677058
+      internalID: -745422064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e626c12af7eea4c8ade38bd410b25f
+      internalID: 1419174534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 182
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98144eb8857934ea28bf18aa25f9ff
+      internalID: 563319155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 182
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aada8e70d5e2cfa48a9d06ec0a6d4b06
+      internalID: -149910209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 182
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a0fc3747d9244782c5972fb614843
+      internalID: 494517210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 182
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6616b1df3af30f4dbd1b387550d3cc8
+      internalID: -2106060302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 148
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5836cec8669e24db192285530e6424
+      internalID: 2114386632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 148
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6e0c4296c2e741b8892fefbe21542
+      internalID: 786474591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 148
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f4c7b981dde6458613129f726b53a
+      internalID: -198939294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_15
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 148
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3614080efdf0b44b880d5e5c947d45
+      internalID: 1164605511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_16
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 148
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0cc360b0b4a74d9422db350d06baf
+      internalID: 1862585038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d2928a3a0a1c49a806116bb6340d1
+      internalID: -23017330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7c93baa440fa419c96f4cd07c2313
+      internalID: -1404250675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 115
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ac2f729727cb043a9df5fd4b480258
+      internalID: 1213391899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 115
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae762f1c4c8a57549a859782eae1d4a4
+      internalID: 1512731573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_21
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 115
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb85235daf438440b811d7fd1028c3b
+      internalID: -130200331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_22
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 115
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab725ed669462141a29bc8404bd9947
+      internalID: 1852346071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 115
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3d9fdf02cbfc240915c3fc7e0c0589
+      internalID: 1873630114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aed6611362eb84dba7d212380b87e7
+      internalID: 2133518256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 78
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3006ac184fa2524c998eb7e1c86999f
+      internalID: 896348425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0eea9f47ca2f64f9b801f77ed9b52e
+      internalID: 810935354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 78
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c00b7590d6954fb45061797e59fd0
+      internalID: 1503595294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_28
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 78
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c05e490b65c41d4dbde13e5c8494f7f
+      internalID: -1587368116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 78
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e58b9077141c4c950f87b237e40d4
+      internalID: -1959496632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057a471755122c64b83a9457715084ae
+      internalID: -1488962283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_31
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918aec26344796749bfde698ebb28d78
+      internalID: -293341899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a535a737ca1dc4398b8e2bcefbeb82
+      internalID: -999475465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfd553dfea4773438a858f9f19f0222
+      internalID: -501564530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 39
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be39ce404549d847a5c357c766092fa
+      internalID: -1133661585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_35
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685a7f73397ceb4ab142b5711707c6b
+      internalID: 2013885299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa06958fd3ceb40abe8ec211e1e39c
+      internalID: -1856984967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Chrono Trigger - Chancellor_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 11
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67464a8bb3414134ca96116fb9ee5791
+      internalID: -657054382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Chrono Trigger - Chancellor_0: -1239755523
+      SNES - Chrono Trigger - Chancellor_1: -1970937307
+      SNES - Chrono Trigger - Chancellor_10: 494517210
+      SNES - Chrono Trigger - Chancellor_11: -2106060302
+      SNES - Chrono Trigger - Chancellor_12: 2114386632
+      SNES - Chrono Trigger - Chancellor_13: 786474591
+      SNES - Chrono Trigger - Chancellor_14: -198939294
+      SNES - Chrono Trigger - Chancellor_15: 1164605511
+      SNES - Chrono Trigger - Chancellor_16: 1862585038
+      SNES - Chrono Trigger - Chancellor_17: -23017330
+      SNES - Chrono Trigger - Chancellor_18: -1404250675
+      SNES - Chrono Trigger - Chancellor_19: 1213391899
+      SNES - Chrono Trigger - Chancellor_2: 644541054
+      SNES - Chrono Trigger - Chancellor_20: 1512731573
+      SNES - Chrono Trigger - Chancellor_21: -130200331
+      SNES - Chrono Trigger - Chancellor_22: 1852346071
+      SNES - Chrono Trigger - Chancellor_23: 1873630114
+      SNES - Chrono Trigger - Chancellor_24: 2133518256
+      SNES - Chrono Trigger - Chancellor_25: 896348425
+      SNES - Chrono Trigger - Chancellor_26: 810935354
+      SNES - Chrono Trigger - Chancellor_27: 1503595294
+      SNES - Chrono Trigger - Chancellor_28: -1587368116
+      SNES - Chrono Trigger - Chancellor_29: -1959496632
+      SNES - Chrono Trigger - Chancellor_3: -1888174463
+      SNES - Chrono Trigger - Chancellor_30: -1488962283
+      SNES - Chrono Trigger - Chancellor_31: -293341899
+      SNES - Chrono Trigger - Chancellor_32: -999475465
+      SNES - Chrono Trigger - Chancellor_33: -501564530
+      SNES - Chrono Trigger - Chancellor_34: -1133661585
+      SNES - Chrono Trigger - Chancellor_35: 2013885299
+      SNES - Chrono Trigger - Chancellor_36: -1856984967
+      SNES - Chrono Trigger - Chancellor_37: -657054382
+      SNES - Chrono Trigger - Chancellor_4: -655937948
+      SNES - Chrono Trigger - Chancellor_5: 1019696930
+      SNES - Chrono Trigger - Chancellor_6: -745422064
+      SNES - Chrono Trigger - Chancellor_7: 1419174534
+      SNES - Chrono Trigger - Chancellor_8: 563319155
+      SNES - Chrono Trigger - Chancellor_9: -149910209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
