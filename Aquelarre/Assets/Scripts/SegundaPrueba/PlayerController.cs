@@ -13,12 +13,21 @@ public class PlayerController : MonoBehaviour
     public Transform attackPoint; // Punto desde donde se inicia el ataque
     public GameObject magicAttackPrefab; // Prefab del ataque mágico específico del jugador
 
+    public AudioClip physicalAttackSound; // Sonido del ataque físico
+    public AudioClip magicAttackSound; // Sonido del ataque mágico
+    private AudioSource audioSource; // Referencia al componente AudioSource
+
     private int currentHealth;
 
     void Start()
     {
         // Aquí no hacemos nada ya que la inicialización será manejada por TurnBasedCombatSystem
     }
+    void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
+
 
     public void InitializePlayer()
     {
@@ -63,6 +72,7 @@ public class PlayerController : MonoBehaviour
     public void PlayPhysicalAttackAnimation()
     {
         animator.SetBool("isPhysicalAttacking", true);
+        PlaySound(physicalAttackSound);
     }
 
     public void StopPhysicalAttackAnimation()
@@ -73,6 +83,7 @@ public class PlayerController : MonoBehaviour
     public void PlayMagicAttackAnimation()
     {
         animator.SetBool("isMagicAttacking", true);
+        PlaySound(magicAttackSound);
     }
 
     public void StopMagicAttackAnimation()
@@ -97,5 +108,12 @@ public class PlayerController : MonoBehaviour
         TurnBasedCombatSystem combatSystem = FindObjectOfType<TurnBasedCombatSystem>();
         combatSystem.playerControllers.Remove(this); // Eliminar el jugador de la lista
         Destroy(gameObject); // Destruir el objeto del jugador
+    }
+    void PlaySound(AudioClip clip)
+    {
+        if (clip != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
     }
 }
