@@ -15,6 +15,6 @@ MonoBehaviour:
   characterName: Ghul
   health: 200
   dexterity: 5
-  attack: 40
-  defense: 40
+  attack: 25
+  defense: 25
   intelligence: 0

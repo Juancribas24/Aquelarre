@@ -14,13 +14,21 @@ public class EnemyController : MonoBehaviour
 
     void Start()
     {
-        InitializeEnemy();
+        // Aquí no hacemos nada ya que la inicialización será manejada por TurnBasedCombatSystem
     }
 
-    void InitializeEnemy()
+    public void InitializeEnemy()
     {
-        currentHealth = enemyStats.health;
-        UpdateHealthUI();
+        if (enemyStats != null)
+        {
+            currentHealth = enemyStats.health;
+            Debug.Log(gameObject.name + " initialized with health: " + currentHealth);
+            UpdateHealthUI();
+        }
+        else
+        {
+            Debug.LogError("EnemyStats not assigned in " + gameObject.name);
+        }
     }
 
     public void TakeDamage(int damage)
