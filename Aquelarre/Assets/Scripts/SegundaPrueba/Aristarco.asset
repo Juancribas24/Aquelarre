@@ -15,6 +15,6 @@ MonoBehaviour:
   characterName: Aristarco
   health: 200
   dexterity: 30
-  attack: 100
+  attack: 30
   defense: 30
-  intelligence: 100
+  intelligence: 40

@@ -9,15 +9,33 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 29910335eeee7ad46b7901f33becaa51
   - enabled: 1
-    path: Assets/Scenes/Palacio.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Palacio(Pausa).unity
+    guid: 3cf861ad09282854ab0e1c41ea7d47b7
   - enabled: 1
-    path: Assets/Scenes/Combate.unity
-    guid: 9afc54a2612b3d3478beaa63e22fed59
+    path: Assets/Scenes/Taberna.unity
+    guid: f851fac86da6d9847828246f27338fc4
+  - enabled: 1
+    path: Assets/Scenes/Malaga.unity
+    guid: f4bcd12d2ccca2941bef876bb7c8cf31
+  - enabled: 1
+    path: Assets/Scenes/MalagaTaberna.unity
+    guid: 0b3ab806269377040bd165ad49bfd05c
   - enabled: 1
     path: Assets/Scenes/Bosque.unity
     guid: 02628a5c040308648a41379862e1c932
   - enabled: 1
-    path: Assets/Scenes/Taberna.unity
-    guid: f851fac86da6d9847828246f27338fc4
+    path: Assets/Scenes/Combate.unity
+    guid: 9afc54a2612b3d3478beaa63e22fed59
+  - enabled: 1
+    path: Assets/Scenes/BosqueNoNPC.unity
+    guid: a31a7e0ae3e34e64cbd81238ae02e979
+  - enabled: 1
+    path: Assets/Scenes/Alora.unity
+    guid: d5f493c0887d2b1408c557774618e588
+  - enabled: 1
+    path: Assets/Scenes/Pizarra.unity
+    guid: 3acd6fcb7e23f9945b6a0240d10033d6
+  - enabled: 1
+    path: Assets/Scenes/Campanilla.unity
+    guid: 53d9a41d1a3e4bb41ac684b46639fab9
   m_configObjects: {}

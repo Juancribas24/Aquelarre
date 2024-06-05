@@ -15,6 +15,6 @@ MonoBehaviour:
   characterName: Jugador
   health: 100
   dexterity: 20
-  attack: 100
+  attack: 30
   defense: 20
-  intelligence: 100
+  intelligence: 35
