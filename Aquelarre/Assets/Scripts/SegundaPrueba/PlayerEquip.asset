@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943be25e57e8a6d47b3de39851dfda12, type: 3}
   m_Name: PlayerEquip
   m_EditorClassIdentifier: 
-  characterName: PlayerEquip
+  characterName: Jugador
   health: 100
   dexterity: 20
-  attack: 20
+  attack: 100
   defense: 20
-  intelligence: 20
+  intelligence: 100

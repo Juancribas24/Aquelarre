@@ -93,7 +93,9 @@ public class PlayerController : MonoBehaviour
     void Die()
     {
         // Lógica para manejar la muerte del jugador
-        Debug.Log(playerStats.characterName + " has died.");
-        // Puedes añadir animaciones de muerte u otras lógicas aquí
+        Debug.Log(playerStats.characterName + " ha muerto.");
+        TurnBasedCombatSystem combatSystem = FindObjectOfType<TurnBasedCombatSystem>();
+        combatSystem.playerControllers.Remove(this); // Eliminar el jugador de la lista
+        Destroy(gameObject); // Destruir el objeto del jugador
     }
 }

@@ -68,4 +68,16 @@ public class SceneManagement : MonoBehaviour
         }
         return false;
     }
+
+    public void LoadSceneCategory(string playerChoice)
+    {
+        if (playerChoice == "Noble")
+        {
+            SceneManager.LoadScene("Palacio"); // Asegúrate de que el nombre de la escena coincide con el nombre en los Build Settings
+        }
+        else if (playerChoice == "Plebeyo")
+        {
+            SceneManager.LoadScene("Taberna"); // Asegúrate de que el nombre de la escena coincide con el nombre en los Build Settings
+        }
+    }
 }

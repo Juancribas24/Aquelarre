@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 943be25e57e8a6d47b3de39851dfda12, type: 3}
   m_Name: NPCEquip
   m_EditorClassIdentifier: 
-  characterName: NPCEquip
+  characterName: Npc
   health: 100
   dexterity: 15
   attack: 25

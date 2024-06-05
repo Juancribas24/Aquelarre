@@ -15,6 +15,6 @@ MonoBehaviour:
   characterName: Juana
   health: 100
   dexterity: 20
-  attack: 25
+  attack: 100
   defense: 15
-  intelligence: 35
+  intelligence: 100

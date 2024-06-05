@@ -61,7 +61,9 @@ public class EnemyController : MonoBehaviour
     void Die()
     {
         // Lógica para manejar la muerte del enemigo
-        Debug.Log(enemyStats.characterName + " has died.");
-        // Puedes añadir animaciones de muerte u otras lógicas aquí
+        Debug.Log(enemyStats.characterName + " ha muerto.");
+        TurnBasedCombatSystem combatSystem = FindObjectOfType<TurnBasedCombatSystem>();
+        combatSystem.enemies.Remove(this); // Eliminar el enemigo de la lista
+        Destroy(gameObject); // Destruir el objeto del enemigo
     }
 }
