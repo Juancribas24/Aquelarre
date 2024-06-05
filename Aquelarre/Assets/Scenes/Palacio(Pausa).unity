@@ -3634,14 +3634,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Escuchadme! mi nombre es aristarco de alora! bla bla bla
-
-
-    Mi primo
-    fue atacado y bla bla bla
-
-
-    gran recompensa bla bla bla'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 401aabb93936b0d4bbacbff619329cc5, type: 2}
   m_sharedMaterial: {fileID: -8986883385605711180, guid: 401aabb93936b0d4bbacbff619329cc5, type: 2}
@@ -20193,8 +20186,29 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8713458587633882028, guid: a0b5fba79c8192844bd7379bbe985d71, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1759742451}
   m_SourcePrefab: {fileID: 100100000, guid: a0b5fba79c8192844bd7379bbe985d71, type: 3}
+--- !u!1 &1759742450 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8713458587633882028, guid: a0b5fba79c8192844bd7379bbe985d71, type: 3}
+  m_PrefabInstance: {fileID: 1759742449}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1759742451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759742450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b35aea39410f84c84d9219425bd047, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canvasDialogo: {fileID: 0}
 --- !u!1 &1772221161
 GameObject:
   m_ObjectHideFlags: 0
