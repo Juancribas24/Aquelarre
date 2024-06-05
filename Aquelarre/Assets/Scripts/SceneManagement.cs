@@ -73,7 +73,7 @@ public class SceneManagement : MonoBehaviour
     {
         if (playerChoice == "Noble")
         {
-            SceneManager.LoadScene("Palacio"); // Asegúrate de que el nombre de la escena coincide con el nombre en los Build Settings
+            SceneManager.LoadScene("Palacio(Pausa)"); // Asegúrate de que el nombre de la escena coincide con el nombre en los Build Settings
         }
         else if (playerChoice == "Plebeyo")
         {
