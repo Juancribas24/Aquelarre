@@ -104,6 +104,13 @@ public class TurnBasedCombatSystem : MonoBehaviour
         // Resetear el índice de enemigo seleccionado
         selectedEnemyIndex = -1;
 
+        // Verificar si el combate ha terminado después del ataque
+        if (IsCombatOver())
+        {
+            EndCombat();
+            yield break;
+        }
+
         yield return new WaitForSeconds(2f);
     }
 
@@ -120,6 +127,13 @@ public class TurnBasedCombatSystem : MonoBehaviour
             // Realizar el ataque
             ExecuteEnemyAttack(enemy, target);
             combatLog.text = enemy.characterName + " attacked " + target.playerStats.characterName + ".";
+        }
+
+        // Verificar si el combate ha terminado después del ataque
+        if (IsCombatOver())
+        {
+            EndCombat();
+            yield break;
         }
 
         yield return new WaitForSeconds(2f); // Esperar un poco antes de pasar el turno
@@ -237,6 +251,12 @@ public class TurnBasedCombatSystem : MonoBehaviour
 
             // Aplicar el daño
             target.TakeDamage(damage);
+
+            // Verificar si el enemigo ha muerto
+            if (target.GetCurrentHealth() <= 0)
+            {
+                combatLog.text = target.enemyStats.characterName + " has been defeated!";
+            }
         }
     }
 
@@ -245,6 +265,12 @@ public class TurnBasedCombatSystem : MonoBehaviour
         int damage = CalculateDamage(enemy, target.playerStats, AttackType.Physical); // Puedes variar el tipo de ataque
         target.TakeDamage(damage);
         combatLog.text = enemy.characterName + " attacked " + target.playerStats.characterName + " for " + damage + " damage.";
+
+        // Verificar si el jugador ha muerto
+        if (target.GetCurrentHealth() <= 0)
+        {
+            combatLog.text = target.playerStats.characterName + " has been defeated!";
+        }
     }
 
     int CalculateDamage(CharacterStats attacker, CharacterStats defender, AttackType attackType)

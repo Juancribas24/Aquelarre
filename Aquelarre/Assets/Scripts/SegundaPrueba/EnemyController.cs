@@ -9,6 +9,7 @@ public class EnemyController : MonoBehaviour
     public CharacterStats enemyStats;
     public TextMeshProUGUI healthText;
     public Slider healthBar;
+    public Animator animator; // Referencia al Animator
 
     private int currentHealth;
 
@@ -39,6 +40,11 @@ public class EnemyController : MonoBehaviour
             currentHealth = 0;
         }
         UpdateHealthUI();
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
     }
 
     void UpdateHealthUI()
@@ -50,5 +56,12 @@ public class EnemyController : MonoBehaviour
     public int GetCurrentHealth()
     {
         return currentHealth;
+    }
+
+    void Die()
+    {
+        // Lógica para manejar la muerte del enemigo
+        Debug.Log(enemyStats.characterName + " has died.");
+        // Puedes añadir animaciones de muerte u otras lógicas aquí
     }
 }

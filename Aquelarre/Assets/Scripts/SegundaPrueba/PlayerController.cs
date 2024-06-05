@@ -42,6 +42,11 @@ public class PlayerController : MonoBehaviour
             currentHealth = 0;
         }
         UpdateHealthUI();
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
     }
 
     void UpdateHealthUI()
@@ -78,6 +83,17 @@ public class PlayerController : MonoBehaviour
     public void ExecuteMagicAttack(Vector3 targetPosition)
     {
         GameObject magicAttack = Instantiate(magicAttackPrefab, attackPoint.position, Quaternion.identity);
-        // Aquí puedes añadir cualquier lógica adicional para el ataque mágico
+        MagicAttack magicAttackScript = magicAttack.GetComponent<MagicAttack>();
+        if (magicAttackScript != null)
+        {
+            magicAttackScript.SetTarget(targetPosition);
+        }
+    }
+
+    void Die()
+    {
+        // Lógica para manejar la muerte del jugador
+        Debug.Log(playerStats.characterName + " has died.");
+        // Puedes añadir animaciones de muerte u otras lógicas aquí
     }
 }
