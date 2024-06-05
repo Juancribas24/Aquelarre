@@ -2336,6 +2336,7 @@ GameObject:
   - component: {fileID: 322388765}
   - component: {fileID: 322388767}
   - component: {fileID: 322388766}
+  - component: {fileID: 322388768}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -2360,7 +2361,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 214.53442, y: -238.56937}
+  m_AnchoredPosition: {x: 214.53442, y: -238.56934}
   m_SizeDelta: {x: -629.0688, y: -677.1387}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &322388766
@@ -2401,6 +2402,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 322388764}
   m_CullTransparentMesh: 1
+--- !u!210 &322388768
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 322388764}
+  m_Enabled: 1
+  m_SortingLayerID: -863338635
+  m_SortingLayer: 5
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!1 &374842121
 GameObject:
   m_ObjectHideFlags: 0
@@ -2471,7 +2484,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Caballero
+  m_text: Aventurero
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 401aabb93936b0d4bbacbff619329cc5, type: 2}
   m_sharedMaterial: {fileID: -8986883385605711180, guid: 401aabb93936b0d4bbacbff619329cc5, type: 2}
@@ -2498,10 +2511,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 18.2
-  m_fontSizeBase: 18
+  m_fontSize: 16.11
+  m_fontSizeBase: 16.11
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -3607,6 +3620,7 @@ GameObject:
   - component: {fileID: 546570518}
   - component: {fileID: 546570517}
   - component: {fileID: 546570516}
+  - component: {fileID: 546570519}
   m_Layer: 5
   m_Name: textoDialogo
   m_TagString: Untagged
@@ -3634,7 +3648,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: lorem ipsum
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 401aabb93936b0d4bbacbff619329cc5, type: 2}
   m_sharedMaterial: {fileID: -8986883385605711180, guid: 401aabb93936b0d4bbacbff619329cc5, type: 2}
@@ -3730,6 +3744,18 @@ RectTransform:
   m_AnchoredPosition: {x: 4.1481, y: 2.489}
   m_SizeDelta: {x: 1179.7595, y: 295.0222}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!210 &546570519
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 546570515}
+  m_Enabled: 1
+  m_SortingLayerID: -863338635
+  m_SortingLayer: 5
+  m_SortingOrder: 0
+  m_SortAtRoot: 0
 --- !u!1 &575124162
 GameObject:
   m_ObjectHideFlags: 0
@@ -15702,6 +15728,78 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1014331973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1014331974}
+  - component: {fileID: 1014331976}
+  - component: {fileID: 1014331975}
+  m_Layer: 5
+  m_Name: RawImage
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1014331974
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014331973}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.0607, y: 2.0607, z: 2.0607}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1498795676}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -642, y: -76}
+  m_SizeDelta: {x: 438, y: 570}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1014331975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014331973}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Texture: {fileID: 2800000, guid: 5d258454dc74c064db28c4e3c9983c47, type: 3}
+  m_UVRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+--- !u!222 &1014331976
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014331973}
+  m_CullTransparentMesh: 1
 --- !u!1 &1015160528
 GameObject:
   m_ObjectHideFlags: 0
@@ -18728,13 +18826,14 @@ GameObject:
   - component: {fileID: 1498795674}
   - component: {fileID: 1498795673}
   - component: {fileID: 1498795672}
+  - component: {fileID: 1498795677}
   m_Layer: 5
   m_Name: Canvas_Dialogo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1498795672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18747,11 +18846,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be8abdcaa2d1d4a479f6b2722a8a637b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  canvasInv: {fileID: 509173592}
+  Player: {fileID: 9000315136702454436}
   textoDialogo: {fileID: 546570516}
   lines:
-  - Escuchadme! mi nombre es aristarco de alora! bla bla bla
-  - Mi primo fue atacado y bla bla bla
-  - gran recompensa bla bla bla
+  - "En la ciudad de Toledo, en la ciudad de Granada, ah\xED se criara un mancebo
+    que Diego Le\xF3n se llama. "
+  - Era alto de cuerpo, morenito de cara, delgadito de cintura, mozo criado entre
+    damas.
+  - "De una tal se enamor\xF3, de una muy hermosa dama. Se miran por la verja tambi\xE9n
+    por la ventana."
+  - "De una tal se enamor\xF3, de una muy hermosa dama. Se miran por la verja tambi\xE9n
+    por la ventana."
+  - "Y el d\xEDa que no se ven no les aprovecha nada, ni les aprovecha el pan ni
+    el agua de la ma\xF1ana."
+  - "Un d\xEDa que estaban juntos dijo Le\xF3n a su dama: -Ma\xF1ana te he de pedir,
+    no se si es cosa acertada"
+  - Aunque mi padre no quiera, eso negociado estaba-. Lo que la dama responde al
+    mozo le agradaba
+  - Aunque mi padre no quiera, eso negociado estaba-. Lo que la dama responde al
+    mozo le agradaba
+  - "Otro d\xEDa en la ma\xF1ana con Don Pedro se encontrara. De rodillas en el suelo
+    los buenos d\xEDas le daba."
+  - "Don Pedro dame a tu hija, a tu hija Do\xF1a Juana-. -Mi hija no es de casar
+    que aun es ni\xF1a y muchacha"
+  - "Por hacer burla del caso a su hija lo contara: -Hija, Le\xF3n te ha pedido,
+    v\xE1yase en hora mala"
+  - "Ese sobrete no tiene de caudal para una capa, y el que mi yerno ha de ser ha
+    de menester que traiga, de caudal cien mil ducados y otros tantos de oro y plata,
+    y otros tantos te dar\xE9 hija mi \xA1ay! De mi alma"
+  - Padre casaime con el y aunque nunca me deis nada que los bienes de este mundo
+    Dios los daba y los quitaba
+  - "Ah\xED conoci\xF3 Don Pedro que de amores se trataba, Alquilo cuatro valientes,
+    los mayores de la playa. Que se encontrara a Le\xF3n, que le sacaran el alma."
+  - A la subida de un monte con los cuatro se encontrara, a los tres dejara muertos
+    y el otro malherido estaba.
+  - "Le\xF3n que se vio sin armas a la mar se tira y nada. Unos dicen que muri\xF3
+    Dios perdone su alma, otros dicen que le vieron a la otra parte del agua."
+  - Valiente aventurero, ayudame a encontrar a este mancebo, mi querido primo.
+  - "En alg\xFAn rinc\xF3n ha de estar, malherido."
+  - "Ayudadme a encontrar a mi primo y una recompenza ser\xE1 vuestro destino"
+  - "Encontrad a mi primo y 1200 maraved\xEDes ser\xE1 vuestro destino"
+  - Dirigios a Alora evitando los caminos.
   textSpeed: 0.05
 --- !u!114 &1498795673
 MonoBehaviour:
@@ -18829,6 +18965,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 322388765}
+  - {fileID: 1014331974}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -18836,6 +18973,102 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!82 &1498795677
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1498795671}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: a99a919a9b2288d4bbcb0de96fe6b8f4, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.5
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1980.198
+  MaxDistance: 2000
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1514937501
 GameObject:
   m_ObjectHideFlags: 0
@@ -20190,6 +20423,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 8713458587633882028, guid: a0b5fba79c8192844bd7379bbe985d71, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1759742451}
+    - targetCorrespondingSourceObject: {fileID: 8713458587633882028, guid: a0b5fba79c8192844bd7379bbe985d71, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1759742452}
   m_SourcePrefab: {fileID: 100100000, guid: a0b5fba79c8192844bd7379bbe985d71, type: 3}
 --- !u!1 &1759742450 stripped
 GameObject:
@@ -20208,7 +20444,52 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82b35aea39410f84c84d9219425bd047, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  canvasDialogo: {fileID: 0}
+  canvasDialogo: {fileID: 1498795671}
+--- !u!61 &1759742452
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759742450}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.3, y: 0.5}
+    newSize: {x: 0.3, y: 0.5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.3, y: 0.5}
+  m_EdgeRadius: 1.3
 --- !u!1 &1772221161
 GameObject:
   m_ObjectHideFlags: 0
@@ -25285,6 +25566,10 @@ PrefabInstance:
     - target: {fileID: 6998914177507689609, guid: 7320fcc256ea6654e865395c48cb0711, type: 3}
       propertyPath: m_SortingLayerID
       value: 292368177
+      objectReference: {fileID: 0}
+    - target: {fileID: 7818554104997588761, guid: 7320fcc256ea6654e865395c48cb0711, type: 3}
+      propertyPath: canMove
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8225519042225105411, guid: 7320fcc256ea6654e865395c48cb0711, type: 3}
       propertyPath: m_Name

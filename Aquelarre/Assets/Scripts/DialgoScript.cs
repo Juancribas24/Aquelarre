@@ -5,17 +5,23 @@ using TMPro;
 
 public class DialgoScript : MonoBehaviour
 {
+    public GameObject canvasInv;
+    public GameObject Player;
     public TextMeshProUGUI textoDialogo;
     public string[] lines;
     public float textSpeed;
 
     private int index;
+    private PlayerMovInputSystem inpSys;
 
     // Start is called before the first frame update
     void Start()
     {
+        inpSys = Player.GetComponent<PlayerMovInputSystem>();
         textoDialogo.text = string.Empty;
         StartDialogue();
+        canvasInv.SetActive(false);
+        inpSys.canMove = false;
     }
 
     // Update is called once per frame
@@ -61,6 +67,8 @@ public class DialgoScript : MonoBehaviour
         else 
         { 
             gameObject.SetActive (false);
+            canvasInv.SetActive(true);
+            inpSys.canMove = true;
         }
     }
 
