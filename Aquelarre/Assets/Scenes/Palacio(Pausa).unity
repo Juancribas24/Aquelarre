@@ -18888,6 +18888,8 @@ MonoBehaviour:
   - "Ayudadme a encontrar a mi primo y una recompenza ser\xE1 vuestro destino"
   - "Encontrad a mi primo y 1200 maraved\xEDes ser\xE1 vuestro destino"
   - Dirigios a Alora evitando los caminos.
+  - Sal de Malaga por la puerta Oeste, dirigete al bosque, ten cuidado con la cueva
+    de los ghuls.
   textSpeed: 0.05
 --- !u!114 &1498795673
 MonoBehaviour:

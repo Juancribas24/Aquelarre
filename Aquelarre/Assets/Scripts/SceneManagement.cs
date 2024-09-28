@@ -29,7 +29,7 @@ public class SceneManagement : MonoBehaviour
     public void LoadNextScene()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        int nextSceneIndex = currentSceneIndex + 1;
+        int nextSceneIndex = currentSceneIndex;
 
         if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
         {

@@ -72,7 +72,7 @@ public class PlayerMovInputSystem : MonoBehaviour
 
     void OnMoveCanceled(InputAction.CallbackContext context)
     {
-        if (canMove)
+        if (!canMove)
         {
             moveInput = Vector2.zero;
         }

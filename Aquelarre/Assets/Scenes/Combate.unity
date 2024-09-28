@@ -4513,7 +4513,7 @@ PrefabInstance:
     - target: {fileID: 6354384714439746911, guid: 29b032f6390c773498c82c61b66b84b1, type: 3}
       propertyPath: physicalAttackSound
       value: 
-      objectReference: {fileID: 8300000, guid: ae1b7e3c795c71a4eb3e2521d8fc2ce1, type: 3}
+      objectReference: {fileID: 8300000, guid: c2db3bf5715cabd4396153633fda1078, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
